@@ -1,0 +1,964 @@
+{
+    "products": [
+        {
+            "date_time": "2020-07-06 12:22:28",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-ux431fl-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-14-full-hd-8gb-512gb-ssd-nvidia-geforce-mx250-2gb-free-dos-utopia-blue-metal-ux431fl-am047/pd/D078SWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6335939&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 UX431FL cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 14&quot;, Full HD, 8GB, 512GB SSD, NVIDIA GeForce MX250 2GB, Free DOS, Utopia Blue Metal",
+            "old_price": 3799.99,
+            "price": 3799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:28",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-s14-s431fl-cu-procesor-intelr-coretm-i5-8265u-pana-la-3-90-ghz-whiskey-lake-14-full-hd-8gb-256gb-ssd-nvidia-geforce-mx250-2gb-free-dos-cobalt-blue-s431fl-eb127/pd/DCFJBBMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6379074&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook S14 S431FL cu procesor Intel\u00ae Core\u2122 i5-8265U pana la 3.90 GHz Whiskey Lake, 14&quot;, Full HD, 8GB, 256GB SSD, NVIDIA GeForce MX250 2GB, Free DOS, Cobalt Blue",
+            "old_price": 3199.99,
+            "price": 3199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:28",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-g531gt-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-120hz-8gb-256gb-ssd-geforce-gtx-1650-4gb-free-dos-black-g531gt-al042/pd/D2PRRWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=56602429&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G G531GT cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, Full HD, 120Hz, 8GB, 256GB SSD, GeForce GTX 1650 4GB, Free DOS, Black",
+            "old_price": 4815.0,
+            "price": 4815.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-15-ux533fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-15-6-uhd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-home-icicle-silver-ux533fac-aa111/pd/D6XRYWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6231288&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 15 UX533FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 15.6&quot;, UHD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Home, Icicle Silver",
+            "old_price": 4999.99,
+            "price": 4999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-s14-s431fa-cu-procesor-intelr-coretm-i5-8265u-pana-la-3-90-ghz-whiskey-lake-14-full-hd-8gb-512gb-ssd-intel-uhd-graphics-620-cobalt-blue-s431fa-eb109/pd/D7FJBBMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6379059&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook S14 S431FA cu procesor Intel\u00ae Core\u2122 i5-8265U pana la 3.90 GHz Whiskey Lake, 14&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Cobalt Blue",
+            "old_price": 2999.99,
+            "price": 2999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-k512ja-cu-procesor-intelr-coretm-i7-1065g7-pana-la-3-90-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-iristm-plus-graphics-free-dos-transparent-silver-k512ja-ej374/pd/D7NSCMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6530215&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook K512JA cu procesor Intel\u00ae Core\u2122 i7-1065G7 pana la 3.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae Iris\u2122 Plus Graphics, Free DOS, Transparent Silver",
+            "old_price": 3299.99,
+            "price": 3299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509ja-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-15-6-full-hd-4gb-1tb-hdd-intelr-uhd-graphics-free-dos-transparent-x509ja-ej062/pd/DK949MMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6504288&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JA cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz, 15.6&quot;, Full HD, 4GB, 1TB HDD, Intel\u00ae UHD Graphics, Free DOS, Transparent",
+            "old_price": 1649.99,
+            "price": 1649.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509jb-cu-procesor-intelr-coretm-i5-1035g1-pana-la-3-60-ghz-15-6-full-hd-8gb-1tb-hdd-nvidiar-geforcer-mx110-2gb-free-dos-transparent-silver-x509jb-ej014/pd/D1QJ3YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=59061459&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JB cu procesor Intel\u00ae Core\u2122 i5-1035G1 pana la 3.60 GHz, 15.6&quot;, Full HD, 8GB, 1TB HDD, NVIDIA\u00ae GeForce\u00ae MX110 2GB, Free DOS, Transparent Silver",
+            "old_price": 2799.0,
+            "price": 2799.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x543ma-cu-procesor-intelr-celeronr-n4000-pana-la-2-60-ghz-15-6-hd-4gb-256gb-ssd-intel-uhd-graphics-600-windows-10-home-star-gray-x543ma-go929t/pd/DYXRRWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6358390&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X543MA cu procesor Intel\u00ae Celeron\u00ae N4000 pana la 2.60 GHz, 15.6&quot;, HD, 4GB, 256GB SSD, Intel UHD Graphics 600, Windows 10 Home, Star Gray",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-s14-s431fa-cu-procesor-intelr-coretm-i5-8265u-pana-la-3-90-ghz-whiskey-lake-14-full-hd-8gb-256gb-ssd-intel-uhd-graphics-620-free-dos-moss-green-s431fa-eb061/pd/DJ3B5GBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6185325&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook S14 S431FA cu procesor Intel\u00ae Core\u2122 i5-8265U pana la 3.90 GHz Whiskey Lake, 14&quot;, Full HD, 8GB, 256GB SSD, Intel UHD Graphics 620, Free DOS, Moss Green",
+            "old_price": 2999.99,
+            "price": 2999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509jp-cu-procesor-intelr-coretm-i7-1065g7-pana-la-3-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx330-2gb-free-dos-transparent-silver-x509jp-ej044/pd/DLQJ3YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6606866&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JP cu procesor Intel\u00ae Core\u2122 i7-1065G7 pana la 3.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX330 2GB, Free DOS, Transparent Silver",
+            "old_price": 3299.99,
+            "price": 3299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-m509da-cu-procesor-amd-ryzentm-3-3250u-pana-la-3-50-ghz-15-6-full-hd-8gb-512gb-ssd-amd-radeontm-integrated-graphics-free-dos-slate-grey-m509da-ej371/pd/DGG4DYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6626327&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS M509DA cu procesor AMD Ryzen\u2122 3 3250U pana la 3.50 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, AMD Radeon\u2122 Integrated Graphics, Free DOS, Slate Grey",
+            "old_price": 2099.99,
+            "price": 2099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-pro-duo-ux581gv-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-4k-16gb-512gb-ssd-nvidia-geforce-rtx-2060-6gb-windows-10-pro-celestial-blue-ux581/pd/D3NB26BBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=5923038&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook Pro Duo UX581GV cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, 4K, 16GB, 512GB SSD, NVIDIA GeForce RTX 2060 6GB, Windows 10 Pro, Celestial Blue",
+            "old_price": 9499.99,
+            "price": 9499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-fx505gt-cu-procesor-intelr-coretm-i5-9300h-pana-la-4-10-ghz-15-6-full-hd-120hz-8gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-free-dos-black-fx505gt-al037/pd/DVDQXYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6677034&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF FX505GT cu procesor Intel\u00ae Core\u2122 i5-9300H pana la 4.10 GHz, 15.6&quot;, Full HD, 120Hz, 8GB, 512GB SSD, NVIDIA GeForce GTX 1650 4GB, Free DOS, Black",
+            "old_price": 3199.99,
+            "price": 3199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-mothership-gz700gx-cu-procesor-intelr-coretm-i9-9980hk-pana-la-5-00-ghz-coffee-lake-17-3-full-hd-ips-144hz-g-sync-64gb-1-5tb-ssd-nvidiar-geforce-rtxtm-2080-8gb-windows-10-black-/pd/DMTVG6BBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6070763&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view#used-products",
+            "name": "Laptop Gaming ASUS ROG Mothership GZ700GX cu procesor Intel\u00ae Core\u2122 i9-9980HK pana la 5.00 GHz Coffee Lake, 17.3&quot;, Full HD, IPS, 144Hz, G-Sync, 64GB, 1.5TB SSD, NVIDIA\u00ae GeForce RTX\u2122 2080 8GB, Windows 10, Black",
+            "old_price": 23749.99,
+            "price": 23749.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-g531g-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-120hz-ips-8gb-1tb-ssd-nvidia-geforce-gtx-1650-4gb-free-dos-black-g531gt-al013/pd/DL740WBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6295684&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G G531G cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, Full HD, 120Hz, IPS, 8GB, 1TB SSD, NVIDIA GeForce GTX 1650 4GB, Free DOS, Black",
+            "old_price": 4599.99,
+            "price": 4599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffe-lake-17-3-full-hd-120hz-8gb-1tb-ssd-nvidia-geforce-gtx-1650-4gb-free-dos-black-g731gt-h7179/pd/DBJSXWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6311021&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffe Lake, 17.3&quot;, Full HD, 120Hz, 8GB, 1TB SSD, NVIDIA GeForce GTX 1650 4GB, Free DOS, Black",
+            "old_price": 5299.99,
+            "price": 5299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-a15-fx506ii-cu-procesor-amd-ryzen-7-4800h-pana-la-4-30-ghz-15-6-full-hd-144hz-8gb-1tb-hdd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-fortress-gray-fx506ii-al091/pd/DLHBTMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6486421&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF A15 FX506II cu procesor AMD Ryzen 7 4800H pana la 4.30 GHz, 15.6&quot; ,Full HD, 144Hz, 8GB, 1TB HDD, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, Fortress Gray",
+            "old_price": 3899.99,
+            "price": 3899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-fx505dt-al086-amd-ryzentm-5-3550h-8gb-ddr4-ssd-256gb-nvidia-geforce-gtx-1650-4gb-free-dos-139253/pd/D8XBBBMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=55782214&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming Asus TUF FX505DT-AL086, AMD Ryzen\u2122 5 3550H, 8GB DDR4, SSD 256GB, NVIDIA GeForce GTX 1650 4GB, Free DOS",
+            "old_price": 2999.99,
+            "price": 2999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-fx505dt-cu-procesor-amdr-ryzentm-5-3550h-pana-la-3-70-ghz-15-6-full-hd-8gb-256gb-ssd-nvidiar-geforcer-gtx-1650-4gb-free-dos-stealth-black-fx505dt-bq180/pd/DTQ2JBMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=59107152&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF FX505DT cu procesor AMD\u00ae Ryzen\u2122 5 3550H pana la 3.70 GHz, 15.6&quot;, Full HD, 8GB, 256GB SSD, NVIDIA\u00ae GeForce\u00ae GTX 1650 4GB, Free DOS, Stealth Black",
+            "old_price": 2999.0,
+            "price": 2999.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509ja-cu-procesor-intelr-coretm-i5-1035g1-pana-la-3-60-ghz-15-6-full-hd-8gb-1tb-hdd-intelr-uhd-graphics-free-dos-transparent-silver-x509ja-ej059/pd/D4XTCMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6528004&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JA cu procesor Intel\u00ae Core\u2122 i5-1035G1 pana la 3.60 GHz, 15.6&quot;, Full HD, 8GB, 1TB HDD, Intel\u00ae UHD Graphics, Free DOS, Transparent Silver",
+            "old_price": 2399.99,
+            "price": 2399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-um431da-cu-procesor-amd-ryzentm-5-3500u-pana-la-3-70-ghz-14-full-hd-8gb-512gb-ssd-radeontm-vega-8-graphics-windows-10-pro-utopia-blue-metal-um431da-am007r/pd/D2Q2JBMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6434635&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 UM431DA cu procesor AMD Ryzen\u2122 5 3500U pana la 3.70 GHz, 14&quot;, Full HD, 8GB, 512GB SSD, Radeon\u2122 Vega 8 Graphics, Windows 10 Pro, Utopia Blue Metal",
+            "old_price": 3599.99,
+            "price": 3599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-ux434fa-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-14-0-full-hd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-home-royal-blue-ux434fac-a5099t/pd/DCXTCMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6528005&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS UX434FA cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz, 14.0&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Home, Royal Blue",
+            "old_price": 4299.99,
+            "price": 4299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-a17-fx706ii-cu-procesor-amd-ryzen-7-4800h-pana-la-4-30-ghz-17-3-full-hd-120hz-8gb-1tb-hdd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-bonfire-black-fx706ii-h7052/pd/DZHBTMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6486422&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF A17 FX706II cu procesor AMD Ryzen 7 4800H pana la 4.30 GHz, 17.3&quot;, Full HD, 120Hz, 8GB 1TB HDD, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, Bonfire Black",
+            "old_price": 4199.99,
+            "price": 4199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-17-m712dk-cu-procesor-amd-ryzen-3-3200u-pana-la-3-50-ghz-17-3-full-hd-8gb-256gb-ssd-amd-radeontm-r540x-2gb-free-dos-transparent-silver-m712dk-au035/pd/D2JSXWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6311027&X-Search-Page=1&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook 17 M712DK cu procesor AMD Ryzen 3 3200U pana la 3.50 GHz, 17.3&quot;, Full HD, 8GB, 256GB SSD, AMD Radeon\u2122 R540X 2GB, Free DOS, TRANSPARENT SILVER",
+            "old_price": 2299.99,
+            "price": 2299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509ja-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-15-6-full-hd-4gb-256gb-ssd-intelr-uhd-graphics-free-dos-slate-gray-x509ja-ej025/pd/DGX49MMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=57877324&X-Search-Page=1&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JA cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz, 15.6&quot;, Full HD, 4GB, 256GB SSD, Intel\u00ae UHD Graphics, Free DOS, Slate Gray",
+            "old_price": 1879.0,
+            "price": 1879.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-iii-g531gw-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-240hz-16gb-512gb-ssd-nvidiar-geforce-rtxtm-2070-8gb-free-dos-gunmetal-gray-g53/pd/DT9RYWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6231299&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix SCAR III G531GW cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, Full HD, 240Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2070 8GB, Free DOS, Gunmetal Gray",
+            "old_price": 8999.99,
+            "price": 8999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-13-ux333fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-13-3-full-hd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-pro-royal-blue-ux333fac-a3087/pd/DJXRYWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6231277&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil Asus ZenBook 13 UX333FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 13.3&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Pro, Royal Blue",
+            "old_price": 4299.99,
+            "price": 4299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x512da-with-processor-amd-ryzen-5-3500u-up-to-3-70-ghz-15-6-full-hd-8gb-512gb-ssd-amd-radeontm-vega-8-free-dos-transparent-silver-x512da-ej171/pd/D6RSNWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=55287390&X-Search-Page=1&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X512DA with processor AMD Ryzen 5 3500U up to 3.70 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, AMD Radeon\u2122 Vega 8, Free DOS, Transparent Silver",
+            "old_price": 2249.0,
+            "price": 2249.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-14-x412fa-cu-processor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-14-full-hd-8gb-512gb-ssd-intelr-hd-graphics-630-transparent-silver-x412fa-ek1105/pd/DRR20YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6652623&X-Search-Page=1&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook 14 X412FA cu processor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 14\u201d, Full HD, 8GB, 512Gb SSD, Intel\u00ae HD Graphics 630, Transparent Silver",
+            "old_price": 2999.99,
+            "price": 2999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-15-x512jp-cu-procesor-intelr-coretm-i7-1065g7-pana-la-3-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx330-2gb-free-dos-transparent-silver-x512jp-ej176/pd/DWR20YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6652628&X-Search-Page=1&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook 15 X512JP cu procesor Intel\u00ae Core\u2122 i7-1065G7 pana la 3.90 GHz, 15.6\u201d, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX330 2GB, Free DOS, Transparent Silver",
+            "old_price": 3399.99,
+            "price": 3399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-a15-fa506iu-cu-procesor-amd-ryzen-7-4800h-pana-la-4-30-ghz-15-6-full-hd-144hz-8gb-1tb-ssd-nvidia-geforce-gtx-1660ti-6gb-free-dos-bonfire-black-fa506iu-al081/pd/DYPBTMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6486435&X-Search-Page=1&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF A15 FA506IU cu procesor AMD Ryzen 7 4800H pana la 4.30 GHz, 15.6&quot;, Full HD, 144Hz, 8GB 1TB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Bonfire Black",
+            "old_price": 4799.99,
+            "price": 4799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-zephyrus-s15-gx502lws-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-00-ghz-15-6-full-hd-300hz-16gb-1tb-ssd-nvidiar-geforce-rtxtm-2070-super-8gb-windows-10-home-brushed-black-gx5/pd/D8PPFYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6695160&X-Search-Page=1&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Zephyrus S15 GX502LWS cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.00 GHz, 15.6&quot;, Full HD, 300Hz, 16GB, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 2070 Super, 8GB, Windows 10 Home, Brushed Black",
+            "old_price": 11999.99,
+            "price": 11999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-pro-duo-ux581gv-cu-procesor-intelr-coretm-i9-9980hk-pana-la-5-00-ghz-coffee-lake-15-6-4k-32gb-1tb-ssd-m-2-nvidia-geforce-rtx-2060-6gb-windows-10-pro-celestial-blue-ux/pd/DN9FJ6BBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=5963500&X-Search-Page=1&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook Pro Duo UX581GV cu procesor Intel\u00ae Core\u2122 i9-9980HK pana la 5.00 GHz Coffee Lake, 15.6&quot;, 4K, 32GB, 1TB SSD M.2, NVIDIA GeForce RTX 2060 6GB, Windows 10 Pro, Celestial Blue",
+            "old_price": 17199.99,
+            "price": 17199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-g531gt-cu-procesor-intelr-coretm-i5-9300h-pana-la-4-10-ghz-coffee-lake-15-6-full-hd-120hz-ips-16gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-free-dos-black-g531gt-al166/pd/DZ740WBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6295683&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G G531GT cu procesor Intel\u00ae Core\u2122 i5-9300H pana la 4.10 GHz Coffee Lake, 15.6&quot;, Full HD, 120Hz, IPS, 16GB, 512GB SSD, NVIDIA GeForce GTX 1650 4GB, Free DOS, Black",
+            "old_price": 4499.99,
+            "price": 4499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-2-in-1-asus-vivobook-flip-14-tp412fa-cu-procesor-intelr-coretm-i3-10110u-pana-la-4-10-ghz-14-full-hd-4gb-256gb-ssd-intelr-uhd-graphics-windows-10-home-star-grey-tp412fa-ec480t/pd/D04L4YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6726684&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop 2 in 1 ASUS VivoBook Flip 14 TP412FA cu procesor Intel\u00ae Core\u2122 i3-10110U pana la 4.10 GHz, 14&quot;, Full HD, 4GB, 256GB SSD, Intel\u00ae UHD Graphics, Windows 10 Home, Star Grey",
+            "old_price": 2899.99,
+            "price": 2899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-g531gu-cu-procesor-intelr-coretm-i5-9300h-pana-la-4-10-ghz-coffee-lake-15-6-full-hd-120hz-16gb-512gb-ssd-nvidia-geforce-gtx-1660ti-6gb-free-dos-black-g531gu-al315/pd/DQFSXWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6311017&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G G531GU cu procesor Intel\u00ae Core\u2122 i5-9300H pana la 4.10 GHz Coffee Lake, 15.6&quot;, Full HD, 120Hz, 16GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Black",
+            "old_price": 5199.99,
+            "price": 5199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fa-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-hd-graphics-520-free-dos-punk-pink-s531fa-bq307/pd/DFP7FYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6691818&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FA cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae HD Graphics 520, Free DOS, Punk Pink",
+            "old_price": 3199.99,
+            "price": 3199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-m509da-cu-procesor-amd-ryzen-5-3500u-pana-la-3-70-ghz-15-6-full-hd-8gb-512gb-ssd-amd-radeontm-vega-8-graphics-free-dos-transparent-silver-m509da-ej025/pd/DKK8SWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6335947&X-Search-Page=1&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS M509DA cu procesor AMD Ryzen 5 3500U pana la 3.70 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, AMD Radeon\u2122 Vega 8 Graphics, Free DOS, Transparent Silver",
+            "old_price": 1899.99,
+            "price": 1899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-flip-14-um462da-cu-procesor-amd-ryzen-7-3700u-pana-la-4-00-ghz-14-full-hd-touch-16gb-512gb-ssd-amd-radeontm-rx-vega-10-windows-10-pro-light-grey-um462da-ai026r/pd/DJ740WBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6295678&X-Search-Page=1&X-Search-Position=39&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook Flip 14 UM462DA cu procesor AMD Ryzen 7 3700U pana la 4.00 GHz, 14&quot;, Full HD, Touch, 16GB, 512GB SSD, AMD Radeon\u2122 RX Vega 10, Windows 10 Pro, Light Grey",
+            "old_price": 4199.99,
+            "price": 4199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-14-x412fa-cu-processor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-14-full-hd-8gb-512gb-ssd-intelr-hd-graphics-630-free-dos-transparent-silver-x412fa-ek657/pd/DQR20YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6652622&X-Search-Page=1&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook 14 X412FA cu processor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz, 14\u201d, Full HD, 8GB, 512GB SSD, Intel\u00ae HD Graphics 630, Free DOS, Transparent Silver",
+            "old_price": 2599.99,
+            "price": 2599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g17-g712lu-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-0-ghz-17-3-full-hd-120hz-16gb-512gb-ssd-nvidia-geforce-gtx-1660ti-6gb-free-dos-black-g712lu-h7015/pd/D0NK9MMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6503226&X-Search-Page=1&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G17 G712LU cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.0 GHz, 17.3&quot;, Full HD, 120Hz, 16GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Black",
+            "old_price": 6149.99,
+            "price": 6149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-zephyrus-s-gx701g-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-17-3-full-hd-300hz-16gb-1tb-ssd-nvidiar-geforcer-rtx-2080-8gb-windows-10-home-black-gx701gxr-hg165t/pd/DT949MMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6504289&X-Search-Page=1&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Zephyrus S GX701G cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz, 17.3&quot;, Full HD, 300Hz, 16GB, 1TB SSD, NVIDIA\u00ae GeForce\u00ae RTX 2080 8GB, Windows 10 Home, Black",
+            "old_price": 13999.99,
+            "price": 13999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-fx505dt-cu-procesor-amd-ryzen-7-3750h-pana-la-4-00-ghz-15-6-full-hd-ips-8gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-free-dos-stealth-black-fx505dt-bq030/pd/D8FSXWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=58741660&X-Search-Page=1&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF FX505DT cu procesor AMD Ryzen 7 3750H pana la 4.00 GHz, 15.6&quot;, Full HD, IPS, 8GB, 512GB SSD, NVIDIA GeForce GTX 1650 4GB, Free DOS, Stealth Black",
+            "old_price": 3289.99,
+            "price": 3289.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-15-g532lws-cu-procesor-intelr-coretm-i9-10980hk-pana-la-5-30-ghz-15-6-full-hd-300hz-32gb-512gb-512gb-ssd-raid-nvidiar-geforce-rtxtm-2070-super-8gb-free-dos-black-g532/pd/DLKK9MMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6503205&X-Search-Page=1&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix SCAR 15 G532LWS cu procesor Intel\u00ae Core\u2122 i9-10980HK pana la 5.30 GHz, 15.6&quot;, Full HD, 300Hz, 32GB, 512GB+512GB SSD RAID, NVIDIA\u00ae GeForce RTX\u2122 2070 Super 8GB, Free DOS, Black",
+            "old_price": 11499.99,
+            "price": 11499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-x403ja-cu-procesor-intelr-coretm-i5-1035g1-pana-la-3-60-ghz-14-full-hd-8gb-512gb-ssd-intelr-uhd-graphics-endless-os-silver-blue-x403ja-bm005/pd/DV48NYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6651279&X-Search-Page=1&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 X403JA cu procesor Intel\u00ae Core\u2122 i5-1035G1 pana la 3.60 GHz, 14&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, Endless OS, Silver Blue",
+            "old_price": 3299.99,
+            "price": 3299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g15-g512li-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-0-ghz-15-6-full-hd-144hz-16gb-512gb-ssd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-black-g512li-al036/pd/D938PMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6500434&X-Search-Page=1&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G15 G512LI cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.0 GHz, 15.6&quot;, Full HD, 144Hz, 16GB 512GB SSD, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, Black",
+            "old_price": 5299.99,
+            "price": 5299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-15-6inch-intel-celeron-n4020-4gb-ssd-256gb-no-os-slate-grey-x509ma-br302/pd/D7XFRYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=59828647&X-Search-Page=1&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509MA-BR302, 15.6inch Intel Celeron, N4020 4GB SSD 256GB, No OS, Slate Grey",
+            "old_price": 1170.99,
+            "price": 1170.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-ux434fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-14-full-hd-8gb-512gb-ssd-intelr-uhd-graphics-620-windows-10-home-icicle-silver-ux434fac-a5300t/pd/DRQJ3YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6606870&X-Search-Page=1&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 UX434FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz, 14&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics 620, Windows 10 Home, Icicle Silver",
+            "old_price": 4199.99,
+            "price": 4199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-a17-fx706ii-cu-procesor-amd-ryzentm-5-4600h-pana-la-4-0-ghz-17-3-full-hd-8gb-512gb-ssd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-black-fx706ii-au038/pd/DGQJ3YMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=58926165&X-Search-Page=1&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF A17 FX706II cu procesor AMD Ryzen\u2122 5 4600H pana la 4.0 GHz, 17.3&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00a0GeForce\u00a0GTX\u00a01650\u00a0Ti 4GB, Free DOS, Black",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-13-ux333flc-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-13-3-full-hd-8gb-256gb-ssd-nvidia-geforce-mx250-2gb-windows-10-home-royal-blue-ux333flc-a3/pd/DXXRYWBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6231274&X-Search-Page=1&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil Asus ZenBook 13 UX333FLC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 13.3&quot;, Full HD, 8GB, 256GB SSD, NVIDIA GeForce MX250 2GB, Windows 10 Home, Royal Blue",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g15-g512lv-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-0-ghz-15-6-full-hd-144hz-16gb-512gb-ssd-nvidiar-geforce-rtxtm-2060-6gb-free-dos-black-g512lv-hn033/pd/DMNK9MMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=59295320&X-Search-Page=1&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G15 G512LV cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.0 GHz, 15.6&quot;, Full HD, 144Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2060 6GB, Free DOS, Black",
+            "old_price": 6295.1,
+            "price": 6295.1,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509ja-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-uhd-graphics-free-dos-slate-grey-x509ja-ej142/pd/D6MRGMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6581828&X-Search-Page=1&X-Search-Position=52&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JA cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, Free DOS, Slate Grey",
+            "old_price": 2099.99,
+            "price": 2099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-tuf-gaming-fx505dt-bq190/pd/DTBRJBMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=56441703&X-Search-Page=1&X-Search-Position=53&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Asus TUF Gaming FX505DT-BQ190",
+            "old_price": 3299.0,
+            "price": 3299.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-ux433fac-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-14-full-hd-16gb-1tb-ssd-intelr-uhd-graphics-620-windows-10-home-royal-blue-ux433fac-ai390t/pd/D0JGSMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=58219337&X-Search-Page=1&X-Search-Position=54&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 UX433FAC cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 14&quot;, Full HD, 16GB, 1TB SSD, Intel\u00ae UHD Graphics 620, Windows 10 Home, Royal Blue",
+            "old_price": 5628.7,
+            "price": 5628.7,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-s14-s431fl-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-14-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx250-2gb-free-dos-cobalt-blue-s431fl-eb276/pd/DBXPFYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6695162&X-Search-Page=1&X-Search-Position=55&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook S14 S431FL cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 14&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX250 2GB, Free DOS, Cobalt Blue",
+            "old_price": 3799.99,
+            "price": 3799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-a17-fa706iu-cu-procesor-amd-ryzen-7-4800h-pana-la-4-30-ghz-17-3-full-hd-120hz-8gb-512gb-ssd-nvidia-geforce-gtx-1660ti-6gb-free-dos-fortress-gray-fa706iu-h7055/pd/DMPBTMMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6486432&X-Search-Page=1&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF A17 FA706IU cu procesor AMD Ryzen 7 4800H pana la 4.30 GHz, 17.3&quot;, Full HD, 120Hz, 8GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Fortress Gray",
+            "old_price": 4749.99,
+            "price": 4749.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-x509jb-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-15-6-full-hd-8gb-256gb-ssd-nvidiar-geforcer-mx110-2gb-free-dos-slate-grey-x509jb-ej063/pd/D8G4DYMBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=57757777&X-Search-Page=1&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JB cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz, 15.6&quot;, Full HD, 8GB, 256GB SSD, NVIDIA\u00ae GeForce\u00ae MX110 2GB, Free DOS, Slate Grey",
+            "old_price": 2197.93,
+            "price": 2197.93,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-g531gt-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-ips-8gb-512gb-ssd-m-2-nvidia-geforce-gtx-1650-4gb-free-dos-black-g531gt-al004/pd/D4X2N5BBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=53523870&X-Search-Page=1&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG G531GT cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz, Coffee Lake, 15.6&quot;, Full HD IPS, 8GB, 512GB SSD M.2, NVIDIA GeForce GTX 1650 4GB, Free DOS, Black",
+            "old_price": 5236.0,
+            "price": 5236.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:29",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-pro-nx580gd-cu-procesor-intelr-coretm-i5-8300h-pana-la-4-00-ghz-coffee-lake-15-6-full-hd-8gb-512gb-ssd-nvidia-geforce-gtx-1050-4gb-endless-os-grey-metal-nx580gd-e4649/pd/DFT08WBBM/?X-Search-Id=5ec6732620b279106e81&X-Product-Id=6365591&X-Search-Page=1&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook Pro NX580GD cu procesor Intel\u00ae Core\u2122 i5-8300H pana la 4.00 GHz Coffee Lake, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA GeForce GTX 1050 4GB, Endless OS, Grey Metal",
+            "old_price": 3399.99,
+            "price": 3399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-pro-nx580gd-cu-procesor-intelr-coretm-i7-8750h-pana-la-4-10-ghz-coffee-lake-15-6-full-hd-8gb-256gb-ssd-nvidia-geforce-gtx-1050-4gb-endless-os-grey-metal-nx580gd-e4696/pd/DBXRYWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6231261&X-Search-Page=2&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook Pro NX580GD cu procesor Intel\u00ae Core\u2122 i7-8750H pana la 4.10 GHz Coffee Lake, 15.6&quot;, Full HD, 8GB, 256GB SSD, NVIDIA GeForce GTX 1050 4GB, Endless OS, Grey Metal",
+            "old_price": 3899.99,
+            "price": 3899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-a15-fa506iu-cu-procesor-amd-ryzentm-7-4800h-pana-la-4-20-ghz-15-6-ful-hd-144hz-ips-8gb-512gb-ssd-nvidiar-geforcer-gtx-1660ti-6gb-free-dos-bonfire-black-fa506iu-al048/pd/DJDD1BMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=57106302&X-Search-Page=2&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF A15 FA506IU cu procesor AMD Ryzen\u2122 7 4800H pana la 4.20 GHz, 15.6&quot;, Ful HD, 144Hz, IPS, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae GTX 1660Ti 6GB, Free DOS, Bonfire Black",
+            "old_price": 5699.99,
+            "price": 5699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fl-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx250-2gb-free-dos-rose-gold-s531fl-bq675/pd/DPP7FYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6691815&X-Search-Page=2&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FL cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX250 2GB, Free DOS, Rose Gold",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-ux433fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-14-full-hd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-pro-royal-blue-ux433fac-a5175r/pd/DTD12WBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6238554&X-Search-Page=2&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 UX433FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 14&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Pro, Royal Blue",
+            "old_price": 4199.99,
+            "price": 4199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-15-6-vivobook-intel-core-i3-1005g1-8gb-ddr4-ssd-256gb-intel-uhd-no-os-blue-x512ja-ej351/pd/D6C8KYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59178654&X-Search-Page=2&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Asus 15.6&quot; Vivobook X512JA-EJ351 Intel Core I3-1005G1, 8GB DDR4, SSD 256GB, Intel UHD, NO OS, Blue",
+            "old_price": 2234.99,
+            "price": 2234.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-ice-lake-15-6-full-hd-memorie-4-gb-256-gb-ssd-video-dedicat-nvidia-mx110-2-gb-fara-sistem-de-operare-fara-unitate-optica-si-retea-pe-fi/pd/D8FGSMMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=57757770&X-Search-Page=2&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JB-EJ056 cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz ice Lake, 15.6&quot;, Full HD, memorie 4 GB, 256 GB SSD, video dedicat NVIDIA MX110 2 GB, fara sistem de operare, fara unitate optica si retea pe fir integrate, gri",
+            "old_price": 1963.5,
+            "price": 1963.5,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-um431da-cu-procesor-amdr-ryzen-5-3500u-pana-la-3-70-ghz-14-full-hd-8gb-1tb-ssd-amd-radeontm-vega-8-graphics-endless-os-utopia-blue-metal-um431da-am028/pd/DD9XW6BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6004152&X-Search-Page=2&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook UM431DA cu procesor AMD\u00ae Ryzen 5 3500U pana la 3.70 GHz, 14&quot;, Full HD, 8GB, 1TB SSD, AMD Radeon\u2122 Vega 8 Graphics, Endless OS, Utopia Blue Metal",
+            "old_price": 3399.99,
+            "price": 3399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-15-g532lws-cu-procesor-intelr-coretm-i7-10875h-pana-la-5-1-ghz-15-6-full-hd-240hz-16gb-512gb-ssd-nvidiar-geforce-rtxtm-2070-super-8gb-free-dos-black-g532lws-az086/pd/DVKK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6503202&X-Search-Page=2&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix SCAR 15 G532LWS cu procesor Intel\u00ae Core\u2122 i7-10875H pana la 5.1 GHz, 15.6&quot;, Full HD, 240Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2070 Super 8GB, Free DOS, Black",
+            "old_price": 9199.99,
+            "price": 9199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-s14-s431fl-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-14-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx250-2gb-free-dos-gun-metal-gray-s431fl-eb275/pd/DYXPFYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6695163&X-Search-Page=2&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook S14 S431FL cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 14&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX250 2GB, Free DOS, Gun Metal Gray",
+            "old_price": 3799.99,
+            "price": 3799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-zenbook-15-ux534fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-90-ghz-comet-lake-15-6-uhd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-home-royal-blue-ux534fac-aa141t/pd/DLDQXYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6677037&X-Search-Page=2&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS ZenBook 15 UX534FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.90 GHz Comet Lake, 15.6&quot;, UHD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Home, Royal Blue",
+            "old_price": 5499.99,
+            "price": 5499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-13-ux334fac-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-13-3-full-hd-16gb-512gb-ssd-intelr-uhd-graphics-620-windows-10-pro-royal-blue-ux333fac-a3164r/pd/DK4L4YMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6726682&X-Search-Page=2&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 13 UX334FAC cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 13.3&quot;, Full HD, 16GB, 512GB SSD, Intel\u00ae UHD Graphics 620, Windows 10 Pro, Royal Blue",
+            "old_price": 5099.99,
+            "price": 5099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-x509ja-cu-procesor-intelr-coretm-i5-1035g1-pana-la-3-60-ghz-ice-lake-15-6-full-hd-8gb-256gb-ssd-intelr-uhd-graphics-windows-10-home-slate-gray-x509ja-ej028t/pd/DZ28SWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=58799867&X-Search-Page=2&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JA cu procesor Intel\u00ae Core\u2122 i5-1035G1 pana la 3.60 GHz Ice Lake, 15.6&quot;, Full HD, 8GB, 256GB SSD, Intel\u00ae UHD Graphics, Windows 10 Home, Slate Gray",
+            "old_price": 3099.99,
+            "price": 3099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-ux333fac-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-comet-lake-13-3-full-hd-8gb-512gb-ssd-intel-uhd-graphics-windows-10-home-royal-blue-ux333fac-a3124t/pd/D3T6M8BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6012863&X-Search-Page=2&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS UX333FAC cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz Comet Lake, 13.3&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics, Windows 10 Home, Royal Blue",
+            "old_price": 4799.99,
+            "price": 4799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-17-g732lw-cu-procesor-intelr-coretm-i7-10875h-pana-la-5-10-ghz-17-3-full-hd-144hz-16gb-512gb-ssd-nvidiar-geforce-rtxtm-2070-8gb-free-dos-black-g732lw-ev039/pd/DYVTJYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6706022&X-Search-Page=2&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix SCAR 17 G732LW cu procesor Intel\u00ae Core\u2122 i7-10875H pana la 5.10 GHz, 17.3\u201d, Full HD, 144Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2070 8GB, Free DOS, Black",
+            "old_price": 7999.99,
+            "price": 7999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-x509jb-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-15-6-full-hd-4gb-256gb-ssd-nvidiar-geforcer-mx110-2gb-free-dos-slate-grey-x509jb-ej056/pd/D7JGSMMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59804453&X-Search-Page=2&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JB cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz, 15.6&quot;, Full HD, 4GB, 256GB SSD, NVIDIA\u00ae GeForce\u00ae MX110 2GB, Free DOS, Slate Grey",
+            "old_price": 1933.99,
+            "price": 1933.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-fx705dt-cu-procesor-amdr-ryzentm-7-3750h-pana-la-4-00-ghz-17-3-full-hd-120hz-16gb-512gb-ssd-nvidiar-geforcer-gtx-1650-4gb-free-dos-black-fx705dt-h7113/pd/DWBM0BMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6405050&X-Search-Page=2&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF FX705DT cu procesor AMD\u00ae Ryzen\u2122 7 3750H pana la 4.00 GHz, 17.3&quot;, Full HD, 120Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae GTX 1650 4GB, Free DOS, Black",
+            "old_price": 3699.99,
+            "price": 3699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-x509ja-cu-procesor-intelr-coretm-i7-1065g7-pana-la-3-90-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-iristm-plus-graphics-free-dos-transparent-silver-x509ja-ej032/pd/DHS8CMMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=58246871&X-Search-Page=2&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509JA cu procesor Intel\u00ae Core\u2122 i7-1065G7 pana la 3.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae Iris\u2122 Plus Graphics, Free DOS, Transparent Silver",
+            "old_price": 3199.0,
+            "price": 3199.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-2-in-1-asus-vivobook-flip-14-tp412fa-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-14-full-hd-8gb-512gb-ssd-intelr-uhd-graphics-windows-10-home-star-grey-tp412fa-ec378t/pd/DH4L4YMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6726685&X-Search-Page=2&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop 2 in 1 ASUS VivoBook Flip 14 TP412FA cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 14&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, Windows 10 Home, Star Grey",
+            "old_price": 4199.99,
+            "price": 4199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-x512jp-cu-procesor-intelr-coretm-i7-1065g7-pana-la-3-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx330-2gb-free-dos-slate-grey-x512jp-ej177/pd/DS48NYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6651278&X-Search-Page=2&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X512JP cu procesor Intel\u00ae Core\u2122 i7-1065G7 pana la 3.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX330 2GB, Free DOS, Slate Grey",
+            "old_price": 3399.99,
+            "price": 3399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-15-6-intel-core-i5-1035g1-8gb-ddr4-ssd-512gb-geforce-mx330-2gb-no-os-silver-x512jp-ej181/pd/DY4PXYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59072666&X-Search-Page=2&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Asus X512JP-EJ181 15.6&quot; Intel Core I5-1035G1, 8GB DDR4, SSD 512GB, GeForce MX330 2GB, NO OS, SILVER",
+            "old_price": 3399.0,
+            "price": 3399.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-zephyrus-s-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-10-ghz-coffee-lake-15-6-full-hd-ips-144hz-16gb-512gb-ssd-nvidia-geforce-rtx-2070-8gb-fara-retea-pe-fir-rj45-microsoft-win/pd/D6T7G8BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=53120886&X-Search-Page=2&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Zephyrus S GX531GWR-AZ055T cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.10 GHz, Coffee Lake, 15.6&quot;, Full HD, IPS, 144Hz, 16GB, 512GB SSD, NVIDIA GeForce RTX 2070 8GB, fara retea pe fir RJ45, Microsoft Windows 10 Home, Black Aluminum",
+            "old_price": 10472.0,
+            "price": 10472.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-14-um433da-cu-processor-amd-ryzentm-7-3700u-pana-la-4-00-ghz-14-full-hd-8gb-512gb-ssd-radeontm-rx-vega-10-graphics-windows-10-pro-icicle-silver-um433da-a5010r/pd/D5R20YMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6652624&X-Search-Page=2&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 14 UM433DA cu processor AMD Ryzen\u2122 7 3700U pana la 4.00 GHz, 14\u201d, Full HD, 8GB, 512GB SSD, Radeon\u2122 RX Vega 10 Graphics, Windows 10 Pro, Icicle Silver",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g15-g512li-cu-procesor-intelr-coretm-i5-10300h-pana-la-4-50-ghz-15-6-full-hd-144hz-8gb-256gb-ssd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-black-g512li-al034/pd/DSKK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6503201&X-Search-Page=2&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G15 G512LI cu procesor Intel\u00ae Core\u2122 i5-10300H pana la 4.50 GHz, 15.6&quot;, Full HD, 144Hz, 8GB, 256GB SSD, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, Black",
+            "old_price": 4399.99,
+            "price": 4399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-cu-procesor-intelr-coretm-i7-8750h-pana-la-4-10-ghz-coffee-lake-17-3-full-hd-ips-8gb-1tb-128gb-ssd-nvidia-geforce-gtx-1060-6gb-free-dos-black-fx705gm-ew019/pd/DSHDKCBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=54120106&X-Search-Page=2&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF FX705GM-EW019 cu procesor Intel\u00ae Core\u2122 i7-8750H pana la 4.10 GHz, Coffee Lake, 17.3&quot;, Full HD, IPS, 8GB, 1TB + 128GB SSD, NVIDIA GeForce GTX 1060 6GB, Free DOS, Black",
+            "old_price": 6033.3,
+            "price": 6033.3,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g15-g512li-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-0-ghz-15-6-full-hd-144hz-8gb-256gb-ssd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-black-g512li-al039/pd/DWKK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6503214&X-Search-Page=2&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G15 G512LI cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.0 GHz, 15.6&quot;, Full HD, 144Hz, 8GB, 256GB SSD, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, Black",
+            "old_price": 4899.99,
+            "price": 4899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fa-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-hd-graphics-520-free-dos-transparent-silver-s531fa-bq275/pd/DVP7FYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6691819&X-Search-Page=2&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FA cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae HD Graphics 520, Free DOS, Transparent Silver",
+            "old_price": 3199.99,
+            "price": 3199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-vivobook-s14-s431fl-cu-procesor-intelr-coretm-i5-8265u-pana-la-3-90-ghz-whiskey-lake-14-full-hd-8gb-512gb-ssd-nvidia-geforce-mx250-2gb-free-dos-gun-metal-grey-s431fl-eb123/pd/DSFJBBMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6379072&X-Search-Page=2&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS VivoBook S14 S431FL cu procesor Intel\u00ae Core\u2122 i5-8265U pana la 3.90 GHz Whiskey Lake, 14&quot;, Full HD, 8GB, 512GB SSD, NVIDIA GeForce MX250 2GB, Free DOS, Gun Metal Grey",
+            "old_price": 3149.99,
+            "price": 3149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-ux580ge-cu-procesor-intelr-coretm-i9-8950hk-pana-la-4-8-ghz-15-6-ultra-hd-16gb-512gb-ssd-m-2-nvidia-geforce-gtx-1050-ti-4gb-windows-10-pro-deep-dive-blue-ux580ge-e205/pd/D23ZYQBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=54131852&X-Search-Page=2&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil Asus ZenBook UX580GE cu procesor Intel\u00ae Core\u2122 i9-8950HK pana la 4.8 GHz, 15.6&quot;, Ultra HD, 16GB, 512GB SSD M.2, NVIDIA GeForce GTX 1050 Ti 4GB, Windows 10 Pro, Deep Dive Blue",
+            "old_price": 9999.99,
+            "price": 9999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-flip-14-um462da-cu-procesor-amd-ryzen-7-3700u-pana-la-4-00-ghz-14-full-hd-touch-8gb-512gb-ssd-amd-radeontm-rx-vega-10-windows-10-home-light-grey-um462da-ai084t/pd/DF740WBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6295677&X-Search-Page=2&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook Flip 14 UM462DA cu procesor AMD Ryzen 7 3700U pana la 4.00 GHz, 14&quot;, Full HD, Touch, 8GB, 512GB SSD, AMD Radeon\u2122 RX Vega 10, Windows 10 Home, Light Grey",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-pro-duo-ux581gv-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-4k-32gb-1tb-ssd-nvidia-geforce-rtx-2060-6gb-windows-10-pro-celestial-blue-ux581gv/pd/D09FJ6BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=5963499&X-Search-Page=2&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Ultraportabil ASUS ZenBook Pro Duo UX581GV cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, 4K, 32GB, 1TB SSD, NVIDIA GeForce RTX 2060 6GB, Windows 10 Pro, Celestial Blue",
+            "old_price": 12799.99,
+            "price": 12799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-k512ja-cu-procesor-intelr-coretm-i3-1005g1-pana-la-3-40-ghz-15-6-full-hd-4gb-256gb-ssd-intelr-uhd-graphics-free-dos-transparent-silver-k512ja-ej371/pd/DKNSCMMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6530218&X-Search-Page=2&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook K512JA cu procesor Intel\u00ae Core\u2122 i3-1005G1 pana la 3.40 GHz, 15.6&quot;, Full HD, 4GB, 256GB SSD, Intel\u00ae UHD Graphics, Free DOS, Transparent Silver",
+            "old_price": 1999.99,
+            "price": 1999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-x509fa-cu-procesor-intelr-coretm-i3-8145u-pana-la-3-90-ghz-whiskey-lake-15-6-full-hd-4gb-256gb-ssd-intel-uhd-graphics-620-windows-10-home-slate-gray-x509fa-ej075t/pd/DFK8SWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=58398645&X-Search-Page=2&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509FA cu procesor Intel\u00ae Core\u2122 i3-8145U pana la 3.90 GHz Whiskey Lake, 15.6&quot;, Full HD, 4GB, 256GB SSD, Intel UHD Graphics 620, Windows 10 Home, Slate Gray",
+            "old_price": 2399.0,
+            "price": 2399.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-15-x512ja-cu-processor-intelr-coretm-i5-1035g1-pana-la-3-60-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-uhd-graphics-free-dos-transparent-silver-x512ja-ej364/pd/DGR20YMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59181202&X-Search-Page=2&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook 15 X512JA cu processor Intel\u00ae Core\u2122 i5-1035G1 pana la 3.60 GHz, 15.6\u201d, Full HD, 8GB, 512GB SSD, Intel\u00ae UHD Graphics, Free DOS, Transparent Silver",
+            "old_price": 2849.0,
+            "price": 2849.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fl-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx250-2gb-free-dos-cobalt-blue-s531fl-bq674/pd/DXP7FYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6691816&X-Search-Page=2&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FL cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX250 2GB, Free DOS, Cobalt Blue",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fa-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-15-6-full-hd-8gb-512gb-ssd-intelr-hd-graphics-520-free-dos-gun-metal-gray-s531fa-bq274/pd/DJP7FYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6691820&X-Search-Page=2&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FA cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel\u00ae HD Graphics 520, Free DOS, Gun Metal Gray",
+            "old_price": 3199.99,
+            "price": 3199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-x509ma-cu-procesor-intelr-celeronr-n4020-pana-la-2-80-ghz-15-6-hd-4gb-256gb-ssd-intelr-uhd-graphics-600-free-dos-transparent-silver-x509ma-br310/pd/DY4VQYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6771661&X-Search-Page=2&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS X509MA cu procesor Intel\u00ae Celeron\u00ae N4020 pana la 2.80 GHz, 15.6&quot;, HD, 4GB, 256GB SSD, Intel\u00ae UHD Graphics 600, Free DOS, Transparent Silver",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-15-6-p3540fa-fhd-procesor-intelr-coretm-i5-8265u-6m-cache-up-to-3-90-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-endless-os-grey-p3540fa-bq0039/pd/D7QHX5BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=46983037&X-Search-Page=2&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS 15.6&#039;&#039; P3540FA, FHD, Procesor Intel\u00ae Core\u2122 i5-8265U (6M Cache, up to 3.90 GHz), 8GB DDR4, 256GB SSD, GMA UHD 620, Endless OS, Grey",
+            "old_price": 2499.0,
+            "price": 2499.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-intel-core-i3-1005g1-8gb-ddr4-ssd-256gb-intel-uhd-no-os-silver-x512ja-ej352/pd/D5C8KYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59693415&X-Search-Page=2&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Asus Vivobook X512JA-EJ352 Intel Core I3-1005G1, 8GB DDR4, SSD 256GB, Intel UHD, NO OS, Silver",
+            "old_price": 2165.8,
+            "price": 2165.8,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-g531gw-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-120hz-16gb-1tb-ssd-nvidiar-geforce-rtxtm-2070-8gb-windows-10-home-black-g531gw-al225t/pd/D09RYWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6231302&X-Search-Page=2&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G G531GW cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, Full HD, 120Hz, 16GB, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 2070 8GB, Windows 10 Home, Black",
+            "old_price": 7999.99,
+            "price": 7999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-zenbook-14-amd-ryzen-7-3700u-16gb-ddr4-ssd-512gb-radeon-rx-vega10-windows-10-pro-um431da-am029r/pd/DJFDFYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59228130&X-Search-Page=2&X-Search-Position=39&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Asus Zenbook 14&quot; UM431DA-AM029R, AMD RYZEN 7-3700U, 16GB DDR4, SSD 512GB, RADEON RX VEGA10, WINDOWS 10 PRO",
+            "old_price": 4799.0,
+            "price": 4799.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-zephyrus-m15-gu502lu-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-00-ghz-15-6-15-6-full-hd-144hz-16gb-512gb-ssd-nvidiar-geforcer-gtx-1660ti-6gb-free-dos-prism-gray-gu502lu-hn08/pd/DR64LYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6747011&X-Search-Page=2&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Zephyrus M15 GU502LU cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.00 GHz, 15.6\u201d, 15.6\u201d, Full HD, 144Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae GTX 1660Ti 6GB, Free Dos Prism Gray",
+            "old_price": 6799.99,
+            "price": 6799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g731gu-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-17-3-full-hd-ips-144hz-3ms-8gb-512gb-ssd-nvidia-geforce-gtx-1660ti-6gb-free-dos-black-g731gu-ev005/pd/DFM2HRBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=57853253&X-Search-Page=2&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G731GU cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz, Coffee Lake, 17.3&quot;, Full HD, IPS, 144Hz, 3ms, 8GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Black",
+            "old_price": 5988.08,
+            "price": 5988.08,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-pro-17-n705fd-cu-procesor-intelr-coretm-i5-8265u-pana-la-3-90-ghz-whiskey-lake-17-3-full-hd-8gb-1tb-hdd-128gb-ssd-nvidia-geforce-gtx-1050-4gb-endless-os-star-grey-n705fd-gc050/pd/DD78SWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6335936&X-Search-Page=2&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS\u00a0VivoBook Pro 17 N705FD cu procesor Intel\u00ae Core\u2122 i5-8265U pana la 3.90 GHz Whiskey Lake, 17.3&quot;, Full HD, 8GB, 1TB HDD + 128GB SSD NVIDIA GeForce GTX 1050 4GB, Endless OS, Star Grey",
+            "old_price": 3799.99,
+            "price": 3799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-hero-iii-cu-processor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-144hz-8gb-512gb-ssd-nvidiar-geforce-rtxtm-2060-6gb-free-dos-midnight-black-g531gv-es/pd/D9B626BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6349193&X-Search-Page=2&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix Hero III cu processor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, Full HD, 144Hz, 8GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2060 6GB, Free DOS, Midnight Black",
+            "old_price": 6499.99,
+            "price": 6499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-proart-studiobook-pro-15-w500g5t-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-4k-uhd-32gb-2tb-ssd-nvidiar-quadror-rtx-5000-max-q-16gb-windows-10-pro-star-grey-w500g/pd/DKMX4BMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6448615&X-Search-Page=2&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS ProArt StudioBook Pro 15 W500G5T cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, 4K UHD, 32GB, 2TB SSD, NVIDIA\u00ae Quadro\u00ae RTX 5000 Max Q 16GB, Windows 10 Pro, Star Grey",
+            "old_price": 22999.99,
+            "price": 22999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-zephyrus-s-gx502gv-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-full-hd-240hz-ips-16gb-512gb-ssd-nvidiar-geforce-rtxtm-2060-6gb-windows-10-home-brushed-b/pd/DS740WBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=56913399&X-Search-Page=2&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Zephyrus S GX502GV cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, Full HD, 240Hz, IPS, 16GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2060 6GB, Windows 10 Home, Brushed Black",
+            "old_price": 7699.99,
+            "price": 7699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-tuf-gaming-15-6-fhd-amd-ryzen-5-3550h-4m-2m-cache-up-to-3-70-ghz-4-core-nvidia-geforce-gtx-1650-4gb-gddr5-8gb-ddr4-ssd-512gb-no-odd-fara-os-fx505dt-bq051/pd/D1NQ68BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=55589117&X-Search-Page=2&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS TUF Gaming FX505DT-BQ051, 15.6&quot; FHD, AMD Ryzen 5 3550H (4M+2M Cache, up to 3.70 GHz, 4 CORE), NVIDIA GeForce GTX 1650 4GB GDDR5, 8GB DDR4, SSD 512GB, NO ODD, fara OS",
+            "old_price": 3099.0,
+            "price": 3099.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-15-g532lv-cu-procesor-intelr-coretm-i7-10875h-pana-la-5-1-ghz-15-6-full-hd-240hz-16gb-512gb-ssd-nvidiar-geforce-rtxtm-2060-6gb-free-dos-black-g532lv-az042/pd/DQKK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6503208&X-Search-Page=2&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix SCAR 15 G532LV cu procesor Intel\u00ae Core\u2122 i7-10875H pana la 5.1 GHz, 15.6&quot;, Full HD, 240Hz, 16GB, 512GB SSD, NVIDIA\u00ae GeForce RTX\u2122 2060 6GB, Free DOS, Black",
+            "old_price": 7499.99,
+            "price": 7499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fl-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx250-2gb-free-dos-gun-metal-gray-s531fl-bq673/pd/D9P7FYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6691817&X-Search-Page=2&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FL cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX250 2GB, Free DOS, Gun Metal Gray",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-15-ux534ftc-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-comet-lake-15-6-uhd-16gb-1tb-ssd-nvidia-geforce-gtx1650-max-q-4gb-windows-10-pro-royal-blue-ux534ftc-/pd/DZDQXYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59206971&X-Search-Page=2&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 15 UX534FTC cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz Comet Lake, 15.6&quot;, UHD, 16GB, 1TB SSD, NVIDIA GeForce GTX1650 MAX Q 4GB, Windows 10 Pro, Royal Blue",
+            "old_price": 8520.0,
+            "price": 8520.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-proart-studiobook-pro-15-w500g5t-cu-procesor-intelr-coretm-i7-9750h-pana-la-4-50-ghz-coffee-lake-15-6-4k-uhd-32gb-1tb-ssd-nvidiar-quadror-rtx-5000-max-q-16gb-windows-10-pro-star-grey-w500g/pd/DTMX4BMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6448614&X-Search-Page=2&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS ProArt StudioBook Pro 15 W500G5T cu procesor Intel\u00ae Core\u2122 i7-9750H pana la 4.50 GHz Coffee Lake, 15.6&quot;, 4K UHD, 32GB, 1TB SSD, NVIDIA\u00ae Quadro\u00ae RTX 5000 Max Q 16GB, Windows 10 Pro, Star Grey",
+            "old_price": 21999.99,
+            "price": 21999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-13-ux333fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-13-3-full-hd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-home-icicle-silver-ux333fac-a/pd/D4XRYWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6231280&X-Search-Page=2&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil Asus ZenBook 13 UX333FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 13.3&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Home, Icicle Silver",
+            "old_price": 4199.99,
+            "price": 4199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g15-g512lu-cu-procesor-intelr-coretm-i7-10750h-pana-la-5-0-ghz-15-6-full-hd-144hz-16gb-512gb-ssd-nvidia-geforce-gtx-1660ti-6gb-free-dos-black-g512lu-al012/pd/DBNK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=59832765&X-Search-Page=2&X-Search-Position=52&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G15 G512LU cu procesor Intel\u00ae Core\u2122 i7-10750H pana la 5.0 GHz, 15.6&quot;, Full HD, 144Hz, 16GB, 512GB SSD, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Black",
+            "old_price": 8975.0,
+            "price": 8975.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g-cu-procesor-intelr-coretm-i5-9300h-pana-la-4-10-ghz-15-6-full-hd-120hz-16gb-1tb-ssd-nvidiar-geforcer-gtx-1650-4gb-free-dos-black-g531gt-al500/pd/DWPPFYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6695161&X-Search-Page=2&X-Search-Position=53&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G cu procesor Intel\u00ae Core\u2122 i5-9300H pana la 4.10 GHz, 15.6&quot;, Full HD, 120Hz, 16GB, 1TB SSD, NVIDIA\u00ae GeForce\u00ae GTX\u00a01650 4GB, Free DOS, Black",
+            "old_price": 4499.99,
+            "price": 4499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar15g532lw-cu-procesor-intelr-coretm-i7-10875h-pana-la-5-1-ghz-15-6-full-hd-240hz-16gb-1tb-ssd-nvidiar-geforce-rtxtm-2070-8gb-free-dos-black-g532lw-az056/pd/DZKK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6503206&X-Search-Page=2&X-Search-Position=54&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix SCAR15G532LW cu procesor Intel\u00ae Core\u2122 i7-10875H pana la 5.1 GHz, 15.6&quot;, Full HD, 240Hz, 16GB, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 2070 8GB, Free DOS, Black",
+            "old_price": 8699.99,
+            "price": 8699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-asus-vivobook-s15-s531fl-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-15-6-full-hd-8gb-512gb-ssd-nvidiar-geforcer-mx250-2gb-free-dos-transparent-silver-s531fl-bq680/pd/DHP7FYMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6691814&X-Search-Page=2&X-Search-Position=55&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ASUS VivoBook S15 S531FL cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz, 15.6&quot;, Full HD, 8GB, 512GB SSD, NVIDIA\u00ae GeForce\u00ae MX250 2GB, Free DOS, Transparent Silver",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-15-ux534fac-cu-procesor-intelr-coretm-i7-10510u-pana-la-4-90-ghz-comet-lake-15-6-uhd-16gb-1tb-ssd-intel-uhd-graphics-620-windows-10-pro-royal-blue-ux534fac-aa060r/pd/DY78SWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6335932&X-Search-Page=2&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 15 UX534FAC cu procesor Intel\u00ae Core\u2122 i7-10510U pana la 4.90 GHz Comet Lake, 15.6&quot;, UHD, 16GB, 1TB SSD, Intel UHD Graphics 620, Windows 10 Pro, Royal Blue",
+            "old_price": 6599.99,
+            "price": 6599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-gaming-asus-rog-strix-g15-g512li-cu-procesor-intelr-coretm-i5-10300h-pana-la-4-50-ghz-15-6-full-hd-144hz-8gb-512gb-ssd-nvidia-geforce-gtx-1650-ti-4gb-free-dos-black-g512li-al013/pd/DGKK9MMBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6503213&X-Search-Page=2&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop Gaming ASUS ROG Strix G15 G512LI cu procesor Intel\u00ae Core\u2122 i5-10300H pana la 4.50 GHz, 15.6&quot;, Full HD, 144Hz, 8GB, 512GB SSD, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, Black",
+            "old_price": 4599.99,
+            "price": 4599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-15-ux533fac-cu-procesor-intelr-coretm-i5-10210u-pana-la-4-20-ghz-comet-lake-15-6-full-hd-8gb-512gb-ssd-intel-uhd-graphics-620-windows-10-pro-royal-blue-ux533fac-a8090/pd/DRXRYWBBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=6231286&X-Search-Page=2&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS ZenBook 15 UX533FAC cu procesor Intel\u00ae Core\u2122 i5-10210U pana la 4.20 GHz Comet Lake, 15.6&quot;, Full HD, 8GB, 512GB SSD, Intel UHD Graphics 620, Windows 10 Pro, Royal Blue",
+            "old_price": 4599.99,
+            "price": 4599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 12:22:32",
+            "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-ux392fa-cu-procesor-intelr-coretm-i7-8565u-pana-la-4-6-ghz-whiskey-lake-13-9-full-hd-8gb-512gb-ssd-m-2-intel-uhd-graphics-620-windows-10-utopia-blue-ux392fa-ab016t/pd/DC8PD6BBM/?X-Search-Id=1f6f271c747e804a9068&X-Product-Id=5930605&X-Search-Page=2&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Laptop ultraportabil ASUS Zenbook UX392FA cu procesor Intel\u00ae Core\u2122 i7-8565U pana la 4.6 GHz, Whiskey Lake, 13.9&quot;, Full HD, 8GB, 512GB SSD M.2, Intel UHD Graphics 620, Windows 10, Utopia blue",
+            "old_price": 5199.99,
+            "price": 5199.99,
+            "retailer": "emag"
+        }
+    ]
+}

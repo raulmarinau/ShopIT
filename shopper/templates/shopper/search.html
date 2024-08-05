@@ -1,0 +1,121 @@
+{% extends 'shopper/base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<form action="" method="POST" id="searchForm">
+    {% csrf_token %}
+    <div class="row">
+        <div class='col-sm-9'>
+            {{ form|crispy }}
+        </div>
+        <div class='col-sm-3' style='margin-top:2em'>
+            <input class="btn btn-primary btn-block" type="submit" value="Search">
+        </div>
+    </div>
+</form>
+
+<div id='search-results'>
+    <nav aria-label='Product pagination'>
+        <ul class='pagination justify-content-center' id='product-pagination'>
+        </ul>
+    </nav>
+</div>
+
+{% endblock content %}
+
+{% block javascript %}
+<script>
+    $('#search-results').hide();
+    var productsFound = null;
+    var productsFoundCount = 0;
+    var pageNo = 0;
+    var pageSize = 15;
+    var linkSize = 10;
+    var minIndex = 0;
+    var maxIndex = 0;
+
+    $("#searchForm").submit(function (e) {
+        e.preventDefault();
+        var serializeData = $(this).serialize();
+        $.ajax({
+            type: 'POST',
+            url: "{% url 'post_search' %}",
+            data: serializeData,
+            dataType: "json",
+            async: true
+        }).done(function(data){
+            console.log(data);
+            $("#search-results div").remove();
+
+            productsFound = data['products'];
+            productsFoundCount = data['products'].length;
+            pageNo = Math.round(productsFoundCount/pageSize);
+
+            for(var i=1;i<=pageNo && i<linkSize;i++) {
+                $('#product-pagination').append('<li class="page-item"><a class="page-link" onClick="showProducts(' + i + ')">' + i + '</a></li>');
+            }
+
+            minIndex = 1;
+            if(pageNo>linkSize){
+                maxIndex = linkSize;
+            } else {
+                maxIndex = pageNo;
+            }
+            showProducts(0);
+
+            $('#search-results').show();
+        });
+    });
+
+    var showProducts = function (index){
+        $("#search-results div").remove();
+        for(var i=(index*pageSize)+1;i<index*pageSize + pageSize && i<productsFoundCount;i++) {
+            item = productsFound[i];
+            var productCard = $('<div class="card" style="margin-bottom:2em"></div>');
+            var productCardBody = $('<div class="card-body"></div>');
+            productCardBody.append('<p>' + item['name'] + '</p>');
+            productCardBody.append('<p>Sold by: ' + item['retailer'] + '</p>');
+            productCardBody.append('<p>Price: ' + item['price'] + '</p>');
+            productCardBody.append('<p>View original link <a href="' + item['link'] + '">here</a><p>');
+            productCardBody.append('<btn class="btn btn-primary saveProduct" id="saveBtn' + i + '" onClick="saveSearch(' + i + ')">Save</btn>');
+            productCard.append(productCardBody);
+            $("#search-results").append(productCard);
+        }
+        $('#product-pagination').html('');
+        $('#product-pagination').append('<li class="page-item"><a href="#" class="page-link" onClick="showProducts(1)">First</a></li>');
+        if (pageNo>linkSize) {
+            if(index > maxIndex/2 && maxIndex<pageNo){
+                maxIndex++;
+                minIndex++;
+            } else if(minIndex>1){
+                maxIndex--;
+                minIndex--;
+            }
+        }
+        for(var i=minIndex;i<=maxIndex && i<=pageNo;i++) {
+            $('#product-pagination').append('<li class="page-item"><a href="#" class="page-link" onClick="showProducts(' + i + ')">' + i + '</a></li>');
+        }
+        $('#product-pagination').append('<li class="page-item"><a href="#" class="page-link" onClick="showProducts(' + pageNo + ')">Last</a></li>');
+        $('#product-pagination').prepend("<li class='page-item disabled'><a class='page-link'>Page</a></li>");
+    };
+
+    var saveSearch = function (prodNr){
+        console.log(productsFound[prodNr]);
+        $('#saveBtn'+prodNr).removeAttr('onClick');
+        $('#saveBtn'+prodNr).removeClass('btn-primary');
+        $('#saveBtn'+prodNr).addClass('btn-success');
+        $('#saveBtn'+prodNr).html('Saved!');
+        $.ajax({
+            type: 'POST',
+            url: "{% url 'post_save_prod_search' %}",
+            data: {
+                product: productsFound[prodNr],
+                csrfmiddlewaretoken: '{{ csrf_token }}'
+            },
+            dataType: "json",
+            async: true
+        }).done(function(data){
+            console.log(data);
+        });
+    };
+</script>
+{% endblock javascript %}

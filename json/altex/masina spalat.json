@@ -1,0 +1,388 @@
+{
+    "products": [
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-incorporabila-bosch-wiw28540eu-8kg-a-1400rpm-alb",
+            "name": "Masina de spalat rufe incorporabila BOSCH WIW28540EU, 8kg, A+++, 1400rpm, alb",
+            "old_price": 5299.9,
+            "price": 5049.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-waw28560eu-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAW28560EU, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 4899.9,
+            "price": 3379.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-vase-semi-profesionala-whirlpool-edm-5-du-inox",
+            "name": "Masina de spalat vase semi-profesionala WHIRLPOOL EDM 5 DU, inox",
+            "old_price": 7499.9,
+            "price": 5699.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-wat28461by-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAT28461BY, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3199.9,
+            "price": 2799.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-wat28690by-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAT28690BY, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3099.9,
+            "price": 2699.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-frontala-gorenje-w7543lo-7kg-1400rpm-a-portocaliu",
+            "name": "Masina de spalat frontala GORENJE W7543LO, 7kg, 1400rpm, A+++, portocaliu",
+            "old_price": 2459.9,
+            "price": 1999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-wat28661by-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAT28661BY, 9kg ,1400rpm, Clasa A+++, alb",
+            "old_price": 3599.9,
+            "price": 3399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-aeg-l8fec68s-8kg-1600rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala AEG L8FEC68S, 8kg, 1600rpm, Clasa A+++, alb",
+            "old_price": 3649.9,
+            "price": 3099.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-waw28590by-8kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAW28590BY, 8kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3999.9,
+            "price": 3599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-waw24460eu-9kg-1200rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAW24460EU, 9Kg, 1200rpm, Clasa A+++, alb",
+            "old_price": 3999.9,
+            "price": 3499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-neff-w7461x2eu-8kg-1200rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala NEFF W7461X2EU, 8kg, 1200rpm, Clasa A+++, alb",
+            "old_price": 3599.9,
+            "price": 3199.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-aeg-l7fbe69sa-9kg-1600rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala AEG L7FBE69SA, 9kg, 1600rpm, Clasa A+++, alb",
+            "old_price": 4499.9,
+            "price": 3399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-w7443la-7kg-1400rpm-clasa-a-argintiu",
+            "name": "Masina de spalat rufe frontala GORENJE W7443LA, 7kg, 1400rpm, Clasa A+++, argintiu",
+            "old_price": 2449.9,
+            "price": 2099.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-aeg-l7fbe48s-8kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala AEG L7FBE48S, 8kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2849.9,
+            "price": 2499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-samsung-ww10m86inoa-le-ecobubble-10kg-1600rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala SAMSUNG WW10M86INOA/LE, EcoBubble, 10kg, 1600rpm, Clasa A+++, alb",
+            "old_price": 6499.9,
+            "price": 5099.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-wax32eh0eu-10kg-1600rpm-clasa-a-alb-argintiu",
+            "name": "Masina de spalat rufe frontala BOSCH WAX32EH0EU, 10kg, 1600rpm, Clasa A+++, alb - argintiu",
+            "old_price": 6799.9,
+            "price": 5899.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-w7543lr-7kg-1400rpm-a-rosu",
+            "name": "Masina de spalat rufe frontala GORENJE W7543LR, 7kg, 1400rpm, A+++, rosu",
+            "old_price": 2399.9,
+            "price": 2049.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-grundig-gwn59651h-homewhiz-wi-fi-9kg-1600rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GRUNDIG GWN59651H, HomeWhiz, Wi-Fi, 9kg, 1600rpm, Clasa A+++, alb",
+            "old_price": 4749.9,
+            "price": 3649.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-ws168lnst-waveactive-iontech-10kg-1600rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GORENJE WS168LNST, WaveActive, IonTech, 10kg, 1600rpm, Clasa A+++, alb",
+            "old_price": 3949.9,
+            "price": 3212.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-cu-uscator-grundig-gwd59400wbc-9-6kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala cu uscator GRUNDIG GWD59400WBC, 9/6kg, 1400rpm, Clasa A, alb",
+            "old_price": 4599.9,
+            "price": 3599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-cu-uscator-bosch-wdu28540eu-10-6kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala cu uscator BOSCH WDU28540EU, 10/6kg, 1400rpm, Clasa A, alb",
+            "old_price": 5399.9,
+            "price": 4799.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-samsung-ww70m644opx-le-ecobubble-addwash-7kg-1400rpm-clasa-a-argintiu",
+            "name": "Masina de spalat rufe frontala SAMSUNG WW70M644OPX/LE, EcoBubble, AddWash, 7kg, 1400rpm, Clasa A+++, argintiu",
+            "old_price": 3399.9,
+            "price": 2799.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-grundig-gwn49442stc-steam-refresh-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GRUNDIG GWN49442STC, Steam Refresh, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3649.9,
+            "price": 2599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-whirlpool-frr12451-6th-sense-12kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala WHIRLPOOL FRR12451, 6th Sense, 12kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 4499.9,
+            "price": 3999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-aeg-l6fbg41s-10kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala AEG L6FBG41S, 10kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2749.9,
+            "price": 2089.92,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-ws947ln-waveactive-iontech-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GORENJE WS947LN, WaveActive, IonTech, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3149.9,
+            "price": 2699.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-wat28481me-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAT28481ME, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2499.9,
+            "price": 2499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-beko-wte10744n-aquatech-10kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BEKO WTE10744N, AquaTech, 10kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2999.9,
+            "price": 2399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-samsung-ww80k7415ow-le-ecobubble-addwash-8kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala SAMSUNG WW80K7415OW/LE, EcoBubble, Addwash, 8kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3699.9,
+            "price": 2799.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-cu-uscator-bosch-wvg30442eu-7-4kg-1500rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala cu uscator BOSCH WVG30442EU, 7/4kg, 1500rpm, Clasa A, alb",
+            "old_price": 4999.9,
+            "price": 3649.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-cu-uscator-gorenje-wd10514-10-7kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala cu uscator GORENJE WD10514, 10/7kg, 1400rpm, Clasa A, alb",
+            "old_price": 2999.9,
+            "price": 2469.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-cu-uscator-gorenje-wd94141-9-6kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala cu uscator GORENJE WD94141, 9/6kg, 1400rpm, Clasa A, alb",
+            "old_price": 3649.9,
+            "price": 3199.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-cu-uscator-bosch-wvh28420by-7-4kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala cu uscator BOSCH WVH28420BY, 7/4kg, 1400rpm, Clasa A, alb",
+            "old_price": 5999.9,
+            "price": 4499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-incorporabila-cu-uscator-beko-hity854310f-8-5kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe incorporabila cu uscator BEKO HITY854310F, 8/5kg, 1400rpm, Clasa A, alb",
+            "old_price": 2999.9,
+            "price": 2099.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-beko-wte9744n-aquatech-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BEKO WTE9744N, AquaTech, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2699.9,
+            "price": 1999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-waw326h0eu-home-connect-9kg-1600rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAW326H0EU, Home Connect, 9Kg, 1600rpm, Clasa A+++, alb",
+            "old_price": 5999.9,
+            "price": 4989.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-samsung-ww90m644opx-le-ecobubble-addwash-9kg-1400rpm-clasa-a-inox",
+            "name": "Masina de spalat rufe frontala SAMSUNG WW90M644OPX/LE, EcoBubble, AddWash, 9kg, 1400rpm, Clasa A+++, inox",
+            "old_price": 3599.9,
+            "price": 2999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-lg-f4wv910p2s-turbowash-360-wi-fi-10-5kg-1400rpm-clasa-a-negru",
+            "name": "Masina de spalat rufe frontala LG F4WV910P2S, TurboWash 360, Wi-Fi, 10.5kg, 1400rpm, Clasa A+++, negru",
+            "old_price": 3999.9,
+            "price": 3599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-vase-incorporabila-bosch-smv46fx01e-13-seturi-6-programe-60-cm-clasa-a",
+            "name": "Masina de spalat vase incorporabila BOSCH SMV46FX01E, 13 seturi, 6 programe, 60 cm, clasa A+++",
+            "old_price": 3449.9,
+            "price": 2999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-grundig-gwn48442stc-steam-refresh-8kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GRUNDIG GWN48442STC, Steam Refresh, 8kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3199.9,
+            "price": 2399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-incorporabila-cu-uscator-neff-v6540x1eu-7-4kg-1400rpm-clasa-b-alb",
+            "name": "Masina de spalat rufe incorporabila cu uscator NEFF V6540X1EU, 7/4kg, 1400rpm, Clasa B, alb",
+            "old_price": 7149.9,
+            "price": 6449.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-vase-incorporabila-bosch-smv68md02e-14-seturi-8-programe-60-cm-clasa-a",
+            "name": "Masina de spalat vase incorporabila BOSCH SMV68MD02E, 14 seturi, 8 programe, 60 cm, clasa A++",
+            "old_price": 3849.9,
+            "price": 3399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-lg-f4wv510s0-ai-dd-wi-fi-10-5kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala LG F4WV510S0, AI DD, Wi-Fi, 10.5kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 3099.9,
+            "price": 2499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-wa946-waveactive-9kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GORENJE WA946, WaveActive, 9kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2799.9,
+            "price": 2179.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-wei843a-waveactive-8kg-1400rpm-clasa-a-gri",
+            "name": "Masina de spalat rufe frontala GORENJE WEI843A, WaveActive, 8kg, 1400rpm, Clasa A+++, gri",
+            "old_price": 2599.9,
+            "price": 2159.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-gorenje-wei843r-waveactive-8kg-1400rpm-clasa-a-rosu",
+            "name": "Masina de spalat rufe frontala GORENJE WEI843R, WaveActive, 8kg, 1400rpm, Clasa A+++, rosu",
+            "old_price": 2599.9,
+            "price": 2159.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-grundig-gwn48442c-8kg-1400rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala GRUNDIG GWN48442C, 8kg, 1400rpm, Clasa A+++, alb",
+            "old_price": 2549.9,
+            "price": 1784.93,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-12 12:28:04",
+            "link": "https://altex.ro/masina-de-spalat-rufe-frontala-bosch-wat24361by-activewater-plus-8kg-1200rpm-clasa-a-alb",
+            "name": "Masina de spalat rufe frontala BOSCH WAT24361BY, ActiveWater Plus, 8kg, 1200rpm, Clasa A+++, alb",
+            "old_price": 2799.9,
+            "price": 2399.9,
+            "retailer": "altex"
+        }
+    ]
+}

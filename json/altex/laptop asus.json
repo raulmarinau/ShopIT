@@ -1,0 +1,388 @@
+{
+    "products": [
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-k533fl-ej149-intel-core-i7-10510u-pana-la-4-9ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-free-dos-rosu",
+            "name": "Laptop ASUS VivoBook K533FL-EJ149, Intel Core i7-10510U pana la 4.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Free DOS, rosu",
+            "old_price": 3949.9,
+            "price": 3649.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-k533fl-ej147-intel-core-i7-10510u-pana-la-4-9ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-free-dos-negru",
+            "name": "Laptop ASUS VivoBook K533FL-EJ147, Intel Core i7-10510U pana la 4.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Free DOS, negru",
+            "old_price": 3949.9,
+            "price": 3649.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-k533fl-ej150-intel-core-i7-10510u-pana-la-4-9ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-free-dos-alb",
+            "name": "Laptop ASUS VivoBook K533FL-EJ150, Intel Core i7-10510U pana la 4.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Free DOS, alb",
+            "old_price": 3949.9,
+            "price": 3649.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509jp-ej044-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx330-2gb-free-dos-argintiu",
+            "name": "Laptop ASUS X509JP-EJ044, Intel Core i7-1065G7 pana la 3.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX330 2GB, Free DOS, argintiu",
+            "old_price": 3599.9,
+            "price": 3299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509ja-ej031t-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-gri",
+            "name": "Laptop ASUS X509JA-EJ031T, Intel Core i7-1065G7 pana la 3.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, gri",
+            "old_price": 3699.9,
+            "price": 3499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509jp-ej043-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx330-2gb-free-dos-argintiu",
+            "name": "Laptop ASUS X509JP-EJ043, Intel Core i5-1035G1 pana la 3.6GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX330 2GB, Free DOS, argintiu",
+            "old_price": 3099.9,
+            "price": 2899.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-k533fl-ej148-intel-core-i7-10510u-pana-la-4-9ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-free-dos-verde",
+            "name": "Laptop ASUS VivoBook K533FL-EJ148, Intel Core i7-10510U pana la 4.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Free DOS, verde",
+            "old_price": 3949.9,
+            "price": 3749.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509jp-ej064-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx330-2gb-free-dos-gri",
+            "name": "Laptop ASUS X509JP-EJ064, Intel Core i7-1065G7 pana la 3.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX330 2GB, Free DOS, gri",
+            "old_price": 3449.9,
+            "price": 3349.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509ja-ej030r-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-pro-gri",
+            "name": "Laptop ASUS X509JA-EJ030R, Intel Core i5-1035G1 pana la 3.6GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Pro, gri",
+            "old_price": 3499.9,
+            "price": 3299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-x512ja-ej369-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-plus-graphics-free-dos-gri",
+            "name": "Laptop ASUS VivoBook X512JA-EJ369, Intel Core i7-1065G7 pana la 3.9GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, gri",
+            "old_price": 3399.9,
+            "price": 3199.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509ja-ej030t-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-gri",
+            "name": "Laptop ASUS X509JA-EJ030T, Intel Core i5-1035G1 pana la 3.6GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, gri",
+            "old_price": 3149.9,
+            "price": 3049.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509jp-ej063-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx330-2gb-free-dos-gri",
+            "name": "Laptop ASUS X509JP-EJ063, Intel Core i5-1035G1 pana la 3.6GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX330 2GB, Free DOS, gri",
+            "old_price": 2999.9,
+            "price": 2899.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm005-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-endless-silver-blue",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM005, Intel Core i5-1035G1 pana la 3.6GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Endless, Silver Blue",
+            "old_price": 3699.9,
+            "price": 3399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm004-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-endless-silver-blue",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM004, Intel Core i5-1035G1 pana la 3.6GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Endless, Silver Blue ",
+            "old_price": 3499.9,
+            "price": 3199.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm020-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-620-endless-petal-pink",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM020, Intel Core i5-1035G1 pana la 3.6GHz, 14\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics 620, Endless, Petal Pink",
+            "old_price": 3999.9,
+            "price": 3699.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-expertbook-b9-b9450fa-bm0261r-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-1tb-intel-uhd-graphics-windows-10-pro-negru",
+            "name": "Laptop ASUS ExpertBook B9 B9450FA-BM0261R, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 1TB, Intel UHD Graphics, Windows 10 Pro, negru",
+            "old_price": 7899.9,
+            "price": 7599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm019-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-620-endless-petal-pink",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM019, Intel Core i5-1035G1 pana la 3.6GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics 620, Endless, Petal Pink",
+            "old_price": 3499.9,
+            "price": 3199.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-tuf-a15-fa506ii-hn310-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-1tb-nvidia-geforce-gtx-1650ti-4gb-free-dos-negru",
+            "name": "Laptop Gaming ASUS TUF A15 FA506II-HN310, AMD Ryzen 7-4800H pana la 4.2GHz, 15.6\" Full HD, 8GB, 1TB, NVIDIA GeForce GTX 1650Ti 4GB, Free DOS, negru",
+            "old_price": 4249.9,
+            "price": 3999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-17-m712dk-au034t-amd-ryzen-5-3500u-pana-3-7ghz-17-3-full-hd-12gb-ssd-512gb-amd-radeon-r540x-2gb-windows-10-home-argintiu",
+            "name": "Laptop ASUS VivoBook 17 M712DK-AU034T, AMD Ryzen 5-3500U pana 3.7GHz, 17.3\" Full HD, 12GB, SSD 512GB, AMD Radeon R540X 2GB, Windows 10 Home, argintiu",
+            "old_price": 3499.9,
+            "price": 3299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm023t-intel-core-i7-1065g7-pana-la-3-9ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-silver-blue",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM023T, Intel Core i7-1065G7 pana la 3.9GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, Silver Blue",
+            "old_price": 4599.9,
+            "price": 4299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm004t-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-home-silver-blue",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM004T, Intel Core i5-1035G1 pana la 3.6GHz, 14\" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, Silver Blue ",
+            "old_price": 3899.9,
+            "price": 3599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm012t-intel-core-i7-1065g7-pana-la-3-9ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-windows-10-home-silver-blue",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM012T, Intel Core i7-1065G7 pana la 3.9GHz, 14\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, Silver Blue ",
+            "old_price": 4899.9,
+            "price": 4599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x403ja-bm005t-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-silver-blue",
+            "name": "Laptop ASUS VivoBook 14 X403JA-BM005T, Intel Core i5-1035G1 pana la 3.6GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, Silver Blue ",
+            "old_price": 4049.9,
+            "price": 3749.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-vivobook-14-x412fj-ek447t-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-gri",
+            "name": "Laptop ASUS VivoBook 14 X412FJ-EK447T, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, gri",
+            "old_price": 3649.9,
+            "price": 3399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-tuf-fx705du-h7087-amd-ryzen-7-3750h-pana-la-4ghz-17-3-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1660ti-6gb-free-dos-gold-steel",
+            "name": "Laptop Gaming ASUS TUF FX705DU-H7087, AMD Ryzen 7-3750H pana la 4GHz, 17.3\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, Gold Steel",
+            "old_price": 4799.9,
+            "price": 4599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-um431da-am007r-amd-ryzen-5-3500u-pana-la-3-7ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-vega-8-windows-10-pro-utopia-blue",
+            "name": "Laptop ASUS ZenBook 14 UM431DA-AM007R, AMD Ryzen 5-3500U pana la 3.7GHz, 14\" Full HD, 8GB, SSD 512gb, AMD Radeon Vega 8, Windows 10 Pro, Utopia Blue",
+            "old_price": 3949.9,
+            "price": 3649.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux433flc-a5435t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-nvidia-geforce-mx250-2gb-windows-10-home-royal-blue",
+            "name": "Laptop ASUS ZenBook 14 UX433FLC-A5435T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Windows 10 Home, Royal Blue",
+            "old_price": 5999.9,
+            "price": 5699.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-tuf-a15-fa506iu-hn210-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1660ti-6gb-free-dos-negru",
+            "name": "Laptop Gaming ASUS TUF A15 FA506IU-HN210, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, negru",
+            "old_price": 5099.9,
+            "price": 4899.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-tuf-fx505dv-al136-amd-ryzen-7-3750h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-1tb-nvidia-geforce-rtx-2060-6gb-free-dos-gun-metal",
+            "name": "Laptop Gaming ASUS TUF FX505DV-AL136, AMD Ryzen 7-3750H pana la 4.0GHz, 15.6\" Full HD, 16GB, SSD 1TB, NVIDIA GeForce RTX 2060 6GB, Free Dos, Gun Metal",
+            "old_price": 5999.9,
+            "price": 4999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-x509ja-ej030-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-8gb-ssd-512gb-intel-hd-graphics-520-free-dos-gri",
+            "name": "Laptop ASUS X509JA-EJ030, Intel Core i5-1035G1 pana la 3.6GHz, 15.6\" Full HD, 8GB, SSD 512GB, Intel HD Graphics 520, Free DOS, gri",
+            "old_price": 2599.9,
+            "price": 2399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux433fac-a6292t-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-royal-blue",
+            "name": "Laptop ASUS ZenBook 14 UX433FAC-A6292T, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Royal Blue",
+            "old_price": 4699.9,
+            "price": 4399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux433flc-a5436t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-nvidia-geforce-mx250-2gb-windows-10-home-icicle-silver",
+            "name": "Laptop ASUS ZenBook 14 UX433FLC-A5436T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Windows 10 Home, Icicle Silver",
+            "old_price": 5999.9,
+            "price": 5499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux434fac-a5155t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-icicle-silver",
+            "name": "Laptop ASUS ZenBook 14 UX434FAC-A5155T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Icicle Silver",
+            "old_price": 5999.9,
+            "price": 5499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux434fac-a5169r-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-620-windows-10-pro-royal-blue",
+            "name": "Laptop ASUS ZenBook 14 UX434FAC-A5169R, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Pro, Royal Blue",
+            "old_price": 5949.9,
+            "price": 5549.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-duo-ux481fl-hj085r-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-windows-10-pro-celestial-blue",
+            "name": "Laptop ASUS ZenBook Duo UX481FL-HJ085R, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Windows 10 Pro, Celestial Blue",
+            "old_price": 6699.9,
+            "price": 6399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-duo-ux481fa-hj048r-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-pro-celestial-blue",
+            "name": "Laptop ASUS ZenBook Duo UX481FA-HJ048R, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Pro, Celestial Blue",
+            "old_price": 6299.9,
+            "price": 6299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-rog-strix-g531gt-al004-intel-core-i7-9750h-pana-la-4-5ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru",
+            "name": "Laptop Gaming ASUS ROG Strix G531GT-AL004, Intel Core i7-9750H pana la 4.5GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free Dos, Negru",
+            "old_price": 4999.9,
+            "price": 4549.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-duo-ux481fa-bm046t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-intel-hd-graphics-620-windows-10-home-celestial-blue",
+            "name": "Laptop ASUS ZenBook Duo UX481FA-BM046T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, Intel HD Graphics 620, Windows 10 Home, Celestial Blue",
+            "old_price": 7199.9,
+            "price": 5689.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux433fac-a5156t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-icicle-silver",
+            "name": "Laptop ASUS ZenBook 14 UX433FAC-A5156T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Icicle Silver",
+            "old_price": 5699.9,
+            "price": 4999.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux434fac-a5169t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-royal-blue",
+            "name": "Laptop ASUS ZenBook 14 UX434FAC-A5169T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Royal Blue",
+            "old_price": 5699.9,
+            "price": 5399.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux433fac-a5290t-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-icicle-silver",
+            "name": "Laptop ASUS ZenBook 14 UX433FAC-A5290T, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Icicle Silver",
+            "old_price": 4899.9,
+            "price": 4249.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-duo-ux481fl-bm100t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-windows-10-home-celestial-blue",
+            "name": "Laptop ASUS ZenBook Duo UX481FL-BM100T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Windows 10 Home, Celestial Blue",
+            "old_price": 7299.9,
+            "price": 6299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-duo-ux481fa-bm033t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-8gb-ssd-512gb-intel-hd-graphics-620-windows-10-home-celestial-blue",
+            "name": "Laptop ASUS ZenBook Duo UX481FA-BM033T, Intel Core i7-10510U pana la 4.9GHz, 14\" Full HD, 8GB, SSD 512GB, Intel HD Graphics 620, Windows 10 Home, Celestial Blue",
+            "old_price": 6299.9,
+            "price": 5899.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-14-ux431fl-an020t-intel-core-i5-8265u-pana-la-3-9ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-windows-10-home-utopia-blue",
+            "name": "Laptop ASUS ZenBook 14 UX431FL-AN020T, Intel Core i5-8265U pana la 3.9GHz, 14\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Windows 10 Home, Utopia Blue",
+            "old_price": 4999.9,
+            "price": 4499.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-tuf-fx705dt-h7150-amd-ryzen-7-3750h-pana-la-4ghz-17-3-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-gold-steel",
+            "name": "Laptop Gaming ASUS TUF FX705DT-H7150, AMD Ryzen 7-3750H pana la 4GHz, 17.3\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, Gold Steel",
+            "old_price": 4399.9,
+            "price": 3599.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-gaming-asus-tuf-a15-fa506iv-al116-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-rtx-2060-6gb-free-dos-negru",
+            "name": "Laptop Gaming ASUS TUF A15 FA506IV-AL116, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6\" Full HD, 8GB, SSD 512GB, NVIDIA GeForce RTX 2060 6GB, Free DOS, negru",
+            "old_price": 5999.9,
+            "price": 5299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-duo-ux481fa-bm049t-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-celestial-blue",
+            "name": "Laptop ASUS ZenBook Duo UX481FA-BM049T, Intel Core i5-10210U pana la 4.2GHz, 14\" Full HD, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Celestial Blue",
+            "old_price": 6299.9,
+            "price": 5299.9,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-07-06 12:22:35",
+            "link": "https://altex.ro/laptop-asus-zenbook-13-ux392fa-ab002r-intel-core-i7-8565u-pana-la-4-6-13-9-full-hd-16gb-ssd-512gb-intel-uhd-graphics-620-windows-10-pro-utopia-blue",
+            "name": "Laptop ASUS ZenBook 13 UX392FA-AB002R, Intel Core i7-8565U pana la 4.6, 13.9\" Full HD, 16GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Pro, Utopia Blue",
+            "old_price": 6999.9,
+            "price": 6499.9,
+            "retailer": "altex"
+        }
+    ]
+}

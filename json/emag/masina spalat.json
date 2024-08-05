@@ -1,0 +1,868 @@
+{
+    "products": [
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-ecobubble-motor-inverter-digital-7-kg-1200-rpm-clasa-a-60-cm-inox-ww70j5246fx-le/pd/D0HBVDBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1531986&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung WW70J5246FX/LE, EcoBubble, Motor Inverter Digital, 7 kg, 1200 RPM, Clasa A+++, 60 cm, Inox",
+            "old_price": 1599.99,
+            "price": 1599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-beko-7-kg-1200-rpm-clasa-a-motor-prosmarttm-inverter-homewhiz-remote-control-steamcuretm-addgarment-alb-wky71233ptlyb3-u/pd/DX2F9WBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=6316037&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Beko WKY71233PTLYB3_U, 7 kg, 1200 RPM, Clasa A+++, Motor ProSmart\u2122 Inverter, HomeWhiz, Remote Control, SteamCure\u2122, AddGarment, Alb",
+            "old_price": 1339.99,
+            "price": 1339.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-add-wash-7-kg-1400-rpm-clasa-a-motor-digital-inverter-alb-ww70k44305w-le/pd/D21XQ2BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1258663&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung Add-Wash WW70K44305W/LE, 7 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, Alb",
+            "old_price": 1599.99,
+            "price": 1599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-indesit-6-kg-1200-rpm-clasa-a-alb-iwsne-61253-c/pd/D0DV4BBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=387452&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe SLIM Indesit IWSNE 61253 C, 6 kg, 1200 RPM, Clasa A+++, Alb",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-heinner-5kg-800-rpm-clasa-a-functie-start-intarziat-sistem-eco-logic-60-cm-alb-hwm-5080va/pd/DN87KNBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3746716&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Heinner HWM-5080VA++, 5kg, 800 RPM, Clasa A++, Functie start intarziat, Sistem Eco Logic, 60 cm, Alb",
+            "old_price": 842.4,
+            "price": 842.4,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-whirlpool-freshcare-7-kg-1200-rpm-clasa-a-6th-sense-colours-alb-fwsd71283ws-eu/pd/DVS5CKBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3632775&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Whirlpool FreshCare+ FWSD71283WS EU, 7 kg, 1200 RPM, Clasa A+++, 6th Sense Colours, Alb",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-arctic-6-kg-1000-rpm-clasa-a-steamclean-alb-apl61012bdw0/pd/DCSNLNBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3851950&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Arctic APL61012BDW0, 6 kg, 1000 RPM, Clasa A+++, SteamClean, Alb",
+            "old_price": 965.99,
+            "price": 965.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-samsung-7-kg-1200-rpm-clasa-a-eco-bubble-motor-digital-inverter-swirl-drum-alb-ww70k42106w-le/pd/DMYHDDBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1504077&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Samsung WW70K42106W/LE, 7 kg, 1200 RPM, Clasa A+++, Eco Bubble, Motor Digital Inverter, Swirl Drum, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-add-wash-8-kg-1400-rpm-clasa-a-motor-digital-inverter-display-led-smart-check-inox-ww80k44305x-le/pd/DPWV90BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4039883&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung Add Wash WW80K44305X/LE, 8 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, Display LED, Smart Check, Inox",
+            "old_price": 1799.99,
+            "price": 1799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-beko-7-kg-1000-rpm-clasa-a-steam-cure-display-digital-alb-wre7512xww/pd/DYVNLNBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3851959&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Beko WRE7512XWW, 7 kg, 1000 RPM, Clasa A+++, Steam Cure, Display digital, Alb",
+            "old_price": 1089.99,
+            "price": 1089.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-8-kg-1200-rpm-clasa-a-ecobubble-smart-check-alb-ww80j5345mw-le/pd/D7HBVDBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1531981&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung WW80J5345MW/LE, 8 kg, 1200 RPM, Clasa A+++, EcoBubble, Smart Check, Alb",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-indesit-innex-6-kg-1200-rpm-clasa-a-push-wash-alb-bwsa-61253-w-eu/pd/DXF8F7BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1407503&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Indesit INNEX, BWSA 61253 W EU, 6 kg, 1200 rpm, Clasa A+++, Push&amp;Wash, Alb",
+            "old_price": 1049.99,
+            "price": 1049.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-electrolux-perfectcare600-8-kg-1200-rpm-clasa-a-motor-inverter-sensicare-softplus-alb-ew6f328w/pd/DKJNK0BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4016143&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Electrolux PerfectCare600 EW6F328W, 8 kg, 1200 RPM, Clasa A+++, Motor Inverter, SensiCare, SoftPlus, Alb",
+            "old_price": 1599.0,
+            "price": 1599.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-whirlpool-freshcare-6-kg-1200-rpm-clasa-a-alb-fwsf61253w-eu/pd/D1S5CKBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3632780&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Whirlpool FreshCare+ FWSF61253W EU, 6 kg, 1200 rpm, Clasa A+++, Alb",
+            "old_price": 1149.99,
+            "price": 1149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-incarcare-verticala-whirlpool-6th-sense-6-kg-1000-rpm-40-cm-clasa-a-alb-tdlr-60112/pd/DRNRZ3BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1073577&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu incarcare verticala Whirlpool TDLR 60112, 6th Sense, 6 kg, 1000 rpm, 40 cm, Clasa A+++, Alb",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-heinner-7kg-1000-rpm-clasa-a-ecran-led-functie-start-intarziat-sistem-eco-logic-60-cm-alb-hwm-v7010a/pd/D2RS0NBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3768381&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Heinner HWM-V7010A++, 7KG, 1000 RPM, Clasa A++, Ecran LED, Functie start intarziat, Sistem Eco Logic, 60 cm, Alb",
+            "old_price": 951.17,
+            "price": 951.17,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-arctic-7-kg-1000-rpm-clasa-a-display-alb-apl71022bdw0/pd/DQSNLNBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3851955&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Arctic APL71022BDW0, 7 kg, 1000 RPM, Clasa A+++, Display, Alb",
+            "old_price": 1039.99,
+            "price": 1039.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-direct-drive-6-5-kg-1200-rpm-clasa-a-45-cm-alb-f2j5wn4w/pd/DJRS87BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1465273&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim LG F2J5WN4W, Direct Drive, 6.5 kg, 1200 RPM, Clasa A+++, 45 cm, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-arctic-7-kg-1000-rpm-clasa-a-alb-apl71012bdw0/pd/D1SNLNBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3851953&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Arctic APL71012BDW0, 7 kg, 1000 RPM, Clasa A+++, Alb",
+            "old_price": 899.99,
+            "price": 899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-bosch-7-kg-1200-rpm-clasa-a-alb-wan24160by/pd/DHYXL3BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1064899&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Bosch WAN24160BY, 7 kg, 1200 RPM, Clasa A+++, Alb",
+            "old_price": 1699.99,
+            "price": 1699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-indesit-iwsc51051ceco-5-kg-1000-rpm-clasa-a-alb-iwsc-51051-c-eco/pd/EYPNKBBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=247351&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Indesit IWSC51051CECO, 5 kg, 1000 RPM, Clasa A+, Alb",
+            "old_price": 929.99,
+            "price": 929.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-eco-bubble-7-kg-1200-rpm-clasa-a-alb-ww70j5345mw-le/pd/DPL95DBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1958407&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung Eco Bubble WW70J5345MW/LE, 7 kg, 1200 rpm, Clasa A+++, Alb",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-6-kg-1200-rpm-clasa-a-alb-fwsf61252w-eu/pd/DH970LBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=5388446&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Whirlpool FreshCare FWSF61252W EU, 6 kg, 1200 RPM, Clasa A++, Alb",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-beko-8-kg-1400-rpm-clasa-a-homewhiz-bluetooth-remote-control-steamcure-addgarment-motor-prosmart-inverter-alb-wue8746xwst/pd/D9VP8WBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=6365896&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Beko WUE8746XWST, 8 kg, 1400 RPM, Clasa A+++, HomeWhiz, Bluetooth Remote Control, SteamCure, AddGarment, Motor ProSmart Inverter, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-incarcare-verticala-electrolux-perfectcare-600-6-kg-1200-rpm-clasa-a-sensicare-display-lcd-alb-ew6t5261/pd/DXD6XWBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=6311727&X-Search-Page=1&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu incarcare verticala Electrolux EW6T5261 PerfectCare 600 , 6 kg, 1200 RPM, Clasa A+++, SensiCare, Display LCD, Alb",
+            "old_price": 1529.99,
+            "price": 1529.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-whirlpool-fwsg71253w-freshcare-1200-rpm-7-kg-tehnologia-al-6-lea-simt-clasa-a-alb-fwsg71253w-eu/pd/D3VPRKBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3645235&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Whirlpool FWSG71253W FreshCare+, 1200 RPM, 7 kg, Tehnologia al 6-lea Simt, Clasa A+++, Alb",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-slim-lg-1200-rpm-7-kg-spalare-4-kg-uscare-clasa-b-motor-direct-drive-inverter-6-motion-smart-diagnosis-nfc-alb-f2j6hm0w/pd/D189JNBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=3816254&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Slim LG F2J6HM0W, 1200 RPM, 7 kg spalare, 4 kg uscare, Clasa B, Motor Direct Drive Inverter, 6 Motion, Smart Diagnosis, NFC, Alb",
+            "old_price": 1999.99,
+            "price": 1999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-samsung-1400-rpm-9kg-spalare-6kg-uscare-clasa-a-motor-digital-inverter-ecobubble-alb-wd90j6a10aw-le/pd/DQ0HC9BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4276719&X-Search-Page=1&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Samsung WD90J6A10AW/LE, 1400 RPM, 9kg spalare / 6kg uscare, Clasa A, Motor Digital Inverter, EcoBubble, Alb",
+            "old_price": 2399.99,
+            "price": 2399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-beko-1400-rpm-spalare-8-kg-uscare-5-kg-clasa-a-motor-prosmart-inverter-homewhiz-conectare-bluetooth-steam-cure-alb-htv8716bwst/pd/DTJRXRBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=5777999&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Beko HTV8716BWST, 1400 RPM, Spalare 8 kg, Uscare 5 kg, Clasa A, Motor ProSmart Inverter, HomeWhiz, Conectare Bluetooth, Steam Cure, Alb",
+            "old_price": 1835.99,
+            "price": 1835.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-lg-direct-drive-8-kg-1400-rpm-clasa-a-60-cm-argintiu-f4j5tn7s/pd/DXRS87BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1465276&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe LG F4J5TN7S, Direct Drive, 8 kg, 1400 RPM, Clasa A+++, 60 cm, Argintiu",
+            "old_price": 1649.99,
+            "price": 1649.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-arctic-7-kg-1200-rpm-clasa-a-display-led-alb-apl71222bdw3/pd/D4GHH0BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4020269&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Arctic APL71222BDW3, 7 kg, 1200 RPM, Clasa A+++, Display LED, Alb",
+            "old_price": 1169.99,
+            "price": 1169.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-add-wash-9-kg-1400-rpm-clasa-a-motor-digital-inverter-ecobubble-display-led-smart-check-inox-ww90k5410ux-le/pd/DXWV90BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4039884&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung Add Wash WW90K5410UX/LE, 9 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, EcoBubble, Display LED, Smart Check, Inox",
+            "old_price": 1899.99,
+            "price": 1899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-direct-drive-6-5-kg-1200-rpm-clasa-a-45-cm-argintiu-f2j5wn7s/pd/DFRS87BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1465274&X-Search-Page=1&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim LG F2J5WN7S, Direct Drive, 6.5 kg, 1200 RPM, Clasa A+++, 45 cm, Argintiu",
+            "old_price": 1549.99,
+            "price": 1549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-electrolux-perfectcare600-7-kg-1200-rpm-clasa-a-1200-rpm-lcd-alb-ew6s427w/pd/DST7SVBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4926752&X-Search-Page=1&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Electrolux EW6S427W, PerfectCare600, 7 kg, 1200 RPM, Clasa A+++, 1200 rpm, LCD, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-add-wash-9-kg-1400-rpm-clasa-a-motor-digital-inverter-alb-ww90k44305w-le/pd/DHPSM7BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1300592&X-Search-Page=1&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung Add-Wash WW90K44305W/LE, 9 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, Alb",
+            "old_price": 1699.99,
+            "price": 1699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-heinner-6-kg-3-6-kg-alb-argintiu-hswm-63sl/pd/DH1F5JBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4697467&X-Search-Page=1&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata Heinner HSWM-63SL, 6 Kg, 3.6 Kg, Alb/Argintiu",
+            "old_price": 538.55,
+            "price": 538.55,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-arctic-spalare-8-kg-uscare-5-kg-1200-rpm-motor-silent-inverter-homewhiz-bluetooth-extrasteam-clasa-b-60-cm-alb-aplwd85126wst/pd/DT32SWBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=6331366&X-Search-Page=1&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Arctic APLWD85126WST, Spalare 8 kg, Uscare 5 kg, 1200 RPM, Motor Silent Inverter, HomeWhiz, Bluetooth, ExtraSteam, Clasa B, 60 cm, Alb",
+            "old_price": 1699.99,
+            "price": 1699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-indesit-9kg-1400-rpm-clasa-a-alb-bwe-91484x-wsss-eu/pd/DSF8F7BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1407508&X-Search-Page=1&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Indesit BWE 91484X WSSS EU, 9kg, 1400 rpm, Clasa A+++, Alb",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-portabila-mesko-ms-8053-580-wati-alb-ms-80533/pd/D9HSW4BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=57485348&X-Search-Page=1&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata portabila MESKO MS 8053, 580 wati, alb",
+            "old_price": 260.45,
+            "price": 260.45,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-7-kg-1200-rpm-clasa-a-motor-inverter-direct-drive-steam-alb-f2j5hy3w/pd/DZJJ5CBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=5286051&X-Search-Page=1&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim LG F2J5HY3W, 7 Kg, 1200 RPM, Clasa A+++, Motor Inverter Direct Drive, Steam, Alb",
+            "old_price": 1577.08,
+            "price": 1577.08,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-samsung-9-kg-1400-rpm-clasa-a-motor-digital-inverter-eco-bubble-diamond-drum-alb-ww90j5446ew-le/pd/D45J7JBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4607303&X-Search-Page=1&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat Samsung WW90J5446EW/LE, 9 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, Eco Bubble, Diamond Drum, Alb",
+            "old_price": 1629.99,
+            "price": 1629.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-albatros-4-2-kg-alb-wms-4-5p/pd/D047J3BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=55143078&X-Search-Page=1&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata Albatros WMS 4.5P, 4.2 kg, Alb",
+            "old_price": 449.0,
+            "price": 449.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-star-light-6-kg-1000-rpm-clasa-a-display-led-alb-wms-610a/pd/D5DCL7BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1436761&X-Search-Page=1&X-Search-Position=53&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe SLIM Star-Light WMS-610A++, 6 kg, 1000 RPM, Clasa A++, Display LED, Alb",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-8-kg-1400-rpm-a-add-wash-motor-inverter-60-cm-alb-ww80k44305w-le/pd/DPPSM7BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1300593&X-Search-Page=1&X-Search-Position=54&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung WW80K44305W/LE, 8 kg, 1400 RPM, A+++, Add Wash, Motor inverter, 60 cm, Alb",
+            "old_price": 1549.99,
+            "price": 1549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-cu-uscator-lg-1400-rpm-spalare-8-kg-uscare-5-kg-clasa-a-motor-direct-drive-spa-steam-smart-diagnosis-wifi-alb-f4dn408s0/pd/D0LYTGBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=6103058&X-Search-Page=1&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat cu uscator LG F4DN408S0, 1400 RPM, Spalare 8 kg, Uscare 5 kg, Clasa A, Motor Direct Drive, Spa Steam, Smart Diagnosis, Wifi, Alb",
+            "old_price": 2249.99,
+            "price": 2249.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-lg-9-kg-1400-rpm-clasa-a-ai-direct-drive-steam-smart-diagnoisis-wifi-alb-f4wt409aidd/pd/D1F4JBMBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=6436621&X-Search-Page=1&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe LG F4WT409AIDD, 9 kg, 1400 RPM, Clasa A+++, AI Direct Drive, Steam, Smart Diagnoisis, WiFi, Alb",
+            "old_price": 1999.99,
+            "price": 1999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-daewoo-7-kg-1000-rpm-display-a-alb-dwd-fv2021/pd/DVH5X3BBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=1019959&X-Search-Page=1&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Daewoo DWD-FV2021, 7 Kg, 1000 RPM, Display, A+++, Alb",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:27:58",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-candy-smart-10kg-1400-rpm-nfc-functie-aburi-control-vocal-clasa-a-alb-css-14102d3-s/pd/D8287JBBM/?X-Search-Id=0cd9929243608690c18f&X-Product-Id=4608498&X-Search-Page=1&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Candy Smart CSS 14102D3-S, 10kg, 1400 RPM, NFC, Functie aburi, Control vocal, Clasa A+++, Alb",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-heinner-7-kg-1400-rpm-clasa-a-display-lcd-alb-hwm-m7014a/pd/D5SHWYBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=24465536&X-Search-Page=2&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Heinner HWM-M7014A+++, 7 kg, 1400 RPM, Clasa A+++, Display LCD, Alb",
+            "old_price": 1019.98,
+            "price": 1019.98,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-heinner-hwm-5080e-5-kg-800-rpm-clasa-a-alb-hwm5080e/pd/D0LF67BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=17352102&X-Search-Page=2&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Heinner HWM-5080E, 5 kg, 800 RPM, Clasa A+, Alb",
+            "old_price": 848.47,
+            "price": 848.47,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-portabila-mesko-ms-8053-580-wati-alb-ms-80533/pd/D9HSW4BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=57485348&X-Search-Page=2&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata portabila MESKO MS 8053, 580 wati, alb",
+            "old_price": 260.45,
+            "price": 260.45,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-whirlpool-freshcare-eu-6th-sense-colours-6-kg-1200-rpm-clasa-a-alb-fwsd61253w-eu/pd/DLS5CKBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3632778&X-Search-Page=2&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Whirlpool FreshCare+ FWSD61253W EU EU, 6th Sense Colours, 6 kg, 1200 RPM, Clasa A+++, Alb",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-candy-smart-10kg-1400-rpm-nfc-functie-aburi-control-vocal-clasa-a-alb-css-14102d3-s/pd/D8287JBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4608498&X-Search-Page=2&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Candy Smart CSS 14102D3-S, 10kg, 1400 RPM, NFC, Functie aburi, Control vocal, Clasa A+++, Alb",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-samsung-9-kg-1400-rpm-clasa-a-motor-digital-inverter-eco-bubble-diamond-drum-alb-ww90j5446ew-le/pd/D45J7JBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4607303&X-Search-Page=2&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat Samsung WW90J5446EW/LE, 9 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, Eco Bubble, Diamond Drum, Alb",
+            "old_price": 1629.99,
+            "price": 1629.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-whirlpool-freshcare-1400-rpm-9-kg-spalare-6-kg-uscare-tehnologie-al-6-lea-simt-clasa-a-argintiu-fwdg96148sbs-eu/pd/D64HV4BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5078167&X-Search-Page=2&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Whirlpool FWDG96148SBS EU FreshCare+, 1400 RPM, 9 kg spalare, 6 kg uscare, Tehnologie al 6-lea Simt, Clasa A, Argintiu",
+            "old_price": 1999.99,
+            "price": 1999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-8-kg-1400-rpm-a-add-wash-motor-inverter-60-cm-alb-ww80k44305w-le/pd/DPPSM7BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1300593&X-Search-Page=2&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung WW80K44305W/LE, 8 kg, 1400 RPM, A+++, Add Wash, Motor inverter, 60 cm, Alb",
+            "old_price": 1549.99,
+            "price": 1549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-1200-rpm-7-kg-clasa-a-eco-bubble-addwash-motor-digital-inverter-alb-ww70k5210ww-le/pd/DJ4ZS3BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1037973&X-Search-Page=2&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung WW70K5210WW/LE, 1200 RPM, 7 kg, Clasa A+++, Eco Bubble, AddWash, Motor Digital Inverter, Alb",
+            "old_price": 1599.99,
+            "price": 1599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-samsung-1200-rpm-8-kg-clasa-a-inox-ww80r421hfx-le/pd/D3TP75BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5820667&X-Search-Page=2&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Samsung WW80R421HFX/LE, 1200 RPM, 8 kg, Clasa A+++, Inox",
+            "old_price": 1999.99,
+            "price": 1999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-heinner-8kg-1400-rpm-display-allergy-safe-clasa-a-alb-hwm-v8414a/pd/D0X6XSBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4790310&X-Search-Page=2&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat Heinner HWM-V8414A+++, 8KG, 1400 RPM, Display, Allergy Safe, Clasa A+++, Alb",
+            "old_price": 1228.24,
+            "price": 1228.24,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-heinner-6-kg-3-6-kg-alb-argintiu-hswm-63sl/pd/DH1F5JBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4697467&X-Search-Page=2&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata Heinner HSWM-63SL, 6 Kg, 3.6 Kg, Alb/Argintiu",
+            "old_price": 538.55,
+            "price": 538.55,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-hotpoint-ariston-7-kg-1200-rpm-clasa-a-alb-aqs73d29/pd/EMXTKBBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=245459&X-Search-Page=2&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe SLIM Hotpoint-Ariston AQS73D29, 7 kg, 1200 RPM, Clasa A+++, Alb",
+            "old_price": 1699.99,
+            "price": 1699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-bosch-7-kg-1000-rpm-clasa-a-alb-wan20060by/pd/DPYXL3BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1064898&X-Search-Page=2&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Bosch WAN20060BY, 7 kg, 1000 rpm, Clasa A+++, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-albatros-4-2-kg-alb-wms-4-5p/pd/D047J3BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=55143078&X-Search-Page=2&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata Albatros WMS 4.5P, 4.2 kg, Alb",
+            "old_price": 449.0,
+            "price": 449.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-eco-bubble-addwash-1400-rpm-9-kg-inverter-clasa-a-inox-ww90k6414qx-le/pd/DT9K93BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1021978&X-Search-Page=2&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung Eco Bubble AddWash WW90K6414QX/LE, 1400 RPM, 9 kg, Inverter, Clasa A+++, Inox",
+            "old_price": 2249.99,
+            "price": 2249.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-indesit-8-kg-1200-rpm-clasa-a-alb-bwe-81284x-w-eu/pd/D0YGF7BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1407835&X-Search-Page=2&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Indesit BWE 81284X W EU, 8 kg, 1200 rpm, Clasa A+++, Alb",
+            "old_price": 1279.99,
+            "price": 1279.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-samsung-1400-rpm-9-kg-spalare-5-kg-uscare-clasa-a-quickdrive-eco-bubble-addwash-motor-digital-inverter-air-wash-inox-wd90n642o2x-le/pd/DY9885BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5895442&X-Search-Page=2&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Samsung WD90N642O2X/LE, 1400 RPM, 9 kg spalare / 5 kg uscare, Clasa A, QuickDrive, Eco Bubble, AddWash, Motor Digital Inverter, Air Wash, Inox",
+            "old_price": 3999.99,
+            "price": 3999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-cu-uscator-indesit-innex-1400-rpm-spalare-9-kg-uscare-6-kg-clasa-a-alb-xwde-961480x/pd/D4GNLBBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=414072&X-Search-Page=2&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat cu uscator Indesit Innex XWDE 961480X, 1400 RPM, Spalare 9 kg, Uscare 6 kg, Clasa A, Alb",
+            "old_price": 1699.99,
+            "price": 1699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-arctic-1200-rpm-spalare-7-kg-uscare-4-kg-clasa-b-motor-silent-inverter-homewhiz-conectare-bluetooth-extrasteam-downloaded-program-spalare-rapida-14-alb-aplwd74126wst/pd/DD3W5WBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6363572&X-Search-Page=2&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Arctic APLWD74126WST, 1200 RPM, Spalare 7 kg, Uscare 4 kg, Clasa B, Motor Silent Inverter, HomeWhiz, Conectare Bluetooth, ExtraSteam, Downloaded Program, Spalare Rapida 14&#039;, Alb",
+            "old_price": 1599.99,
+            "price": 1599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-bosch-9-kg-1400-rpm-clasa-a-motor-ecosilence-drive-display-touch-led-activewater-plus-alb-wat28561by/pd/D7GHCNBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3840625&X-Search-Page=2&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Bosch WAT28561BY, 9 kg, 1400 RPM, Clasa A+++, Motor EcoSilence Drive, Display touch LED, ActiveWater Plus, Alb",
+            "old_price": 2699.99,
+            "price": 2699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-beko-8-kg-1400-rpm-clasa-a-homewhiz-remote-control-steamcure-addgarment-motor-prosmart-inverter-60-cm-alb-wue81436cst/pd/DNHP8WBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6365890&X-Search-Page=2&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Beko WUE81436CST, 8 kg, 1400 RPM, Clasa A+++, HomeWhiz, Remote Control, SteamCure, AddGarment, Motor ProSmart Inverter, 60 cm, Alb",
+            "old_price": 1379.99,
+            "price": 1379.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-7-kg-1200-rpm-clasa-a-turbowash-59-ai-direct-drive-steam-smart-diagnosis-wifi-argintiu-f2wn6s7s2t/pd/DQF4JBMBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6436622&X-Search-Page=2&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim LG F2WN6S7S2T, 7 kg, 1200 RPM, Clasa A+++, Turbowash 59, AI Direct Drive, Steam, Smart Diagnosis, WiFi, Argintiu",
+            "old_price": 2199.99,
+            "price": 2199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-bosch-8-kg-1400-rpm-clasa-a-display-led-alb-wat28460by/pd/DQWZMMBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=516536&X-Search-Page=2&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Bosch WAT28460BY, 8 kg, 1400 RPM, Clasa A+++, Display LED, Alb",
+            "old_price": 1969.99,
+            "price": 1969.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-incarcare-verticala-electrolux-ew6t4262l-perfectcare-600-6-kg-1200-rpm-clasa-a-motor-inverter-sensicare-softopening-display-lcd-alb-ew6t4262i/pd/DVF6XWBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6311729&X-Search-Page=2&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu incarcare verticala Electrolux EW6T4262l PerfectCare 600 , 6 kg, 1200 RPM, Clasa A+++, Motor Inverter, SensiCare, SoftOpening, Display LCD, Alb",
+            "old_price": 1899.99,
+            "price": 1899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-arctic-9-kg-1200-rpm-clasa-a-motor-silent-inverter-aqua-surf-alb-ab91222xlw5/pd/DVX59RBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5782962&X-Search-Page=2&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Arctic AB91222XLW5, 9 kg, 1200 RPM, Clasa A+++, Motor Silent Inverter, Aqua Surf, Alb",
+            "old_price": 1429.99,
+            "price": 1429.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-electrolux-perfectcare700-8kg-1400-rpm-clasa-a-motor-inverter-sensicare-steamcare-freshscent-display-bigled-alb-ew7f348w/pd/D1XJ1JBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4678527&X-Search-Page=2&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Electrolux PerfectCare700 EW7F348W, 8Kg, 1400 RPM, Clasa A+++, Motor inverter, SensiCare, SteamCare, FreshScent, Display BigLED, Alb",
+            "old_price": 2029.99,
+            "price": 2029.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-electrolux-perfectcare600-7-kg-1200-rpm-clasa-a-1200-rpm-lcd-alb-ew6s427w/pd/DST7SVBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4926752&X-Search-Page=2&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Electrolux EW6S427W, PerfectCare600, 7 kg, 1200 RPM, Clasa A+++, 1200 rpm, LCD, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-indesit-innex-bwsa71253w-eu-7kg-1200-rpm-push-wash-clasa-a-alb-bwsa-71253-w-eu/pd/D95ZM9BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4203489&X-Search-Page=2&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Indesit Innex BWSA71253W EU, 7kg, 1200 RPM, Push&amp;Wash, Clasa A+++, Alb",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-miele-7-kg-1400-rpm-clasa-a-alb-wdb030-wcs/pd/D1YRZJBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4674906&X-Search-Page=2&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Miele WDB030 WCS, 7 Kg, 1400 rpm, Clasa A+++, Alb",
+            "old_price": 4215.0,
+            "price": 4215.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-bosch-7-kg-1400-rpm-clasa-a-wan28261by/pd/DCHCN3BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1050511&X-Search-Page=2&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Bosch WAN28261BY, 7 kg, 1400 RPM, Clasa A+++",
+            "old_price": 1889.99,
+            "price": 1889.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-aeg-8-kg-1600-rpm-clasa-a-motor-okoinverter-tehnologie-prosteam-alb-l7fee68s/pd/DGDZC1BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5624179&X-Search-Page=2&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe AEG L7FEE68S, 8 kg, 1600 RPM, Clasa A+++, Motor OKOInverter, Tehnologie ProSteam, Alb",
+            "old_price": 2699.99,
+            "price": 2699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-beko-spalare-8-kg-uscare-5-kg-1400-rpm-clasa-a-homewhiz-steamcure-hygiene-wash-dry-motor-prosmart-inverter-gri-htv8736xc0m/pd/D470CBMBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6452194&X-Search-Page=2&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Beko HTV8736XC0M, Spalare 8 kg, Uscare 5 kg, 1400 RPM, Clasa A, HomeWhiz, SteamCure, Hygiene+ Wash&amp;Dry, Motor ProSmart Inverter, Gri",
+            "old_price": 2149.99,
+            "price": 2149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-lg-titan-c5-6-5-kg-1000-rpm-clasa-a-alb-f0j5wn3w/pd/D8WZNDBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=57483728&X-Search-Page=2&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe LG Titan C5 F0J5WN3W, 6.5 kg, 1000 RPM, Clasa A+++, Alb",
+            "old_price": 1439.91,
+            "price": 1439.91,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-lg-9-kg-1400-rpm-clasa-a-direct-drive-spa-steam-alb-f4j5vy4w/pd/DH0LGQBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5727341&X-Search-Page=2&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe LG F4J5VY4W, 9 kg, 1400 RPM, Clasa A+++, Direct Drive, Spa Steam, Alb",
+            "old_price": 1849.99,
+            "price": 1849.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-lg-spalare-9-kg-uscare-6-kg-1400-rpm-clasa-a-ai-direct-drive-turbo-wash-steam-eco-hybrid-wifi-alb-f4dv709h1/pd/DW44JBMBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6436634&X-Search-Page=2&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator LG F4DV709H1, Spalare 9 kg, Uscare 6 kg, 1400 RPM, Clasa A, AI Direct Drive, Turbo Wash, Steam+, Eco Hybrid, WiFi, Alb",
+            "old_price": 2799.99,
+            "price": 2799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-beko-8-kg-1600-rpm-clasa-a-motor-prosmarttm-inverter-steamcure-autodose-homewhiz-alb-ewtv8836xsd/pd/DTV7GWBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6369645&X-Search-Page=2&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Beko EWTV8836XSD, 8 kg, 1600 RPM, Clasa A+++, Motor ProSmart\u2122 Inverter, SteamCure, AutoDose, HomeWhiz, Alb",
+            "old_price": 1499.99,
+            "price": 1499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-slim-candy-spalare-6-kg-uscare-4-kg-1400-rpm-conectivitate-nfc-clasa-b-alb-csws40464tdr-2-s/pd/DWSK21BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5582835&X-Search-Page=2&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Slim Candy CSWS40464TDR/2-S, Spalare 6 kg, Uscare 4 kg, 1400 RPM, Conectivitate NFC, Clasa B, Alb",
+            "old_price": 1754.68,
+            "price": 1754.68,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-8-kg-1400-rpm-clasa-a-motor-digital-inverter-ecobubble-inox-ww80j5446fx-le/pd/DHHBVDBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1531987&X-Search-Page=2&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung WW80J5446FX/LE, 8 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, EcoBubble, Inox",
+            "old_price": 1799.99,
+            "price": 1799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-whirlpool-fwsg71253w-freshcare-1200-rpm-7-kg-tehnologia-al-6-lea-simt-clasa-a-alb-fwsg71253w-eu/pd/D3VPRKBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3645235&X-Search-Page=2&X-Search-Position=39&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Whirlpool FWSG71253W FreshCare+, 1200 RPM, 7 kg, Tehnologia al 6-lea Simt, Clasa A+++, Alb",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-electrolux-perfectcare600-time-manager-slim-6-kg-1000-rpm-clasa-a-alb-ew6s506w/pd/DXT7SVBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4926748&X-Search-Page=2&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Electrolux EW6S506W, Perfectcare600, Time Manager, Slim, 6 kg, 1000 RPM, Clasa A++, Alb",
+            "old_price": 1249.99,
+            "price": 1249.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-hotpoint-1600-rpm-11-kg-spalare-7-kg-uscare-clasa-a-alb-aqd1171d69ideu-a/pd/DJZ369BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4322045&X-Search-Page=2&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Hotpoint AQD1171D69IDEU/A, 1600 RPM, 11 kg spalare/7 kg uscare, clasa A, Alb",
+            "old_price": 2299.99,
+            "price": 2299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-lg-spalare-8-kg-uscare-5-kg-1400-rpm-clasa-a-ai-direct-drive-steam-smart-diagnosis-wifi-alb-f4dt408aidd/pd/DBC4JBMBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6436635&X-Search-Page=2&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator LG F4DT408AIDD, Spalare 8 kg, Uscare 5 kg, 1400 RPM, Clasa A, AI Direct Drive, Steam, Smart Diagnosis, WiFi, Alb",
+            "old_price": 2399.99,
+            "price": 2399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-6th-sense-7-kg-1400-rpm-clasa-a-alb-fwg71484w-eu/pd/D619RKBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3645633&X-Search-Page=2&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Whirlpool FreshCare+ FWG71484W EU, 6th- Sense, 7 kg, 1400 rpm, Clasa A+++, Alb",
+            "old_price": 1449.99,
+            "price": 1449.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-heinner-6kg-1000-rpm-clasa-a-ecran-led-functie-start-intarziat-sistem-eco-logic-60-cm-alb-hwm-6010va/pd/D087KNBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3746717&X-Search-Page=2&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Heinner HWM-6010VA++, 6kg, 1000 RPM, Clasa A++, Ecran LED, Functie start intarziat, Sistem Eco Logic, 60 cm, Alb",
+            "old_price": 914.99,
+            "price": 914.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-beko-spalare-8-kg-uscare-5-kg-1200-rpm-homewhiz-steamcure-ionguard-clasa-a-motor-prosmart-inverter-wash-wear-babyprotect-downloaded-cycle-alb-htv8636xs0/pd/DBXCSBMBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6440206&X-Search-Page=2&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Beko HTV8636XS0, Spalare 8 kg, Uscare 5 kg, 1200 RPM, HomeWhiz,SteamCure, IonGuard, Clasa A, Motor ProSmart Inverter, Wash &amp; Wear, BabyProtect,Downloaded Cycle, Alb",
+            "old_price": 1849.99,
+            "price": 1849.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-6th-sense-colours-9-kg-1400-rpm-clasa-a-alb-fwg91484w-eu/pd/DJS5CKBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3632773&X-Search-Page=2&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Whirlpool FreshCare+ FWG91484W EU, 6th Sense Colours, 9 kg, 1400 RPM, Clasa A+++, Alb",
+            "old_price": 1469.99,
+            "price": 1469.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-miele-9-kg-1400-rpm-clasa-a-twindos-capdosing-wifi-connatct-alb-weg675-wps/pd/DR0Y38BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6017061&X-Search-Page=2&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Miele WEG675 WPS, 9 kg, 1400 RPM, Clasa A+++, TwinDos, CapDosing, WiFi Conn@ct, Alb",
+            "old_price": 5855.0,
+            "price": 5855.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-lg-9-kg-1400-rpm-clasa-a-ai-direct-drive-steam-smart-diagnoisis-wifi-alb-f4wt409aidd/pd/D1F4JBMBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6436621&X-Search-Page=2&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe LG F4WT409AIDD, 9 kg, 1400 RPM, Clasa A+++, AI Direct Drive, Steam, Smart Diagnoisis, WiFi, Alb",
+            "old_price": 1999.99,
+            "price": 1999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-7-kg-1200-rpm-6th-sense-clasa-a-argintiu-fwd71284sb-ee/pd/DB970LBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=5388435&X-Search-Page=2&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Whirlpool FreshCare FWD71284SB EE, 7 kg, 1200 RPM, 6th Sense, Clasa A+++, Argintiu",
+            "old_price": 1599.99,
+            "price": 1599.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-beko-8-kg-1200-rpm-clasa-a-motor-prosmart-inverter-homewhiz-conectare-bluetooth-steamcure-alb-wtv8636xa/pd/DKJRXRBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=58517802&X-Search-Page=2&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Beko WTV8636XA, 8 kg, 1200 RPM, Clasa A+++, Motor ProSmart Inverter, HomeWhiz, Conectare Bluetooth, SteamCure, Alb",
+            "old_price": 1499.98,
+            "price": 1499.98,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-electrolux-8-kg-1400-rpm-clasa-a-motor-inverter-autodose-wifi-fuzzy-logic-alb-ew6f348sa/pd/D4Q4KGBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6104711&X-Search-Page=2&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Electrolux EW6F348SA, 8 kg, 1400 RPM, Clasa A+++, Motor Inverter, AutoDose, WiFi, Fuzzy Logic, Alb",
+            "old_price": 2699.99,
+            "price": 2699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-albatros-6-kg-1000-rpm-alb-awm1062a/pd/DTF24VBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=44796767&X-Search-Page=2&X-Search-Position=52&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Albatros AWM1062A++, 6 Kg, 1000 RPM, Alb",
+            "old_price": 889.99,
+            "price": 889.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-arctic-7-kg-1000-rpm-clasa-a-alb-apl71012bdw1/pd/D5SNLNBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=3851954&X-Search-Page=2&X-Search-Position=53&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Arctic APL71012BDW1, 7 kg,1000 RPM, Clasa A+++, Alb",
+            "old_price": 1019.99,
+            "price": 1019.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-beko-9-kg-1400-rpm-clasa-a-homewhiz-conectare-bluetooth-steamcure-addgarment-motor-prosmart-inverter-alb-wtv9716dxst/pd/D5JY5WBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=6360199&X-Search-Page=2&X-Search-Position=54&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Beko WTV9716DXST, 9 kg, 1400 RPM, Clasa A+++, HomeWhiz, conectare Bluetooth, SteamCure, AddGarment, Motor ProSmart Inverter, Alb",
+            "old_price": 1649.99,
+            "price": 1649.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-indesit-6-kg-1000-rpm-clasa-a-alb-bwsa-61053-w-eu/pd/D0F8F7BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1407500&X-Search-Page=2&X-Search-Position=55&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Indesit BWSA 61053 W EU, 6 kg, 1000 rpm, Clasa A+++, Alb",
+            "old_price": 1049.99,
+            "price": 1049.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-semiautomata-heinner-8-kg-4-6-kg-alb-albastru-hswm-ad84bl/pd/DN1F5JBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4697466&X-Search-Page=2&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe semiautomata Heinner HSWM-AD84BL, 8 Kg, 4.6 Kg, Alb/Albastru",
+            "old_price": 657.52,
+            "price": 657.52,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-bosch-10-kg-spalare-6-kg-uscare-1400-rpm-clasa-a-alb-wdu28540eu/pd/DMCSQJBBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=4681557&X-Search-Page=2&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe cu uscator Bosch WDU28540EU, 10 Kg spalare/ 6 Kg uscare, 1400 rpm, Clasa A, Alb",
+            "old_price": 4299.99,
+            "price": 4299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-samsung-addwash-8-kg-1400-rpm-clasa-a-motor-digital-inverter-ecobubble-alb-ww80k5410uw-le/pd/DD9K93BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1021977&X-Search-Page=2&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Samsung AddWash WW80K5410UW/LE, 8 kg, 1400 RPM, Clasa A+++, Motor Digital Inverter, EcoBubble, Alb",
+            "old_price": 1965.99,
+            "price": 1965.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-12 12:28:02",
+            "link": "https://www.emag.ro/masina-de-spalat-rufe-slim-indesit-7-kg-1000-rpm-clasa-a-alb-bwsa-71052-w-eu/pd/DVF8F7BBM/?X-Search-Id=275a3aecee5a3622829e&X-Product-Id=1407507&X-Search-Page=2&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Masina de spalat rufe Slim Indesit BWSA 71052 W EU, 7 kg, 1000 rpm, Clasa A++, Alb",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        }
+    ]
+}

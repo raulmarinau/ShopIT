@@ -1,0 +1,276 @@
+{
+    "products": [
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-cynosa-chroma-iluminare-rgb-negru-rz03-02260100-r3m1/pd/D7P52JBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4605822&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming Razer Cynosa Chroma, Iluminare RGB, Negru",
+            "old_price": 239.99,
+            "price": 239.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-cynosa-lite-iluminare-rgb-negru-rz03-02740600-r3m1/pd/DCW7PGBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=6133149&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming Razer Cynosa Lite, Iluminare RGB, Negru",
+            "old_price": 174.99,
+            "price": 174.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-iluminare-chroma-rgb-switch-optic-negru-rz03-02520100-r3m1/pd/D6YBNVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4900209&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman, iluminare Chroma RGB, switch optic, Negru",
+            "old_price": 419.99,
+            "price": 419.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-ornata-chroma-iluminare-rgb-switch-meacha-membrane-rz03-02040100-r3m1/pd/DR6M92BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=1211701&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming Razer Ornata Chroma, iluminare RGB, switch Meacha-Membrane",
+            "old_price": 386.99,
+            "price": 386.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-lite-switch-orange-silent-iluminare-alb-stormtrooper-edition-rz03-02640800-r3m1/pd/DDGJ45BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5865502&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Lite, switch Orange silent, iluminare alb, Stormtrooper Edition",
+            "old_price": 549.99,
+            "price": 549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-mecanica-gaming-razer-blackwidow-2019-layout-us-green-switch-negru-rz03-02860100-r3m1/pd/DF48K1BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5598311&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura mecanica gaming Razer BlackWidow 2019, layout US, green switch, Negru",
+            "old_price": 634.99,
+            "price": 634.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-elite-iluminare-chroma-rgb-switch-optic-liniar-negru-rz03-01871000-r3m1/pd/DXC6NGBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=6110749&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman Elite, iluminare Chroma RGB, switch optic liniar, Negru",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-iluminare-chroma-rgb-taste-multimedia-switch-yellow-liniar-rz03-02622000-r3m1/pd/D21LR4BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5115268&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Elite, iluminare Chroma RGB, taste multimedia, switch Yellow liniar",
+            "old_price": 859.99,
+            "price": 859.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-tournament-edition-iluminare-chroma-rgb-switch-optic-liniar-layout-us-negru-rz03-03080100-r3m1/pd/DBM6XGBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=6138681&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman Tournament Edition, iluminare Chroma RGB, switch optic liniar, Layout US, Negru",
+            "old_price": 749.99,
+            "price": 749.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-elite-iluminare-chroma-rgb-switch-optic-clicky-negru-rz03-01870100-r3m1/pd/D431LVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4943688&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman Elite, iluminare Chroma RGB, switch optic clicky, Negru",
+            "old_price": 899.99,
+            "price": 899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-iluminare-chroma-rgb-taste-multimedia-switch-green-clicky-rz03-02620100-r3m1/pd/DBL9WVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4983197&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Elite, iluminare Chroma RGB, taste multimedia, switch Green clicky",
+            "old_price": 839.99,
+            "price": 839.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-iluminare-chroma-rgb-taste-multimedia-switch-orange-tactil-rz03-02621800-r3m1/pd/D7LDQ4BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5115244&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Elite, iluminare Chroma RGB, taste multimedia, switch Orange tactil",
+            "old_price": 899.99,
+            "price": 899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-tournament-edition-chroma-v2-yellow-switch-46628/pd/D8CL30BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=41435034&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Mecanica Razer Blackwidow Tournament Edition Chroma V2 Yellow Switch",
+            "old_price": 1518.29,
+            "price": 1518.29,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-cynosa-chroma-us-int-layout-53738/pd/DLHGNJBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=33729422&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Razer Cynosa Chroma Us Int Layout",
+            "old_price": 349.86,
+            "price": 349.86,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-ornata-chroma-destiny-2-us-rz03-02043400-r3m1/pd/D47GQVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=37253828&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Razer Ornata Chroma Destiny 2, US",
+            "old_price": 1021.08,
+            "price": 1021.08,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-ornata-chroma-destiny-2-edition-46633/pd/DBLL30BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=41435015&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Mecanica Razer Ornata Chroma Destiny 2 Edition",
+            "old_price": 1188.1,
+            "price": 1188.1,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:35",
+            "link": "https://www.emag.ro/tastatura-razer-cynosa-chroma-gaming-cu-razer-chroma-rgb-de-iluminare-anti-ghosting-negru-b077xvmgps/pd/D888B1BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=42879134&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Razer Cynosa Chroma, gaming, cu Razer Chroma RGB de iluminare, Anti-Ghosting, negru",
+            "old_price": 690.06,
+            "price": 690.06,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-cynosa-chroma-iluminare-rgb-negru-rz03-02260100-r3m1/pd/D7P52JBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4605822&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming Razer Cynosa Chroma, Iluminare RGB, Negru",
+            "old_price": 239.99,
+            "price": 239.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-cynosa-lite-iluminare-rgb-negru-rz03-02740600-r3m1/pd/DCW7PGBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=6133149&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming Razer Cynosa Lite, Iluminare RGB, Negru",
+            "old_price": 174.99,
+            "price": 174.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-iluminare-chroma-rgb-switch-optic-negru-rz03-02520100-r3m1/pd/D6YBNVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4900209&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman, iluminare Chroma RGB, switch optic, Negru",
+            "old_price": 419.99,
+            "price": 419.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-ornata-chroma-iluminare-rgb-switch-meacha-membrane-rz03-02040100-r3m1/pd/DR6M92BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=1211701&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming Razer Ornata Chroma, iluminare RGB, switch Meacha-Membrane",
+            "old_price": 386.99,
+            "price": 386.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-lite-switch-orange-silent-iluminare-alb-stormtrooper-edition-rz03-02640800-r3m1/pd/DDGJ45BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5865502&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Lite, switch Orange silent, iluminare alb, Stormtrooper Edition",
+            "old_price": 549.99,
+            "price": 549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-mecanica-gaming-razer-blackwidow-2019-layout-us-green-switch-negru-rz03-02860100-r3m1/pd/DF48K1BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5598311&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura mecanica gaming Razer BlackWidow 2019, layout US, green switch, Negru",
+            "old_price": 634.99,
+            "price": 634.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-elite-iluminare-chroma-rgb-switch-optic-liniar-negru-rz03-01871000-r3m1/pd/DXC6NGBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=6110749&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman Elite, iluminare Chroma RGB, switch optic liniar, Negru",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-iluminare-chroma-rgb-taste-multimedia-switch-yellow-liniar-rz03-02622000-r3m1/pd/D21LR4BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5115268&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Elite, iluminare Chroma RGB, taste multimedia, switch Yellow liniar",
+            "old_price": 859.99,
+            "price": 859.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-tournament-edition-iluminare-chroma-rgb-switch-optic-liniar-layout-us-negru-rz03-03080100-r3m1/pd/DBM6XGBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=6138681&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman Tournament Edition, iluminare Chroma RGB, switch optic liniar, Layout US, Negru",
+            "old_price": 749.99,
+            "price": 749.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-huntsman-elite-iluminare-chroma-rgb-switch-optic-clicky-negru-rz03-01870100-r3m1/pd/D431LVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4943688&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer Huntsman Elite, iluminare Chroma RGB, switch optic clicky, Negru",
+            "old_price": 899.99,
+            "price": 899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-iluminare-chroma-rgb-taste-multimedia-switch-green-clicky-rz03-02620100-r3m1/pd/DBL9WVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=4983197&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Elite, iluminare Chroma RGB, taste multimedia, switch Green clicky",
+            "old_price": 839.99,
+            "price": 839.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-iluminare-chroma-rgb-taste-multimedia-switch-orange-tactil-rz03-02621800-r3m1/pd/D7LDQ4BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=5115244&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura gaming mecanica Razer BlackWidow Elite, iluminare Chroma RGB, taste multimedia, switch Orange tactil",
+            "old_price": 899.99,
+            "price": 899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-blackwidow-tournament-edition-chroma-v2-yellow-switch-46628/pd/D8CL30BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=41435034&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Mecanica Razer Blackwidow Tournament Edition Chroma V2 Yellow Switch",
+            "old_price": 1518.29,
+            "price": 1518.29,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-cynosa-chroma-us-int-layout-53738/pd/DLHGNJBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=33729422&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Razer Cynosa Chroma Us Int Layout",
+            "old_price": 349.86,
+            "price": 349.86,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-razer-ornata-chroma-destiny-2-us-rz03-02043400-r3m1/pd/D47GQVBBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=37253828&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Razer Ornata Chroma Destiny 2, US",
+            "old_price": 1021.08,
+            "price": 1021.08,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-gaming-mecanica-razer-ornata-chroma-destiny-2-edition-46633/pd/DBLL30BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=41435015&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Gaming Mecanica Razer Ornata Chroma Destiny 2 Edition",
+            "old_price": 1188.1,
+            "price": 1188.1,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:11:38",
+            "link": "https://www.emag.ro/tastatura-razer-cynosa-chroma-gaming-cu-razer-chroma-rgb-de-iluminare-anti-ghosting-negru-b077xvmgps/pd/D888B1BBM/?X-Search-Id=c92702149067246066ce&X-Product-Id=42879134&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Tastatura Razer Cynosa Chroma, gaming, cu Razer Chroma RGB de iluminare, Anti-Ghosting, negru",
+            "old_price": 690.06,
+            "price": 690.06,
+            "retailer": "emag"
+        }
+    ]
+}

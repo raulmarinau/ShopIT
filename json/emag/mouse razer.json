@@ -1,0 +1,628 @@
+{
+    "products": [
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-essential-negru-rz01-02540100-r3m1/pd/D12BNVBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4900211&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Essential, Negru",
+            "old_price": 149.99,
+            "price": 149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-basilisk-x-hyperspeed-bluetooth-2-4ghz-negru-rz01-03150100-r3g1/pd/DVC6NGBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6110755&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Basilisk X HyperSpeed, Bluetooth&amp;2.4GHz, Negru",
+            "old_price": 289.99,
+            "price": 289.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-v2-iluminare-chroma-rgb-ajustare-rezistenta-scrool-negru-rz01-03160100-r3m1/pd/DJSVKWBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6263789&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk V2, iluminare Chroma RGB, ajustare rezistenta scrool, Negru",
+            "old_price": 379.99,
+            "price": 379.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-basilisk-ultimate-dock-iluminare-chroma-rgb-ajustare-rezistenta-scrool-negru-rz01-03170100-r3g1/pd/DMM6XGBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6138682&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Basilisk Ultimate &amp; Dock, iluminare Chroma RGB, ajustare rezistenta scrool, Negru",
+            "old_price": 914.99,
+            "price": 914.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-v2-cablu-speedflex-20k-dpi-iluminare-chroma-rgb-82grame-negru-rz01-03210100-r3m1/pd/DVSVKWBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6263791&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder V2, cablu SpeedFlex, 20K DPI, iluminare Chroma RGB, 82grame, Negru",
+            "old_price": 359.99,
+            "price": 359.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-viper-ultrausor-69g-cablu-speedflex-iluminare-chroma-rgb-negru-rz01-02550100-r3m1/pd/DCKHZ5BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=5873829&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Viper, Ultrausor 69g, cablu SpeedFlex, iluminare Chroma RGB, Negru",
+            "old_price": 374.99,
+            "price": 374.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-naga-trinity-negru-rz01-02410100-r3m1/pd/DTLV49BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4272914&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Naga Trinity, Negru",
+            "old_price": 422.99,
+            "price": 422.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-mamba-elite-negru-rz01-02560100-r3m1/pd/DLTBNVBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4900212&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Mamba Elite, Negru",
+            "old_price": 404.99,
+            "price": 404.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-mamba-wireless-negru-rz01-02710100-r3m1/pd/DL21LVBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4943689&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Mamba Wireless, Negru",
+            "old_price": 449.99,
+            "price": 449.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-viper-mini-ultrausor-61g-cablu-speedflex-iluminare-chroma-rgb-negru-rz01-03250100-r3m1/pd/D2FH7MMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6484525&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Viper Mini, Ultrausor 61g, cablu SpeedFlex, iluminare Chroma RGB, Negru",
+            "old_price": 269.99,
+            "price": 269.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-mamba-elite-rz01-02560100-r3m1/pd/DGCV25BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=46501987&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Razer Mamba Elite",
+            "old_price": 600.99,
+            "price": 600.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-atheris-bluetooth-2-4ghz-negru-rz01-02170100-r3g1/pd/D776KHBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4094072&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Atheris, Bluetooth&amp;2.4GHz, Negru",
+            "old_price": 272.99,
+            "price": 272.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-quartz-roz-rz01-02330200-r3m1/pd/DPSVVQBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=5707398&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk, Quartz Roz",
+            "old_price": 349.99,
+            "price": 349.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-mamba-hyperflux-mousepad-firefly-rz83-02480100-b3m1/pd/DBSJ3SBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45473870&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Wireless Razer Mamba Hyperflux + Mousepad Firefly",
+            "old_price": 2013.79,
+            "price": 2013.79,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-essential-rz01-02540100-r3m1-negru-verde-5257012/pd/D9DFGLBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45277989&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Essential RZ01-02540100-R3M1, Negru/Verde",
+            "old_price": 166.0,
+            "price": 166.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-negru-34119/pd/DZ3CF2BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=15817000&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Razer Deathadder Negru",
+            "old_price": 269.54,
+            "price": 269.54,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-razer-lancehead-editie-turneu-senzor-optic-5g-16-000-dpi-memorie-la-bord-si-cloud-mouse-ul-ambidextru-pentru-jocuri-quartz-b077sbdmbv/pd/D3V7KLBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=40535149&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Razer Lancehead editie turneu: senzor optic 5G - 16.000 Dpi - memorie la bord si cloud - mouse-ul ambidextru pentru jocuri - quartz",
+            "old_price": 1104.14,
+            "price": 1104.14,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-negru-rz01-02330100-r3g1/pd/DLFYCHBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=47637289&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk, Negru",
+            "old_price": 349.0,
+            "price": 349.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-de-joc-ergonomic-ambidextru-razer-abyssus-essential-3-butoane-hyperesponse-b00kxyv6yw/pd/DKV7KLBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45111074&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse de joc ergonomic ambidextru, Razer, Abyssus Essential, 3 butoane Hyperesponse",
+            "old_price": 239.19,
+            "price": 239.19,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-abyssus-essential-rz01-02160300-r3m1/pd/DDJH3SBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=36550644&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Abyssus Essential",
+            "old_price": 229.67,
+            "price": 229.67,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-razer-gaming-deathadder-rz01-00151400-r3g1/pd/EDNP2BBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=58651390&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Razer Gaming DEATHADDER",
+            "old_price": 269.54,
+            "price": 269.54,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-elite-ergonomic-negru-rz01-02010100-r3g1/pd/DTC5K7BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=28693149&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Deathadder Elite, Ergonomic, Negru",
+            "old_price": 377.81,
+            "price": 377.81,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-abyssus-essential-rz01-02160300-r3m1/pd/D8CV25BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=53354535&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Razer Abyssus Essential",
+            "old_price": 239.19,
+            "price": 239.19,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-abyssus-elite-d-va-edition-rz01-02160200-r3m1/pd/DYFN3SBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=49046965&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Abyssus Elite, D.Va Edition",
+            "old_price": 320.0,
+            "price": 320.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/picioruse-mouse-teflon-skates-pentru-razer-deathadder-rz01/pd/DNDPR8BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=52928050&X-Search-Page=1&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Picioruse mouse, teflon,Skates, pentru Razer Deathadder",
+            "old_price": 50.0,
+            "price": 50.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-razer-abyssus-2014-1800dpi-mouse-pad-goliathus-speed-rz84-00360200-b3m1/pd/DKRRVYBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=14910240&X-Search-Page=1&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Razer Abyssus 2014-1800DPI + Mouse Pad Goliathus Speed",
+            "old_price": 179.0,
+            "price": 179.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-chroma-overwatch-edition-10000-dpi-negru-portocaliu-rz01-01210300-r3m1/pd/D62QB7BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=25691017&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Chroma Overwatch Edition, 10000 dpi, Negru/Portocaliu",
+            "old_price": 695.0,
+            "price": 695.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-alb-mercury-rz01-02330300-r3m1/pd/DSC6NGBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=58942837&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk, Alb Mercury",
+            "old_price": 448.87,
+            "price": 448.87,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-elite-overwatch-edition-rz01-02010300-r3m1/pd/DY76KHBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45806916&X-Search-Page=1&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Elite Overwatch edition",
+            "old_price": 595.0,
+            "price": 595.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-rz01-02650100-r3m1/pd/DFMQJ5BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=54601189&X-Search-Page=1&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk",
+            "old_price": 349.0,
+            "price": 349.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/picioruse-mouse-teflon-skates-pentru-razer-naga-mmog-naga01/pd/DPDPR8BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=52928051&X-Search-Page=1&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Picioruse mouse, teflon,Skates, pentru Razer Naga MMOG",
+            "old_price": 50.0,
+            "price": 50.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-atheris-bluetooth-2-4ghz-stormtrooper-edition-rz01-02170400-r3m1/pd/DTGJ45BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=47970155&X-Search-Page=1&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Atheris, Bluetooth&amp;2.4GHz, Stormtrooper Edition",
+            "old_price": 606.45,
+            "price": 606.45,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-mamba-gears-of-war-5-edition-gri-rz01-02710200-r3m1/pd/D7JDXYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=59063089&X-Search-Page=1&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Mamba, Gears of War 5 Edition, Gri",
+            "old_price": 833.8,
+            "price": 833.8,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/picioruse-mouse-teflon-skates-pentru-razer-ouroboros-our01/pd/D9DPR8BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=52928053&X-Search-Page=1&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Picioruse mouse, teflon,Skates, pentru Razer Ouroboros",
+            "old_price": 50.0,
+            "price": 50.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-essential-negru-rz01-02650100-r3m1/pd/D3V4WZBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=56594655&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk Essential, Negru",
+            "old_price": 450.64,
+            "price": 450.64,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-viper-ultimate-ultrausor-74g-negru-rz01-03050200-r3g1/pd/DS15XYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6677658&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Viper Ultimate, Ultrausor 74g, Negru",
+            "old_price": 849.99,
+            "price": 849.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-basilisk-ultimate-negru-rz01-03170200-r3g1/pd/DJ15XYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6677657&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Basilisk Ultimate, Negru",
+            "old_price": 979.99,
+            "price": 979.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-razer-atheris-mercury-white-rz01-02170300-r3m1/pd/DF15XYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6677656&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Atheris, Mercury White",
+            "old_price": 339.99,
+            "price": 339.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:29",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-viper-ultimate-dock-ultrausor-74g-iluminare-chroma-rgb-negru-rsgemag3783025x-rz01-03050100-r3g1/pd/D5ZM88BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6613979&X-Search-Page=1&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view#used-products",
+            "name": "Mouse gaming wireless Razer Viper Ultimate &amp; Dock, Ultrausor 74g, iluminare Chroma RGB, Negru",
+            "old_price": 719.99,
+            "price": 719.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-essential-negru-rz01-02540100-r3m1/pd/D12BNVBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4900211&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Essential, Negru",
+            "old_price": 149.99,
+            "price": 149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-basilisk-x-hyperspeed-bluetooth-2-4ghz-negru-rz01-03150100-r3g1/pd/DVC6NGBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6110755&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Basilisk X HyperSpeed, Bluetooth&amp;2.4GHz, Negru",
+            "old_price": 289.99,
+            "price": 289.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-v2-iluminare-chroma-rgb-ajustare-rezistenta-scrool-negru-rz01-03160100-r3m1/pd/DJSVKWBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6263789&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk V2, iluminare Chroma RGB, ajustare rezistenta scrool, Negru",
+            "old_price": 379.99,
+            "price": 379.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-basilisk-ultimate-dock-iluminare-chroma-rgb-ajustare-rezistenta-scrool-negru-rz01-03170100-r3g1/pd/DMM6XGBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6138682&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Basilisk Ultimate &amp; Dock, iluminare Chroma RGB, ajustare rezistenta scrool, Negru",
+            "old_price": 914.99,
+            "price": 914.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-v2-cablu-speedflex-20k-dpi-iluminare-chroma-rgb-82grame-negru-rz01-03210100-r3m1/pd/DVSVKWBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6263791&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder V2, cablu SpeedFlex, 20K DPI, iluminare Chroma RGB, 82grame, Negru",
+            "old_price": 359.99,
+            "price": 359.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-viper-ultrausor-69g-cablu-speedflex-iluminare-chroma-rgb-negru-rz01-02550100-r3m1/pd/DCKHZ5BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=5873829&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Viper, Ultrausor 69g, cablu SpeedFlex, iluminare Chroma RGB, Negru",
+            "old_price": 374.99,
+            "price": 374.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-naga-trinity-negru-rz01-02410100-r3m1/pd/DTLV49BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4272914&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Naga Trinity, Negru",
+            "old_price": 422.99,
+            "price": 422.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-mamba-elite-negru-rz01-02560100-r3m1/pd/DLTBNVBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4900212&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Mamba Elite, Negru",
+            "old_price": 404.99,
+            "price": 404.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-mamba-wireless-negru-rz01-02710100-r3m1/pd/DL21LVBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4943689&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Mamba Wireless, Negru",
+            "old_price": 449.99,
+            "price": 449.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-viper-mini-ultrausor-61g-cablu-speedflex-iluminare-chroma-rgb-negru-rz01-03250100-r3m1/pd/D2FH7MMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6484525&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Viper Mini, Ultrausor 61g, cablu SpeedFlex, iluminare Chroma RGB, Negru",
+            "old_price": 269.99,
+            "price": 269.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-mamba-elite-rz01-02560100-r3m1/pd/DGCV25BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=46501987&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Razer Mamba Elite",
+            "old_price": 600.99,
+            "price": 600.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-atheris-bluetooth-2-4ghz-negru-rz01-02170100-r3g1/pd/D776KHBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=4094072&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Atheris, Bluetooth&amp;2.4GHz, Negru",
+            "old_price": 272.99,
+            "price": 272.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-quartz-roz-rz01-02330200-r3m1/pd/DPSVVQBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=5707398&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk, Quartz Roz",
+            "old_price": 349.99,
+            "price": 349.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-mamba-hyperflux-mousepad-firefly-rz83-02480100-b3m1/pd/DBSJ3SBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45473870&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Wireless Razer Mamba Hyperflux + Mousepad Firefly",
+            "old_price": 2013.79,
+            "price": 2013.79,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-essential-rz01-02540100-r3m1-negru-verde-5257012/pd/D9DFGLBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45277989&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Essential RZ01-02540100-R3M1, Negru/Verde",
+            "old_price": 166.0,
+            "price": 166.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-negru-34119/pd/DZ3CF2BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=15817000&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Razer Deathadder Negru",
+            "old_price": 269.54,
+            "price": 269.54,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-razer-lancehead-editie-turneu-senzor-optic-5g-16-000-dpi-memorie-la-bord-si-cloud-mouse-ul-ambidextru-pentru-jocuri-quartz-b077sbdmbv/pd/D3V7KLBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=40535149&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Razer Lancehead editie turneu: senzor optic 5G - 16.000 Dpi - memorie la bord si cloud - mouse-ul ambidextru pentru jocuri - quartz",
+            "old_price": 1104.14,
+            "price": 1104.14,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-negru-rz01-02330100-r3g1/pd/DLFYCHBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=47637289&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk, Negru",
+            "old_price": 349.0,
+            "price": 349.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-de-joc-ergonomic-ambidextru-razer-abyssus-essential-3-butoane-hyperesponse-b00kxyv6yw/pd/DKV7KLBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45111074&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse de joc ergonomic ambidextru, Razer, Abyssus Essential, 3 butoane Hyperesponse",
+            "old_price": 239.19,
+            "price": 239.19,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-abyssus-essential-rz01-02160300-r3m1/pd/DDJH3SBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=36550644&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Abyssus Essential",
+            "old_price": 229.67,
+            "price": 229.67,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-razer-gaming-deathadder-rz01-00151400-r3g1/pd/EDNP2BBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=58651390&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Razer Gaming DEATHADDER",
+            "old_price": 269.54,
+            "price": 269.54,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-elite-ergonomic-negru-rz01-02010100-r3g1/pd/DTC5K7BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=28693149&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Deathadder Elite, Ergonomic, Negru",
+            "old_price": 377.81,
+            "price": 377.81,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-abyssus-essential-rz01-02160300-r3m1/pd/D8CV25BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=53354535&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Razer Abyssus Essential",
+            "old_price": 239.19,
+            "price": 239.19,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-abyssus-elite-d-va-edition-rz01-02160200-r3m1/pd/DYFN3SBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=49046965&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Abyssus Elite, D.Va Edition",
+            "old_price": 320.0,
+            "price": 320.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/picioruse-mouse-teflon-skates-pentru-razer-deathadder-rz01/pd/DNDPR8BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=52928050&X-Search-Page=1&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Picioruse mouse, teflon,Skates, pentru Razer Deathadder",
+            "old_price": 50.0,
+            "price": 50.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-razer-abyssus-2014-1800dpi-mouse-pad-goliathus-speed-rz84-00360200-b3m1/pd/DKRRVYBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=14910240&X-Search-Page=1&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Razer Abyssus 2014-1800DPI + Mouse Pad Goliathus Speed",
+            "old_price": 179.0,
+            "price": 179.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-chroma-overwatch-edition-10000-dpi-negru-portocaliu-rz01-01210300-r3m1/pd/D62QB7BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=25691017&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Chroma Overwatch Edition, 10000 dpi, Negru/Portocaliu",
+            "old_price": 695.0,
+            "price": 695.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-alb-mercury-rz01-02330300-r3m1/pd/DSC6NGBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=58942837&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk, Alb Mercury",
+            "old_price": 448.87,
+            "price": 448.87,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-deathadder-elite-overwatch-edition-rz01-02010300-r3m1/pd/DY76KHBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=45806916&X-Search-Page=1&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer DeathAdder Elite Overwatch edition",
+            "old_price": 595.0,
+            "price": 595.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-rz01-02650100-r3m1/pd/DFMQJ5BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=54601189&X-Search-Page=1&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk",
+            "old_price": 349.0,
+            "price": 349.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/picioruse-mouse-teflon-skates-pentru-razer-naga-mmog-naga01/pd/DPDPR8BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=52928051&X-Search-Page=1&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Picioruse mouse, teflon,Skates, pentru Razer Naga MMOG",
+            "old_price": 50.0,
+            "price": 50.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-atheris-bluetooth-2-4ghz-stormtrooper-edition-rz01-02170400-r3m1/pd/DTGJ45BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=47970155&X-Search-Page=1&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Atheris, Bluetooth&amp;2.4GHz, Stormtrooper Edition",
+            "old_price": 606.45,
+            "price": 606.45,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-mamba-gears-of-war-5-edition-gri-rz01-02710200-r3m1/pd/D7JDXYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=59063089&X-Search-Page=1&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Mamba, Gears of War 5 Edition, Gri",
+            "old_price": 833.8,
+            "price": 833.8,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/picioruse-mouse-teflon-skates-pentru-razer-ouroboros-our01/pd/D9DPR8BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=52928053&X-Search-Page=1&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Picioruse mouse, teflon,Skates, pentru Razer Ouroboros",
+            "old_price": 50.0,
+            "price": 50.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-basilisk-essential-negru-rz01-02650100-r3m1/pd/D3V4WZBBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=56594655&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Basilisk Essential, Negru",
+            "old_price": 450.64,
+            "price": 450.64,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-viper-ultimate-ultrausor-74g-negru-rz01-03050200-r3g1/pd/DS15XYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6677658&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Viper Ultimate, Ultrausor 74g, Negru",
+            "old_price": 849.99,
+            "price": 849.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-basilisk-ultimate-negru-rz01-03170200-r3g1/pd/DJ15XYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6677657&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Razer Basilisk Ultimate, Negru",
+            "old_price": 979.99,
+            "price": 979.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-razer-atheris-mercury-white-rz01-02170300-r3m1/pd/DF15XYMBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6677656&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Razer Atheris, Mercury White",
+            "old_price": 339.99,
+            "price": 339.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 19:44:32",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-razer-viper-ultimate-dock-ultrausor-74g-iluminare-chroma-rgb-negru-rsgemag3783025x-rz01-03050100-r3g1/pd/D5ZM88BBM/?X-Search-Id=b07597fdfa3b6c5d9ec8&X-Product-Id=6613979&X-Search-Page=1&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view#used-products",
+            "name": "Mouse gaming wireless Razer Viper Ultimate &amp; Dock, Ultrausor 74g, iluminare Chroma RGB, Negru",
+            "old_price": 719.99,
+            "price": 719.99,
+            "retailer": "emag"
+        }
+    ]
+}

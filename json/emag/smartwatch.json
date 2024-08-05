@@ -1,0 +1,812 @@
+{
+    "products": [
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-sport-black-55023259/pd/D7KK4VBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4936167&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Huawei Watch GT, Sport Black",
+            "old_price": 499.99,
+            "price": 499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-classic-silver-55023257/pd/D0KK4VBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4936169&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Huawei Watch GT, Classic Silver",
+            "old_price": 499.99,
+            "price": 499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-46mm-silver-sm-r800nzsarom/pd/D8SRWSBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4856045&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Samsung Galaxy Watch, 46mm, Silver",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-huawei-watch-gt-2e-46mm-graphite-black-55032656/pd/DSY1BMMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6478844&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Huawei Watch GT 2e, 46mm, Graphite Black",
+            "old_price": 769.97,
+            "price": 769.97,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-44-mm-wi-fi-aluminum-cloud-silver-sm-r820nzsarom/pd/D76H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5925409&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 44 mm, Wi-Fi, Aluminum \u2013 Cloud Silver",
+            "old_price": 1089.99,
+            "price": 1089.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-2-46mm-matte-black-55024474/pd/D60RY8BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6015957&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Huawei Watch GT 2, 46mm, Matte Black",
+            "old_price": 879.99,
+            "price": 879.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-e-boda-smart-time-150-bluetooth-negru-5949023222592/pd/DDKFBGBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6078287&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch E-BODA Smart Time 150, Bluetooth, Negru",
+            "old_price": 97.4,
+            "price": 97.4,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-42mm-midnight-black-sm-r810nzkaxeo/pd/DNCRWSBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4856084&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Samsung Galaxy Watch, 42mm, Midnight Black",
+            "old_price": 949.99,
+            "price": 949.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-black-sm-r500nzkarom/pd/D314YZBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5458023&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Samsung Galaxy Watch Active, Black",
+            "old_price": 799.9,
+            "price": 799.9,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-2-42mm-refined-gold-55024610/pd/DR0RY8BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6015959&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Huawei Watch GT 2, 42mm, Refined Gold",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivomove-hr-black-black-silicone-band-010-01850-01/pd/D73YVJBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4656215&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivomove HR, Black, Black Silicone Band",
+            "old_price": 730.99,
+            "price": 730.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-2-46mm-pebble-brown-55024470/pd/D80RY8BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6015958&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Huawei Watch GT 2, 46mm, Pebble Brown",
+            "old_price": 971.89,
+            "price": 971.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-huawei-watch-gt-2e-46mm-lava-red-55032657/pd/DVY1BMMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6478845&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Huawei Watch GT 2e, 46mm, Lava Red",
+            "old_price": 769.97,
+            "price": 769.97,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivomove-hr-black-sandstone-silicone-band-010-01850-03/pd/D774KCBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=41587663&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivomove HR, Black, Sandstone Silicone Band",
+            "old_price": 1139.26,
+            "price": 1139.26,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-fitbit-versa-2-nfc-petal-copper-rose-fb507rgpk/pd/D1PT06BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5943805&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Fitbit Versa 2, NFC, Petal/Copper Rose",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-bip-gri-186507/pd/D40P4HBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=53013180&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit Bip, Gri",
+            "old_price": 316.0,
+            "price": 316.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-2-42mm-gravel-beige-55024475/pd/DG0RY8BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6015960&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Huawei Watch GT 2, 42mm, Gravel Beige",
+            "old_price": 989.99,
+            "price": 989.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-honor-watch-magic-2-46-mm-black-zzb0002819/pd/D3F12WBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6238602&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Honor Watch Magic 2, 46 mm, Black",
+            "old_price": 874.35,
+            "price": 874.35,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-fitbit-versa-2-nfc-black-carbon-fb507bkbk/pd/DZPT06BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5943804&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Fitbit Versa 2, NFC, Black/Carbon",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-huawei-watch-gt-2e-46mm-mint-green-55032658/pd/D4Y1BMMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6478846&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Huawei Watch GT 2e, 46mm, Mint Green",
+            "old_price": 764.15,
+            "price": 764.15,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-44-mm-stainless-steel-gold-sm-r820nsdarom/pd/DB6H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5925404&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 44 mm, Stainless steel - Gold",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-rose-gold-sm-r500nzdarom/pd/DY14YZBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5458022&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Samsung Galaxy Watch Active, Rose Gold",
+            "old_price": 849.99,
+            "price": 849.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-forerunner-735xt-hr-black-grey-753759157784/pd/DJWHDJBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4610754&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Forerunner 735XT, HR, Black/Grey",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-44-mm-stainless-steel-silver-sm-r820nssarom/pd/DY6H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5925406&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 44 mm, Stainless steel - Silver",
+            "old_price": 1449.99,
+            "price": 1449.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-huawei-watch-gt-2-42mm-champagne-gold-55025350/pd/D232JMMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6509314&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Huawei Watch GT 2, 42mm, Champagne Gold",
+            "old_price": 1199.99,
+            "price": 1199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40-mm-wi-fi-aluminum-cloud-silver-sm-r830nzsarom/pd/D06H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=59693052&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40 mm, Wi-Fi, Aluminum \u2013 Cloud Silver",
+            "old_price": 1399.44,
+            "price": 1399.44,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-allview-black-hybrid-t/pd/DWD2CCBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5213871&X-Search-Page=1&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Allview Hybrid T, Black",
+            "old_price": 439.0,
+            "price": 439.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40-mm-stainless-steel-black-sm-r830nskarom/pd/DT6H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5925411&X-Search-Page=1&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40 mm, Stainless steel - Black",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-fitbit-versa-2-nfc-stone-mist-grey-fb507gysr/pd/DQPT06BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5943806&X-Search-Page=1&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Fitbit Versa 2, NFC, Stone/Mist Grey",
+            "old_price": 949.99,
+            "price": 949.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivomove-hr-silver-sea-foam-silicone-band-010-01850-08/pd/D8SKJVBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=41587651&X-Search-Page=1&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivomove HR, Silver, Sea Foam Silicone Band",
+            "old_price": 1139.85,
+            "price": 1139.85,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivoactive-3-hr-gps-slate-silicone-black-010-01769-12/pd/D15830BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4003035&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivoactive 3, HR, GPS, Slate, Silicone Black",
+            "old_price": 1121.93,
+            "price": 1121.93,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivoactive-3-hr-gps-silver-silicone-black-010-01769-02/pd/DZ5830BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=4003034&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivoactive 3, HR, GPS, Silver, Silicone Black",
+            "old_price": 799.99,
+            "price": 799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-fenix-6x-pro-51-mm-black-010-02157-01/pd/DTHRD6BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5931699&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Garmin Fenix 6X Pro, 51 mm, Black",
+            "old_price": 3499.99,
+            "price": 3499.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-forerunner-45-black-010-02156-15/pd/D0ZKVQBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=56746946&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Forerunner 45, Black",
+            "old_price": 1189.99,
+            "price": 1189.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-forerunner-45-lava-red-010-02156-16/pd/DHZKVQBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=5707061&X-Search-Page=1&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Forerunner 45, Lava Red",
+            "old_price": 749.99,
+            "price": 749.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-si-bratara-inteligenta-2-in-1-dreamtime-full-color-oled-display-notificari-apeluri-sms-whatsapp-facebook-rezistenta-la-apa-ip68-monitorizare-puls-si-bataile-inimii-9-moduri-sport-inter/pd/DXZWKGBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=53538875&X-Search-Page=1&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch si Bratara Inteligenta 2 in 1 DreamTime Full Color OLED display,Notificari Apeluri/SMS/Whatsapp/Facebook, rezistenta la apa IP68, Monitorizare puls si bataile inimii, 9 Moduri Sport, Interfete multiple si diverse functii, Rose Gold",
+            "old_price": 239.0,
+            "price": 239.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-dark-green-55023721/pd/DC7X1ZBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=53640705&X-Search-Page=1&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Huawei Watch GT, Dark Green",
+            "old_price": 599.0,
+            "price": 599.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-2-42mm-matte-black-55025064/pd/DDSVYWBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=56569529&X-Search-Page=1&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Huawei Watch GT 2, 42mm, Matte Black",
+            "old_price": 899.0,
+            "price": 899.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-haylou-ls01-xiaomi-waterproof-ip68-android-ios-alb-pb0162s/pd/DLB6GBMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=57036232&X-Search-Page=1&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Haylou LS01, Xiaomi, Waterproof IP68, Android/iOS, Alb",
+            "old_price": 229.99,
+            "price": 229.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-kingwear-kw10-gold-rezistent-la-apa-ip68-64kb-ram-512kb-rom-display-1-04-inch-tft-cu-touch-screen-rezolutie-240-198-pixeli-capacitate-baterie-120mah-kw104705/pd/DZHYB5BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=46373827&X-Search-Page=1&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Kingwear KW10 Gold, rezistent la apa IP68, 64KB Ram + 512KB ROM, display 1.04 inch TFT cu touch screen, rezolutie 240 * 198 pixeli, capacitate baterie 120mAh",
+            "old_price": 261.0,
+            "price": 261.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-gts-desert-gold-pht14243/pd/DN43SYMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6711203&X-Search-Page=1&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit GTS, Desert Gold",
+            "old_price": 549.99,
+            "price": 549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-instinct-gps-black-010-02064-00/pd/DXBZ7WBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=6243062&X-Search-Page=1&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Garmin Instinct, GPS, Black",
+            "old_price": 1099.99,
+            "price": 1099.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/smartwatch-si-bratara-fitness-smartvibe-full-metalic-notificari-apeluri-mesaje-facebook-1-3-full-oled-display-monitorizare-ritm-cardiac-si-tensiune-arteriala-waterproof-pedometru-photo-control-black-s/pd/DKGYZQBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=44813756&X-Search-Page=1&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "SmartWatch si Bratara Fitness SmartVIBE, FULL METALIC, NOTIFICARI Apeluri/Mesaje/Facebook, 1.3&quot; FULL OLED Display, Monitorizare Ritm Cardiac si Tensiune arteriala, Waterproof, Pedometru, Photo Control, Black Stainless Steel",
+            "old_price": 219.89,
+            "price": 219.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40-mm-wi-fi-aluminum-pink-gold-sm-r830nzdarom/pd/DN6H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=55776653&X-Search-Page=1&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40 mm, Wi-Fi, Aluminum \u2013 Pink Gold",
+            "old_price": 2023.0,
+            "price": 2023.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-huawei-watch-gt-orange-55023722/pd/DZ7X1ZBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=44492676&X-Search-Page=1&X-Search-Position=52&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Huawei Watch GT, Orange",
+            "old_price": 899.99,
+            "price": 899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-si-bratara-fitness-2-in-1-smartwibe8-notificari-apeluri-mesaje-monitorizare-ritm-cardiac-presiune-arteriala-antisedentarism-afisaj-meteo-curea-silicon-neagra-w8sn/pd/D10V68BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=53042397&X-Search-Page=1&X-Search-Position=53&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas SmartWatch si Bratara Fitness 2 in 1 SmartWIBE8, Notificari Apeluri/ Mesaje, Monitorizare ritm cardiac, Presiune arteriala, Antisedentarism, Afisaj Meteo, Curea Silicon Neagra",
+            "old_price": 149.89,
+            "price": 149.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-si-bratara-fitness-2-in-1-smarttime-80-1-3-oled-display-notificari-retele-sociale-monitorizare-ritm-cardiac-tensiune-arteriala-pedometru-photo-control-curea-metalica-silver-curea-silic/pd/D7WDG8BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=53124566&X-Search-Page=1&X-Search-Position=55&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas SmartWatch si Bratara Fitness 2 in 1 SmartTime 80, 1.3&quot; OLED Display, Notificari retele sociale, Monitorizare Ritm Cardiac, Tensiune arteriala, Pedometru, Photo Control, Curea Metalica Silver + Curea Silicon Neagra Bonus",
+            "old_price": 198.99,
+            "price": 198.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40-mm-stainless-steel-gold-sm-r830nsdarom/pd/DD6H26BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=55436220&X-Search-Page=1&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40 mm, Stainless steel - Gold",
+            "old_price": 1594.6,
+            "price": 1594.6,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-silver-sm-r500nzsaxeo/pd/D214YZBBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=55776877&X-Search-Page=1&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Samsung Galaxy Watch Active, Silver",
+            "old_price": 1309.0,
+            "price": 1309.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-gts-obsidian-black-pht14242/pd/D07DSYMBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=55286575&X-Search-Page=1&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit GTS, Obsidian Black",
+            "old_price": 613.99,
+            "price": 613.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:22",
+            "link": "https://www.emag.ro/ceas-smartwatch-si-bratara-fitness-max-v11-notificari-apeluri-mesaje-facebook-1-3-full-oled-display-monitorizare-ritm-cardiac-si-tensiune-arteriala-multi-sport-mode-waterproof-player-muzica-pedometru-/pd/D77D74BBM/?X-Search-Id=981603dc6bdc3c8657d3&X-Product-Id=37349298&X-Search-Page=1&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas SmartWatch si Bratara Fitness MAX V11, NOTIFICARI Apeluri/Mesaje/Facebook,1.3&quot; FULL OLED Display, Monitorizare Ritm Cardiac si Tensiune arteriala, Multi-Sport Mode, Waterproof, Player Muzica, Pedometru, SYNC, Curea Silicon ,Black Edition",
+            "old_price": 249.0,
+            "price": 249.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40mm-4g-stainless-black-sm-r835fskarom/pd/D6T5CBMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6696587&X-Search-Page=2&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40mm, 4G, Stainless Black",
+            "old_price": 1679.99,
+            "price": 1679.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/smartwatch-honor-watch-magic-2-46-mm-steel-zzb0002820/pd/D2F12WBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6238603&X-Search-Page=2&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Honor Watch Magic 2, 46 mm, Steel",
+            "old_price": 873.04,
+            "price": 873.04,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-imkr-496z-camera-3-mpx-apelare-bt-lcd-capacitiv-1-54-antizgarieturi-slot-card-aluminium-black-edition-3-ani-garantie-imk-496/pd/DF02PKBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=23821449&X-Search-Page=2&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon iMK\u00ae 496Z, Camera 3 Mpx, Apelare BT, LCD Capacitiv 1.54&quot; Antizgarieturi, Slot Card, Aluminium Black Edition, 3 ani Garantie",
+            "old_price": 69.02,
+            "price": 69.02,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-gtimetm-v8-cartela-sim-camera-touchscreen-handsfree-apelare-bt-facebook-whatsapp-pedometru-digital-slot-card-compatibil-android-si-ios-aluminium-gold-tg08g/pd/DJF8JSBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=35351621&X-Search-Page=2&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon GTime\u2122 v8, Cartela Sim, Camera, Touchscreen, Handsfree, Apelare BT, Facebook, WhatsApp, Pedometru, Digital, Slot Card, Compatibil Android si iOS, Aluminium Gold",
+            "old_price": 59.89,
+            "price": 59.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40-mm-wi-fi-aluminum-aqua-black-sm-r830nzkarom/pd/DH6H26BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=53969450&X-Search-Page=2&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40 mm, Wi-Fi, Aluminum \u2013 Aqua Black",
+            "old_price": 1349.99,
+            "price": 1349.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-bip-negru-186505/pd/DF0P4HBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=38901942&X-Search-Page=2&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit Bip, Negru",
+            "old_price": 357.99,
+            "price": 357.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-fenix-5-plus-hr-gps-silver-silicone-black-010-01988-11/pd/DXVB8JBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=4704332&X-Search-Page=2&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Fenix 5 Plus, HR, GPS, Silver, Silicone Black",
+            "old_price": 2199.99,
+            "price": 2199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-44-mm-wi-fi-aluminum-aqua-black-sm-r820nzkarom/pd/D26H26BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=50918719&X-Search-Page=2&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 44 mm, Wi-Fi, Aluminum \u2013 Aqua Black",
+            "old_price": 1199.99,
+            "price": 1199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-gps-copii-morefittm-mx600-functie-telefon-monitorizare-gps-localizare-camera-foto-monitorizare-spion-touchscreen-lanterna-buton-sos-perimetru-siguranta-roz-sim-prepay-cadou-mx600q6pink/pd/D4Z911BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=43629428&X-Search-Page=2&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch GPS copii MoreFIT\u2122 MX600, functie telefon, monitorizare GPS, localizare camera foto, monitorizare spion, touchscreen, lanterna, buton SOS, perimetru siguranta , roz + SIM prepay cadou",
+            "old_price": 188.97,
+            "price": 188.97,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-t-rex-rock-black-pht14255/pd/DL43SYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=57630671&X-Search-Page=2&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit T-Rex, Rock Black",
+            "old_price": 768.0,
+            "price": 768.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-44-mm-wi-fi-aluminum-pink-gold-sm-r820nzdarom/pd/D36H26BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=50179103&X-Search-Page=2&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 44 mm, Wi-Fi, Aluminum \u2013 Pink Gold",
+            "old_price": 1248.99,
+            "price": 1248.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/smartwatch-si-bratara-fitness-smartvibe-full-metalic-notificari-apeluri-mesaje-facebook-1-3-full-oled-display-monitorizare-ritm-cardiac-si-tensiune-arteriala-waterproof-pedometru-photo-control-champag/pd/DKLMZ9BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=31220600&X-Search-Page=2&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "SmartWatch si Bratara Fitness SmartVIBE, FULL METALIC, NOTIFICARI Apeluri/Mesaje/Facebook, 1.3&quot; FULL OLED Display, Monitorizare Ritm Cardiac si Tensiune arteriala, Waterproof, Pedometru, Photo Control, Champagne Stainless Steel",
+            "old_price": 219.89,
+            "price": 219.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-gps-copii-morefittm-mx528-cu-gps-prin-lbs-si-functie-telefon-localizare-camera-foto-laterala-monitorizare-spion-display-touchsreen-color-lanterna-buton-sos-buton-apel-lateral-roz-sim-p/pd/DSZ911BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=43629425&X-Search-Page=2&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch GPS copii MoreFIT\u2122 MX528, cu GPS prin lbs si functie telefon, localizare camera foto laterala, monitorizare spion, display touchsreen color, lanterna,\u00a0buton SOS,buton apel lateral, Roz\u00a0+SIM prepay cadou",
+            "old_price": 108.99,
+            "price": 108.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-gps-copii-morefittm-mx190-cu-gps-prin-lbs-si-functie-telefon-localizare-camera-foto-frontala-monitorizare-spion-display-touchsreen-color-lanterna-buton-sos-buton-apel-si-sos-lateral-ve/pd/DCZSMWBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=54420774&X-Search-Page=2&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch GPS copii MoreFIT\u2122 MX190, cu GPS prin lbs si functie telefon, localizare camera foto frontala, monitorizare spion, display touchsreen color, lanterna,\u00a0buton SOS,buton apel si sos lateral, Verde",
+            "old_price": 99.0,
+            "price": 99.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-fenix-6-pro-47-mm-black-010-02158-02/pd/DKHRD6BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=5931700&X-Search-Page=2&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Garmin Fenix 6 Pro, 47 mm, Black",
+            "old_price": 3349.99,
+            "price": 3349.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-gts-rose-pink-pht14244/pd/D043SYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=56972250&X-Search-Page=2&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit GTS, Rose Pink",
+            "old_price": 876.69,
+            "price": 876.69,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-fitbit-ionic-hr-gps-burnt-orange-curea-slate-blue-fb503cpbu-eu/pd/DH3Y20BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=57479990&X-Search-Page=2&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Fitbit Ionic, HR, GPS, Burnt Orange, Curea Slate Blue",
+            "old_price": 1726.39,
+            "price": 1726.39,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-pentru-femei-smartwatch-kw10-monitor-de-tensiune-arteriala-monitor-de-ritm-cardiac-pedometru-ip67-android-argint-sb-122/pd/DZYH26BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=52887858&X-Search-Page=2&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas pentru femei Smartwatch KW10, monitor de tensiune arteriala, monitor de ritm cardiac, pedometru, IP67, android, argint",
+            "old_price": 319.0,
+            "price": 319.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-fitbit-versa-gri-fb505bkgy-eu/pd/D0Q1LFBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=4484199&X-Search-Page=2&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Fitbit Versa, Gri",
+            "old_price": 1048.73,
+            "price": 1048.73,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-t-rex-camo-green-pht14254/pd/DC43SYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6711214&X-Search-Page=2&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit T-Rex, Camo Green",
+            "old_price": 679.99,
+            "price": 679.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-imkr-dz09r-original-v3-new-smart-design-camera-bluetooth-notificari-facebook-whatsapp-agenda-negru-3-ani-garantie-imkdz09/pd/DQZ193BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=14473824&X-Search-Page=2&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon iMK\u00ae DZ09\u00ae Original V3, New Smart Design , Camera , Bluetooth, Notificari Facebook, WhatsApp, Agenda, Negru, 3 ani Garantie",
+            "old_price": 67.83,
+            "price": 67.83,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-bip-lite-black-uyg4019rt/pd/D0XZC8BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=48181573&X-Search-Page=2&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit BIP Lite, Black",
+            "old_price": 289.99,
+            "price": 289.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-forever-forevigo-rose-gold-sw-300/pd/DQYYXGBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=53744630&X-Search-Page=2&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Forever ForeVigo SW-300, rose-gold",
+            "old_price": 259.0,
+            "price": 259.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-fitness-smartic-i5-pro-roz-somon-000000454/pd/D0G4XYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=59089164&X-Search-Page=2&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Fitness Smartic I5 Pro, roz somon",
+            "old_price": 199.92,
+            "price": 199.92,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-imkr-496z-camera-3-mpx-apelare-bt-lcd-capacitiv-1-54-antizgarieturi-slot-card-aluminium-negru-mat-3-ani-garantie-nb001/pd/DLQVJCBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=39208821&X-Search-Page=2&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon iMK\u00ae 496Z, Camera 3 Mpx, Apelare BT, LCD Capacitiv 1.54&quot; Antizgarieturi, Slot Card, Aluminium, Negru Mat, 3 ani Garantie",
+            "old_price": 69.02,
+            "price": 69.02,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-si-bratara-fitness-2-in-1-smartwibe8-notificari-apeluri-mesaje-monitorizare-ritm-cardiac-presiune-arteriala-antisedentarism-afisaj-meteo-inchidere-magnetica-curea-metalica-argintiu-w8m/pd/DDWDG8BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=53124564&X-Search-Page=2&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas SmartWatch si Bratara Fitness 2 in 1 SmartWIBE8, Notificari Apeluri/ Mesaje, Monitorizare ritm cardiac, Presiune arteriala, Antisedentarism, Afisaj Meteo, Inchidere Magnetica, Curea metalica Argintiu",
+            "old_price": 149.89,
+            "price": 149.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-imkr-496z-camera-3-mpx-apelare-bt-lcd-capacitiv-1-54-antizgarieturi-slot-card-aluminium-silver-edition-imk496/pd/D2931ZBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=42540966&X-Search-Page=2&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon iMK\u00ae 496Z, Camera 3 Mpx, Apelare BT, LCD Capacitiv 1.54&quot; Antizgarieturi, Slot Card, Aluminium Silver Edition",
+            "old_price": 69.02,
+            "price": 69.02,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-gts-steel-blue-pht14246/pd/DP43SYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6711206&X-Search-Page=2&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit GTS, Steel Blue",
+            "old_price": 586.99,
+            "price": 586.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-gts-lava-grey-pht14245/pd/DH43SYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6711205&X-Search-Page=2&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit GTS, Lava Grey",
+            "old_price": 549.99,
+            "price": 549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-stratos-black-6970100371253/pd/DZ9Z0JBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=55964215&X-Search-Page=2&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit Stratos, Black",
+            "old_price": 649.0,
+            "price": 649.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/smartwatch-xiaomi-amazfit-verge-lite-grey-xmamazvglgy/pd/DXK506BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=59297962&X-Search-Page=2&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Smartwatch Xiaomi Amazfit Verge Lite, Grey",
+            "old_price": 599.0,
+            "price": 599.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-xiaomi-amazfit-bip-lite-blue-uyg4018rt/pd/DZ4ZC8BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=55650652&X-Search-Page=2&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Xiaomi Amazfit BIP Lite, Blue",
+            "old_price": 319.99,
+            "price": 319.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-40-mm-stainless-steel-silver-sm-r830nssarom/pd/DK6H26BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=54077056&X-Search-Page=2&X-Search-Position=39&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 40 mm, Stainless steel - Silver",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivoactive-4-black-010-02174-14/pd/DNGH06BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=5943950&X-Search-Page=2&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivoactive 4, Black",
+            "old_price": 1498.99,
+            "price": 1498.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-garmin-vivoactive-3-hr-gps-silver-silicone-white-010-01769-22/pd/DQ5830BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=4003036&X-Search-Page=2&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Garmin Vivoactive 3, HR, GPS, Silver, Silicone White",
+            "old_price": 799.99,
+            "price": 799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-h15-barbati-full-oled-display-monitorizare-ritm-cardiac-si-tensiune-arteriala-waterproof-pedometru-anti-lost-android-negru-10/pd/DVHZZWBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=55460487&X-Search-Page=2&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch H15, barbati, FULL OLED display, monitorizare ritm cardiac si tensiune arteriala, waterproof, pedometru, anti lost, android, negru",
+            "old_price": 479.7,
+            "price": 479.7,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/smartwatch-si-bratara-fitness-smartvibe-full-metalic-notificari-apeluri-mesaje-facebook-1-3-full-oled-display-monitorizare-ritm-cardiac-si-tensiune-arteriala-waterproof-pedometru-photo-control-silver-/pd/DHGYZQBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=44813755&X-Search-Page=2&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "SmartWatch si Bratara Fitness SmartVIBE, FULL METALIC, NOTIFICARI Apeluri/Mesaje/Facebook, 1.3&quot; FULL OLED Display, Monitorizare Ritm Cardiac si Tensiune arteriala, Waterproof, Pedometru, Photo Control, Silver Stainless Steel",
+            "old_price": 219.89,
+            "price": 219.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-gtechtm-8-cartela-sim-camera-apelare-bt-facebook-whatsapp-pedometru-antizgarieturi-slot-card-aluminium-silver-cadou-suport-telefon-gt08/pd/DCS0KLBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=53054034&X-Search-Page=2&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon GTech\u2122 8, Cartela Sim, Camera, Apelare BT, Facebook, WhatsApp, Pedometru, Antizgarieturi, Slot Card, Aluminium Silver + CADOU Suport Telefon",
+            "old_price": 70.21,
+            "price": 70.21,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch-active-2-44mm-4g-stainless-gold-sm-r825fsdarom/pd/DL4FFYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6696609&X-Search-Page=2&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch Samsung Galaxy Watch Active 2, 44mm, 4G, Stainless Gold",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-amazfit-gts-vermillion-orange-pht14247/pd/DX43SYMBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=6711207&X-Search-Page=2&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Amazfit GTS, Vermillion Orange",
+            "old_price": 549.99,
+            "price": 549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-kinder-i-touchscreen-hd-functie-telefon-cu-cartela-sim-notificari-microsd-apelare-bt-antizgarieturi-curea-rezistenta-din-silicon-roz-a100k-pink/pd/D9XY99BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=30870672&X-Search-Page=2&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch KINDER I, Touchscreen HD, Functie telefon cu cartela SIM, Notificari, MicroSD, Apelare BT, Antizgarieturi, Curea rezistenta din silicon, Roz",
+            "old_price": 119.0,
+            "price": 119.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/smartwatch-si-bratara-fitness-max-v11-notificari-1-3-full-oled-display-monitorizare-ritm-cardiac-si-tensiune-arteriala-waterproof-player-muzica-pedometru-sync-curea-silicon-purple-edition-fmax1/pd/DNSRVLBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=40965123&X-Search-Page=2&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "SmartWatch si Bratara Fitness MAX V11, NOTIFICARI, 1.3&quot; FULL OLED Display, Monitorizare Ritm Cardiac si Tensiune arteriala, Waterproof , Player Muzica, Pedometru, SYNC, Curea Silicon, Purple Edition",
+            "old_price": 247.52,
+            "price": 247.52,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-pentru-femei-smartwatch-h2-pedometru-monitor-de-ritm-cardiac-ciclul-de-aur-10/pd/DCBQ5RBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=57126259&X-Search-Page=2&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas pentru femei Smartwatch H2 Pedometru Monitor de ritm cardiac Ciclul de aur",
+            "old_price": 250.0,
+            "price": 250.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-imkr-496z-camera-3-mpx-apelare-bt-lcd-capacitiv-1-54-antizgarieturi-slot-card-aluminium-gold-edition-3-ani-garantie-ai261/pd/D95CBZBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=41430771&X-Search-Page=2&X-Search-Position=52&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon iMK\u00ae 496Z, Camera 3 Mpx, Apelare BT, LCD Capacitiv 1.54&quot; Antizgarieturi, Slot Card, Aluminium, Gold Edition, 3 ani Garantie",
+            "old_price": 77.35,
+            "price": 77.35,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-cu-telefon-imkr-496z-camera-3-mpx-apelare-bt-lcd-capacitiv-1-54-aluminium-3-ani-garantie-silver-edition-ai260/pd/DX5CBZBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=41430780&X-Search-Page=2&X-Search-Position=54&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch cu Telefon iMK\u00ae 496Z, Camera 3 Mpx, Apelare BT, LCD Capacitiv 1.54&quot;, Aluminium, 3 ani Garantie, Silver Edition,",
+            "old_price": 69.02,
+            "price": 69.02,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-si-bratara-fitness-2-in-1-smarttime-80-1-3-oled-display-notificari-retele-sociale-monitorizare-ritm-cardiac-tensiune-arteriala-pedometru-photo-control-curea-metalica-neagra-curea-silic/pd/DNWDG8BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=53124570&X-Search-Page=2&X-Search-Position=55&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas SmartWatch si Bratara Fitness 2 in 1 SmartTime 80, 1.3&quot; OLED Display, Notificari retele sociale, Monitorizare Ritm Cardiac, Tensiune arteriala, Pedometru, Photo Control, Curea Metalica Neagra + Curea Silicon Neagra",
+            "old_price": 209.0,
+            "price": 209.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-allview-black-allwatch-v/pd/DV9KPSBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=44840096&X-Search-Page=2&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas smartwatch Allview Allwatch V, Black",
+            "old_price": 199.0,
+            "price": 199.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-iuni-u8-bluetooth-activity-sleep-monitor-black-1316iuni/pd/DQ26CMBBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=15248680&X-Search-Page=2&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch iUni U8+, Bluetooth, Activity &amp; Sleep Monitor, Black",
+            "old_price": 54.0,
+            "price": 54.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-iuni-u8-bluetooth-activity-sleep-monitor-red-1354iuni/pd/DHPWG3BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=15186781&X-Search-Page=2&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch iUni U8+, Bluetooth, Activity &amp; Sleep Monitor, Red",
+            "old_price": 54.0,
+            "price": 54.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-07-06 14:25:25",
+            "link": "https://www.emag.ro/ceas-smartwatch-iuni-u8-bluetooth-activity-sleep-monitor-white-1355iuni/pd/D7M2B7BBM/?X-Search-Id=d928e46a0bc2aa41c731&X-Product-Id=15248681&X-Search-Page=2&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Ceas Smartwatch iUni U8+, Bluetooth, Activity &amp; Sleep Monitor, White",
+            "old_price": 54.0,
+            "price": 54.0,
+            "retailer": "emag"
+        }
+    ]
+}

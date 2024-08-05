@@ -1,0 +1,644 @@
+{
+    "products": [
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-ac1200-gigabit-dual-band-negru-archer-c6/pd/D0CSFCBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5186488&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer C6, AC1200, Gigabit, Dual-Band, Negru",
+            "old_price": 139.99,
+            "price": 139.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-ac1900-full-gigabit-dual-band-mu-mimo-wi-fi-wave2-archer-c80/pd/D7RDLWBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6347912&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer C80, AC1900, Full Gigabit, Dual Band, MU-MIMO, Wi-Fi Wave2",
+            "old_price": 249.99,
+            "price": 249.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n-300mbps-tp-link-tl-wr841n/pd/E75V7BBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=167064&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N 300Mbps TP-LINK TL-WR841N",
+            "old_price": 64.99,
+            "price": 64.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n150-tp-link-3g-4g-portabil-tl-mr3020/pd/EC23TBBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=211564&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N150 TP-Link TL-MR3020, 3G/4G, Portabil",
+            "old_price": 97.1,
+            "price": 97.1,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-gigabit-dual-band-2300mbps-usb-negru-archer-c2300/pd/DCLH4NBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=3831978&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wireless TP-LINK Archer C2300 Gigabit, Dual Band, 2300Mbps, USB, Negru",
+            "old_price": 379.99,
+            "price": 379.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac1750-tp-link-archer-c7-gigabit-dual-band-usb-archer-c7/pd/DG2WXBBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=315548&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC1750 TP-Link Archer C7, Gigabit, Dual Band, USB",
+            "old_price": 328.99,
+            "price": 328.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wi-fi-3g-4g-tp-link-sim-microsd-portabil-dual-band-2000mah-m7300/pd/D3WWW3BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=56773663&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wi-Fi 3G/4G TP-Link M7300, SIM+microSD, Portabil, Dual Band, 2000mAh",
+            "old_price": 891.31,
+            "price": 891.31,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wi-fi-3g-4g-tp-link-sim-microsd-portabil-display-2000mah-m7350/pd/DXL63MBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=541383&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wi-Fi 3G/4G TP-Link M7350, SIM+microSD, Portabil, Display, 2000mAh",
+            "old_price": 391.17,
+            "price": 391.17,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n300-tp-link-mr6400-3g-4g-sim-internet-backup-tl-mr6400/pd/D4T0Z3BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=1070242&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N300 TP-Link MR6400, 3G/4G, SIM, Internet backup",
+            "old_price": 379.99,
+            "price": 379.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-m4-2-pack-ac1200-gigabit-cu-acoperire-completa-pentru-casa-deco-m4-2-pack/pd/D6R5WCBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5330722&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco M4 (2-pack) AC1200 Gigabit cu acoperire completa pentru casa",
+            "old_price": 484.99,
+            "price": 484.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n300-tp-link-3g-4g-internet-backup-tl-mr3420/pd/E35V7BBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=167062&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N300 TP-Link TL-MR3420, 3G/4G, Internet backup",
+            "old_price": 123.24,
+            "price": 123.24,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n450-tp-link-tl-wr940n/pd/EY5V7BBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=167061&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N450 TP-Link TL-WR940N",
+            "old_price": 93.97,
+            "price": 93.97,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-m5-2-pack-ac1300-gigabit-cu-acoperire-completa-pentru-casa-deco-m5-2-pack/pd/DLVWM4BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=4991156&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco M5 (2-pack) AC1300 Gigabit cu acoperire completa pentru casa",
+            "old_price": 699.99,
+            "price": 699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-e3-2-pack-ac1200-cu-acoperire-completa-pentru-casa-deco-e3-2-pack/pd/DQ8V78BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6025366&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco E3 (2-pack) AC1200 cu acoperire completa pentru casa",
+            "old_price": 279.99,
+            "price": 279.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-v4-0-ac1200-wireless-dual-band-gigabit-usb-port-archer-c5/pd/DBB3BMBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=16744407&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-LINK Archer C5 V4.0 AC1200 Wireless Dual Band, Gigabit, USB port",
+            "old_price": 149.99,
+            "price": 149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-dual-band-wifi-6-gigabit-archer-ax10/pd/DJN4JBMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=57766305&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer AX10, Dual-band, WiFi 6, Gigabit",
+            "old_price": 339.0,
+            "price": 339.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-e4-3-pack-ac1200-cu-acoperire-completa-pentru-casa-deco-e4-3-pack/pd/DY3RT5BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5831548&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco E4 (3-pack) AC1200 cu acoperire completa pentru casa",
+            "old_price": 439.99,
+            "price": 439.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-802-11ax-wi-fi-6-dual-band-negru-archer-ax6000/pd/DMTH66BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5991221&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer AX6000, 802.11ax, Wi-Fi 6, Dual-Band, Negru",
+            "old_price": 1399.99,
+            "price": 1399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-gaming-tp-link-mu-mimo-tri-band-archer-c5400x/pd/DLGRV1BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5618536&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Gaming TP-Link Archer C5400X, MU-MIMO, Tri-Band",
+            "old_price": 1549.99,
+            "price": 1549.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac1350-tp-link-dual-band-mu-mimo-archer-c60/pd/DGSC12BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=1254437&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC1350 TP-Link Archer C60, Dual Band, MU-MIMO",
+            "old_price": 164.0,
+            "price": 164.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-archer-a6-ac1200-gigabit-dual-band-negru-archera6/pd/DH46XMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=57583115&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer A6, AC1200, Gigabit, Dual-Band, Negru",
+            "old_price": 179.0,
+            "price": 179.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-e4-2-pack-ac1200-cu-acoperire-completa-pentru-casa-deco-e4-2-pack/pd/DZX7S1BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5613343&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco E4 (2-pack) AC1200 cu acoperire completa pentru casa",
+            "old_price": 314.21,
+            "price": 314.21,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac750-tp-link-dual-band-archer-c20/pd/DJ9GDYBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=891564&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC750 TP-Link Archer C20, Dual Band",
+            "old_price": 104.0,
+            "price": 104.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac1200-tp-link-dual-band-archer-c50/pd/DH3T0YBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=16453217&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC1200 TP-Link Archer C50, Dual Band",
+            "old_price": 139.99,
+            "price": 139.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac1200-tp-link-gigabit-dual-band-usb-archer-c1200/pd/D5SC12BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=17390533&X-Search-Page=1&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC1200 TP-Link Archer C1200, Gigabit, Dual Band, USB",
+            "old_price": 251.95,
+            "price": 251.95,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-mesh-tp-link-deco-x60-3-pack-wi-fi-6-dual-band-gigabit-ax3000-cu-acoperire-completa-pentru-casa-seamless-roaming-self-healing-adaptive-path-antivirus-control-parental-si-control-vocal-deco-x60-/pd/D91QQMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6555213&X-Search-Page=1&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Mesh TP-Link Deco X60 (3-pack) Wi-Fi 6 Dual-Band Gigabit AX3000, cu acoperire completa pentru casa, Seamless Roaming, Self-Healing, Adaptive Path, Antivirus, Control Parental \u0219i Control Vocal",
+            "old_price": 2299.99,
+            "price": 2299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-mesh-wireless-tp-link-ac1200-gigabit-deco-m3-2-pack/pd/D5QYSMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6516481&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Mesh Wireless TP-LINK Deco M3(2-Pack) AC1200 Gigabit",
+            "old_price": 339.99,
+            "price": 339.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-archer-a9-gigabit-ac1900-usb-2-0-dual-band-negru-archera9/pd/DCQ6XMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=57583280&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wireless TP-Link Archer A9 Gigabit AC1900, USB 2.0, Dual-Band, Negru",
+            "old_price": 357.0,
+            "price": 357.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-archer-a7-ac1750-gigabit-dual-band-negru-137720/pd/DC14KGBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=58792784&X-Search-Page=1&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer A7, AC1750, Gigabit, Dual-Band, Negru",
+            "old_price": 272.51,
+            "price": 272.51,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ax11000-tp-link-archer-next-gen-tri-band-gaming-router-archer-ax11000/pd/DMJMQGBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6178636&X-Search-Page=1&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AX11000 TP-Link Archer Next-Gen Tri-Band Gaming Router",
+            "old_price": 1899.99,
+            "price": 1899.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-m9-plus-3-pack-ac2200-smart-cu-acoperire-completa-pentru-casa-deco-m9-plus-3-pack/pd/DQR5WCBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5330718&X-Search-Page=1&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco M9 Plus (3-pack) AC2200 Smart cu acoperire completa pentru casa",
+            "old_price": 1799.99,
+            "price": 1799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-p9-3-pack-ac1200-av1000-cu-acoperire-completa-pentru-casa-deco-p9-3pack/pd/DPWZCGBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6166252&X-Search-Page=1&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco P9 (3-pack) AC1200 + AV1000 cu acoperire completa pentru casa",
+            "old_price": 949.99,
+            "price": 949.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac750-tp-link-3g-4g-sim-dual-band-archer-mr200/pd/D3M9ZYBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=33598918&X-Search-Page=1&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC750 TP-Link Archer MR200, 3G/4G, SIM Dual Band",
+            "old_price": 555.84,
+            "price": 555.84,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-multi-mode-300-mbps-tl-wr844n/pd/D5Z13YMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6608377&X-Search-Page=1&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link TL-WR844N Multi-Mode 300 Mbps",
+            "old_price": 54.99,
+            "price": 54.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-mesh-wireless-tp-link-ac1200-gigabit-deco-m4-1-pack/pd/DRQYSMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6516480&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Mesh Wireless TP-LINK Deco M4(1-pack) AC1200 Gigabit",
+            "old_price": 309.99,
+            "price": 309.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-wi-fi-tri-band-mu-mimo-archer-c4000/pd/DGBYH4BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5058674&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer C4000, Wi-Fi Tri-Band, MU-MIMO",
+            "old_price": 1149.99,
+            "price": 1149.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-4g-lte-sim-m7650/pd/DKQSGJBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=4710230&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link M7650, 4G LTE, SIM",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-m5-3-pack-ac1300-gigabit-cu-acoperire-completa-pentru-casa-deco-m5-3-pack/pd/DB2RXNBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=43046464&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco M5 (3-pack) AC1300 Gigabit cu acoperire completa pentru casa",
+            "old_price": 999.99,
+            "price": 999.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-mesh-wireless-tp-link-ac1200-gigabit-deco-p9-2-pack/pd/DQQYSMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6516479&X-Search-Page=1&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Mesh Wireless TP-LINK Deco P9(2-pack) AC1200 Gigabit",
+            "old_price": 799.99,
+            "price": 799.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/nano-router-wireless-n300-tp-link-moduri-router-ap-wisp-tl-wr802n/pd/D8G2TYBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=58434246&X-Search-Page=1&X-Search-Position=39&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Nano router wireless N300 TP-Link TL-WR802N, Moduri Router/AP/WISP",
+            "old_price": 109.99,
+            "price": 109.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-m9-plus-2-pack-ac2200-smart-cu-acoperire-completa-pentru-casa-deco-m9-plus-2-pack/pd/DRR5WCBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=5330719&X-Search-Page=1&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco M9 Plus (2-pack) AC2200 Smart cu acoperire completa pentru casa",
+            "old_price": 1299.99,
+            "price": 1299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-ac1200-cu-acoperire-completa-pentru-casa-deco-s4-3-pack/pd/DJ1QQMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=58586004&X-Search-Page=1&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco S4(3-Pack) AC1200, cu acoperire completa pentru casa",
+            "old_price": 946.74,
+            "price": 946.74,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n300-tp-link-tl-wr840n/pd/DB7WXBBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=12976907&X-Search-Page=1&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N300 TP-Link TL-WR840N",
+            "old_price": 77.84,
+            "price": 77.84,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-n-450mpbs-tp-link-tl-wr940n/pd/DM3SBDBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=24374103&X-Search-Page=1&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless N 450Mpbs TP-LINK TL-WR940N",
+            "old_price": 109.67,
+            "price": 109.67,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-portabil-tp-link-dual-band-300mbps-4g-lte-m7450/pd/DCN4JBMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=6436615&X-Search-Page=1&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router portabil TP-Link M7450, Dual-Band, 300Mbps, 4G LTE",
+            "old_price": 829.99,
+            "price": 829.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/tp-link-router-de-calatorie-wireless-alb-tl-wr902ac/pd/D5YF4KBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=55840100&X-Search-Page=1&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "TP-LINK Router De Calatorie Wireless Alb TL-WR902AC",
+            "old_price": 170.99,
+            "price": 170.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-tp-link-archer-mr400-ac1200-wireless-dual-band-4g-lte-archer-mr400/pd/DHQSGJBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=4710228&X-Search-Page=1&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router TP-Link Archer MR400 AC1200 Wireless Dual Band 4G LTE",
+            "old_price": 749.99,
+            "price": 749.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac5400-tp-link-mu-mimo-smart-connect-tri-band-gigabit-usb-archer-c5400/pd/DQSC12BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=17009863&X-Search-Page=1&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC5400 TP-Link Archer C5400, MU-MIMO, Smart Connect, Tri-Band, Gigabit, USB",
+            "old_price": 1450.26,
+            "price": 1450.26,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/access-point-tp-link-ac1200-wireless-mu-mimo-gigabit-indoor-outdoor-eap225-outdoor/pd/D4TWCSBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=53884021&X-Search-Page=1&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Access Point TP-Link AC1200 Wireless MU-MIMO Gigabit Indoor/Outdoor",
+            "old_price": 384.47,
+            "price": 384.47,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-tp-link-archer-mr400-4g-lte-ac1350-4-x-lan-1-x-sim-5831-kmtplrgsm000009-9200983/pd/DKKR4SBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=55840109&X-Search-Page=1&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Tp-link Archer Mr400 4g Lte Ac1350 4 x LAN, 1 x SIM",
+            "old_price": 686.99,
+            "price": 686.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-multi-wan-load-balance-tp-link-tl-r470t/pd/E22BTBBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=208665&X-Search-Page=1&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Multi WAN Load Balance TP-Link TL-R470T+",
+            "old_price": 172.02,
+            "price": 172.02,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-ac3150-tp-link-mu-mimo-gigabit-dual-band-usb-archer-c3150/pd/DRSC12BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=58219063&X-Search-Page=1&X-Search-Position=51&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC3150 TP-Link Archer C3150, MU-MIMO, Gigabit, Dual Band, USB",
+            "old_price": 1719.0,
+            "price": 1719.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-deco-m4-3-pack-ac1200-gigabit-cu-acoperire-completa-pentru-casa-deco-m4-3-pack/pd/DM3RT5BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=59382436&X-Search-Page=1&X-Search-Position=52&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi Mesh TP-Link Deco M4 (3-pack) AC1200 Gigabit cu acoperire completa pentru casa",
+            "old_price": 1199.0,
+            "price": 1199.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-150mbps-wr740n-m-7637/pd/DDDGJMMBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=57707320&X-Search-Page=1&X-Search-Position=53&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link 150Mbps WR740N",
+            "old_price": 146.0,
+            "price": 146.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-multi-wan-load-balance-tp-link-tl-r480t/pd/EM5V7BBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=167060&X-Search-Page=1&X-Search-Position=54&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Multi WAN Load Balance TP-Link TL-R480T+",
+            "old_price": 251.89,
+            "price": 251.89,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wi-fi-tp-link-deco-m5-ac1300-whole-home-mesh-mu-mimo-antivirus-decom5-1-pack/pd/DGDRZGBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=54072938&X-Search-Page=1&X-Search-Position=55&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem Wi-Fi TP-Link Deco M5 AC1300 whole home Mesh, MU-MIMO, Antivirus",
+            "old_price": 518.0,
+            "price": 518.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/sistem-wireless-mesh-ac1300-av600-tp-link-deco-p7-2-pack-deco-p7-2-pack/pd/D5R5WCBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=53479483&X-Search-Page=1&X-Search-Position=56&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Sistem wireless Mesh AC1300+AV600, TP-Link Deco P7, 2 pack",
+            "old_price": 1199.99,
+            "price": 1199.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-archer-a5-ac1200-dual-band-alb-137719/pd/DV14KGBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=53522636&X-Search-Page=1&X-Search-Position=57&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer A5, AC1200, Dual-Band, Alb",
+            "old_price": 139.99,
+            "price": 139.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-300mbps-tp-link-rout-wless-wr850n-tpl/pd/DRMXH5BBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=58785452&X-Search-Page=1&X-Search-Position=58&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless 300Mbps TP-Link",
+            "old_price": 163.26,
+            "price": 163.26,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:07",
+            "link": "https://www.emag.ro/router-wireless-tp-link-archer-vr600/pd/DZNDLSBBM/?X-Search-Id=995f7888ac4246451d1f&X-Product-Id=41383445&X-Search-Page=1&X-Search-Position=59&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wireless TP-Link Archer VR600",
+            "old_price": 642.75,
+            "price": 642.75,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-td-w8960n/pd/E9QR2BBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=41088797&X-Search-Page=2&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-LINK TD-W8960N",
+            "old_price": 489.85,
+            "price": 489.85,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-vpn-tp-link-2xwan-gigabit-tl-er6120/pd/ENDXKBBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=13077600&X-Search-Page=2&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router VPN TP-LINK TL-ER6120, 2xWAN Gigabit",
+            "old_price": 822.23,
+            "price": 822.23,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-vpn-tp-link-tl-r600-1xwan-gigabit-tl-r600vpn/pd/EXDXKBBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=251020&X-Search-Page=2&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router VPN TP-LINK TL-R600, 1xWAN Gigabit",
+            "old_price": 244.47,
+            "price": 244.47,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-tl-wr840n-300mbp-2-antene-interne-alb-tl-wr840n2xinternalantena/pd/D6Z168BBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=53049282&X-Search-Page=2&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link TL-WR840N 300Mbp, 2 antene interne, Alb",
+            "old_price": 106.98,
+            "price": 106.98,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-tp-link-4g-cat6-ac1200-wireless-dual-band-gigabit-archer-mr600/pd/DS04WMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57488523&X-Search-Page=2&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router TP-Link Archer MR600 4G+ Cat6 AC1200 Wireless Dual Band Gigabit",
+            "old_price": 834.44,
+            "price": 834.44,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-td-w8961nd/pd/EK2BTBBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=54972465&X-Search-Page=2&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-LINK TD-W8961ND",
+            "old_price": 149.65,
+            "price": 149.65,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-450mbps-3-antene-m-8189/pd/D2DGJMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57707319&X-Search-Page=2&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link 450Mbps 3 antene",
+            "old_price": 214.0,
+            "price": 214.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-n-tp-link-2-antene-viteza-300-mbps-functie-dmz-host-lhcelsma3565uy/pd/D11K6QBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=45040160&X-Search-Page=2&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wireless N , TP-LINK , 2 antene , viteza 300 Mbps , Functie DMZ host",
+            "old_price": 235.0,
+            "price": 235.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/access-point-tp-link-eap225-ac1350-dual-band-gigabit-posibilitate-de-montare-pe-tavan-133673/pd/DB6KJ5BBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=42640298&X-Search-Page=2&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Access Point TP-Link EAP225, AC1350, Dual Band, Gigabit, posibilitate de montare pe tavan",
+            "old_price": 509.99,
+            "price": 509.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-archer-c5-v4-0-ac1200-tp-link-wireless-dual-band-gigabit-usb-port-802-11ac-4-antene-frecventa-2-4-5ghz-alb-1998/pd/D6SSYMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57172734&X-Search-Page=2&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless Archer C5 V4.0 AC1200 TP-LINK Wireless Dual Band, Gigabit, USB port, 802.11ac, 4 Antene, Frecventa 2.4-5Ghz, Alb",
+            "old_price": 346.28,
+            "price": 346.28,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/switch-8-porturi-tp-link-m-10131/pd/DR2GJMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57707272&X-Search-Page=2&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Switch 8 porturi TP-Link",
+            "old_price": 94.0,
+            "price": 94.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-wr840n-300mbps-m-9520/pd/DYDGJMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57707317&X-Search-Page=2&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless, TP-Link WR840N, 300Mbps",
+            "old_price": 155.0,
+            "price": 155.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-150mbps-wr720n-2-porturi-m-8640/pd/D3DGJMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57707318&X-Search-Page=2&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link 150Mbps WR720N 2 porturi",
+            "old_price": 138.0,
+            "price": 138.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/access-point-tp-link-ac1750-wireless-dual-band-gigabit-ceiling-mount-eap245/pd/DXHM8SBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=41379375&X-Search-Page=2&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Access Point TP-Link AC1750 Wireless Dual Band Gigabit Ceiling Mount",
+            "old_price": 713.29,
+            "price": 713.29,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wi-fi-3g-4g-tp-link-slot-sim-portabil-2000mah-m7200/pd/D8RZHJBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=59510492&X-Search-Page=2&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Wi-Fi 3G/4G TP-Link M7200, slot SIM, Portabil, 2000mAh",
+            "old_price": 289.99,
+            "price": 289.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-multi-wan-load-balance-tp-link-gigabit-tl-er5120/pd/E72BTBBBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=44937214&X-Search-Page=2&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router Multi WAN Load Balance TP-Link TL-ER5120, Gigabit",
+            "old_price": 845.78,
+            "price": 845.78,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-vdsl-adsl-300mbps-td-w9970/pd/DJDLP9BBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=41383425&X-Search-Page=2&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-LINK TD-W9970, VDSL/ADSL, 300Mbps",
+            "old_price": 227.17,
+            "price": 227.17,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-dual-band-wifi-6-gigabit-archer-ax50/pd/DSN4JBMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57493298&X-Search-Page=2&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-Link Archer AX50, Dual-band, WiFi 6, Gigabit",
+            "old_price": 926.43,
+            "price": 926.43,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-tp-link-ac1200-300-867mbps-archer-vr400/pd/DGGKH9BBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=33707485&X-Search-Page=2&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless TP-LINK Archer VR400, AC1200, 300/867Mbps",
+            "old_price": 427.31,
+            "price": 427.31,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-25 21:13:10",
+            "link": "https://www.emag.ro/router-wireless-ac750-tp-link-dual-band-2015/pd/DHLVKMMBM/?X-Search-Id=12c919f0dfe2827c89d8&X-Product-Id=57394006&X-Search-Page=2&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Router wireless AC750 TP-Link, Dual Band",
+            "old_price": 222.52,
+            "price": 222.52,
+            "retailer": "emag"
+        }
+    ]
+}

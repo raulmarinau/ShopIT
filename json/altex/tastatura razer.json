@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-mecanica-razer-huntsman-elite-us-int-layout",
+            "name": "Tastatura gaming mecanica RAZER Huntsman Elite, US INT Layout",
+            "old_price": 999.9,
+            "price": 899.91,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-mecanica-razer-blackwidow-elite-green-switch-usb-layout-us-negru",
+            "name": "Tastatura Gaming mecanica RAZER BlackWidow Elite, Green Switch, USB, Layout US, negru",
+            "old_price": 729.9,
+            "price": 656.91,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-mecanica-razer-huntsman-opto-switch-usb-layout-us-int-negru",
+            "name": "Tastatura Gaming mecanica RAZER Huntsman, Opto Switch, USB, Layout US INT, negru",
+            "old_price": 699.9,
+            "price": 419.94,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-razer-cynosa-lite-usb-layout-us-negru",
+            "name": "Tastatura Gaming RAZER Cynosa Lite, USB, Layout US, negru",
+            "old_price": 249.9,
+            "price": 174.93,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-razer-cynosa-chroma-usb-layout-us-int-negru",
+            "name": "Tastatura Gaming RAZER Cynosa Chroma, USB, Layout US INT, negru",
+            "old_price": 399.9,
+            "price": 239.94,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/bundle-gaming-razer-tastatura-cynosa-lite-mouse-abyssus-lite-negru",
+            "name": "Bundle Gaming RAZER tastatura Cynosa Lite + mouse Abyssus Lite, negru",
+            "old_price": 299.9,
+            "price": 269.91,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-mecanica-razer-blackwidow-green-switch-usb-layout-us-model-2019-negru",
+            "name": "Tastatura Gaming mecanica RAZER BlackWidow, Green Switch, USB, Layout US, model 2019, negru",
+            "old_price": 549.9,
+            "price": 494.91,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 19:11:40",
+            "link": "https://altex.ro/tastatura-gaming-semi-mecanica-razer-ornata-chroma-mecha-membrane-switch-usb-layout-us-int-negru",
+            "name": "Tastatura Gaming semi-mecanica RAZER Ornata Chroma, Mecha-Membrane Switch, USB, Layout US INT, negru",
+            "old_price": 429.9,
+            "price": 386.91,
+            "retailer": "altex"
+        }
+    ]
+}

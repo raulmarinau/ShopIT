@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-cu-fir-asus-ut280-1000-dpi-rosu",
+            "name": "Mouse cu fir ASUS UT280, 1000 dpi, rosu",
+            "old_price": 44.99,
+            "price": 44.99,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-cu-fir-asus-ut280-1000-dpi-negru",
+            "name": "Mouse cu fir ASUS UT280, 1000 dpi, negru",
+            "old_price": 34.99,
+            "price": 29.74,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-gaming-asus-cerberus-2500-dpi-negru",
+            "name": "Mouse Gaming ASUS Cerberus, 2500 dpi, negru",
+            "old_price": 199.9,
+            "price": 63.97,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-wireless-asus-wt300-1600-dpi-alb-galben",
+            "name": "Mouse Wireless ASUS WT300, 1600 dpi, alb-galben",
+            "old_price": 69.99,
+            "price": 69.99,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-gaming-asus-cerberus-fortus-4000-dpi-negru",
+            "name": "Mouse Gaming ASUS Cerberus Fortus, 4000 dpi, negru",
+            "old_price": 199.9,
+            "price": 139.93,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-pad-gaming-asus-cerberus-mat-mini-negru-rosu",
+            "name": "Mouse Pad Gaming ASUS Cerberus Mat Mini, negru-rosu",
+            "old_price": 99.9,
+            "price": 29.97,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-wireless-asus-wt425-1600-dpi-alb",
+            "name": "Mouse Wireless ASUS WT425, 1600 dpi, alb",
+            "old_price": 79.99,
+            "price": 79.99,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-wireless-asus-wt425-1600-dpi-albastru",
+            "name": "Mouse Wireless ASUS WT425, 1600 dpi, albastru",
+            "old_price": 79.99,
+            "price": 79.99,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-wireless-asus-wt300-1600-dpi-alb-rosu",
+            "name": "Mouse Wireless ASUS WT300, 1600 dpi, alb-rosu",
+            "old_price": 69.99,
+            "price": 69.99,
+            "retailer": "altex"
+        },
+        {
+            "date_time": "2020-06-12 17:05:36",
+            "link": "https://altex.ro/mouse-gaming-wireless-asus-rog-gladius-ii-16000-dpi-negru",
+            "name": "Mouse Gaming Wireless ASUS ROG Gladius II, 16000 dpi, negru",
+            "old_price": 499.9,
+            "price": 349.93,
+            "retailer": "altex"
+        }
+    ]
+}

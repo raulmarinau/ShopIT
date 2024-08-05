@@ -1,0 +1,412 @@
+{
+    "products": [
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-cerberus-90yh00q1-baua00/pd/DJKFMGBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=53265077&X-Search-Page=1&X-Search-Position=0&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus Cerberus",
+            "old_price": 136.99,
+            "price": 136.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-asus-republic-of-gamers-gx860-buzzard-v2-laser-cu-fir-rezolutie-50-8200dpi-negru-90xb02c0-bmu020/pd/DSMQJ5BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=47757999&X-Search-Page=1&X-Search-Position=1&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Asus Republic Of Gamers Gx860 Buzzard V2, Laser, Cu Fir, Rezolutie 50-8200dpi, Negru",
+            "old_price": 167.99,
+            "price": 167.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-mu101c-usb-alb-90xb05rn-bmu010/pd/DNZ37RBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=5740600&X-Search-Page=1&X-Search-Position=2&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus MU101C, USB, Alb",
+            "old_price": 39.99,
+            "price": 39.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-tuf-m3-iluminare-rgb-negru-90mp01j0-b0ua00/pd/D8PWGBMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6476872&X-Search-Page=1&X-Search-Position=3&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS TUF M3, Iluminare RGB, Negru",
+            "old_price": 239.99,
+            "price": 239.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-asus-rog-chakram-negru-90mp01k0-bmua00/pd/DRPWGBMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6476873&X-Search-Page=1&X-Search-Position=4&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless ASUS ROG Chakram, Negru",
+            "old_price": 812.99,
+            "price": 812.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wt425-1600-dpi-usb-negru-90xb0280-bmu000/pd/D30W3MBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=53462785&X-Search-Page=1&X-Search-Position=5&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT425, 1600 dpi, USB, Negru",
+            "old_price": 66.64,
+            "price": 66.64,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wt425-1600-dpi-usb-albastru-90xb0280-bmu040/pd/D07BP7BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=40314258&X-Search-Page=1&X-Search-Position=6&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT425, 1600 dpi, USB, Albastru",
+            "old_price": 75.0,
+            "price": 75.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wt425-1600-dpi-usb-alb-90xb0280-bmu010/pd/D75M0YBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=53479601&X-Search-Page=1&X-Search-Position=7&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT425, 1600 dpi, USB, Alb",
+            "old_price": 59.99,
+            "price": 59.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-ut280-negru-90xb01en-bmu020/pd/D8BXR2BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=54668239&X-Search-Page=1&X-Search-Position=8&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus UT280, Negru",
+            "old_price": 23.8,
+            "price": 23.8,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-cerberus-gaming-black-90yh00q1-baua00/pd/DMZ8CYBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=41063608&X-Search-Page=1&X-Search-Position=9&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS Cerberus Gaming, Black",
+            "old_price": 161.97,
+            "price": 161.97,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wt465-wireless-usb-negru-90xb0090-bmu040/pd/DDJYMYBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=41063577&X-Search-Page=1&X-Search-Position=10&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT465, Wireless, USB, Negru",
+            "old_price": 96.65,
+            "price": 96.65,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-gladius-ii-origin-negru-90mp00r0-b0ua00/pd/DXW7FDBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=41063631&X-Search-Page=1&X-Search-Position=11&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Asus ROG Gladius II Origin, Negru",
+            "old_price": 659.63,
+            "price": 659.63,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-galdius-ii-origin-pnk-iluminare-rgb-roz-gri-90mp00u3-b0ua01/pd/DWPWGBMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6476878&X-Search-Page=1&X-Search-Position=12&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS ROG Galdius II Origin PNK, Iluminare RGB, Roz/Gri",
+            "old_price": 399.99,
+            "price": 399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wt465-wireless-usb-alb-90xb0090-bmu050/pd/DP7BP7BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=54886708&X-Search-Page=1&X-Search-Position=13&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT465, Wireless, USB, Alb",
+            "old_price": 95.0,
+            "price": 95.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-p507-rog-gladius-ii-core-negru-90mp01d0-b0ua00/pd/D4N1VGBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=51222799&X-Search-Page=1&X-Search-Position=14&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus P507 ROG Gladius II Core, Negru",
+            "old_price": 288.23,
+            "price": 288.23,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-pugio-90mp00l0-b0ua00/pd/DPX5HNBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=3783531&X-Search-Page=1&X-Search-Position=15&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus ROG Pugio",
+            "old_price": 399.99,
+            "price": 399.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wt425-1600-dpi-usb-rosu-90xb0280-bmu030/pd/DK7BP7BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=38593540&X-Search-Page=1&X-Search-Position=16&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT425, 1600 dpi, USB, Rosu",
+            "old_price": 59.99,
+            "price": 59.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-strix-impact-ii-ambidextru-aura-sync-negru-90mp01e0-b0ua00/pd/D1NP3YMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6605675&X-Search-Page=1&X-Search-Position=17&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS ROG Strix Impact II, ambidextru, Aura Sync, Negru",
+            "old_price": 264.99,
+            "price": 264.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-strix-impact-negru-90mp00p0-b0ua00/pd/DPYDFDBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=46501939&X-Search-Page=1&X-Search-Position=18&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus ROG Strix Impact, Negru",
+            "old_price": 299.99,
+            "price": 299.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-mw202-usb-wireless-blue-90xb066n-bmu000/pd/DT1ZTYMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=58749547&X-Search-Page=1&X-Search-Position=19&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Optic Asus MW202, USB Wireless, Blue",
+            "old_price": 139.99,
+            "price": 139.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-gladius-ii-origin-cablu-detasabil-aura-sync-roz-90mp00u3-b0ua00/pd/DMSP3YMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6605689&X-Search-Page=1&X-Search-Position=20&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS ROG Gladius II Origin, cablu detasabil, Aura Sync, Roz",
+            "old_price": 699.99,
+            "price": 699.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-strix-claw-dark-edition-usb-5000-dpi-negru-90yh00c2-baua00/pd/DQ93BYBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=17574489&X-Search-Page=1&X-Search-Position=21&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS Strix Claw Dark Edition, USB, 5000 DPI, Negru",
+            "old_price": 259.99,
+            "price": 259.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-cerberus-fortus-cerberus-fortus-blk-ubo-as/pd/D3LMWSBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=34113059&X-Search-Page=1&X-Search-Position=22&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Asus CERBERUS FORTUS",
+            "old_price": 231.96,
+            "price": 231.96,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/pachet-mouse-optic-asus-wt425-1600-dpi-usb-mouse-pad-gembird-black-cauciucat-90xb0280-bmu030/pd/DFJ606BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=48055898&X-Search-Page=1&X-Search-Position=23&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Pachet Mouse optic ASUS WT425, 1600 dpi, USB, + Mouse pad Gembird Black cauciucat",
+            "old_price": 96.0,
+            "price": 96.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-gladius-ii-black-90mp00z0-b0ua00/pd/DX14MWBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=54425257&X-Search-Page=1&X-Search-Position=24&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Asus ROG Gladius II Black",
+            "old_price": 635.0,
+            "price": 635.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-asus-rog-pugio-ii-2-4ghz-bluetooth-aura-sync-negru-90mp01l0-bmua00/pd/DLNP3YMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6605673&X-Search-Page=1&X-Search-Position=25&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless ASUS ROG Pugio II, 2.4Ghz, Bluetooth, Aura Sync, Negru",
+            "old_price": 559.99,
+            "price": 559.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-ut280-rosu-90xb01en-bmu070/pd/D1YXR2BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=53263598&X-Search-Page=1&X-Search-Position=26&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus UT280, Rosu",
+            "old_price": 26.49,
+            "price": 26.49,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/pachet-mouse-optic-asus-wt425-albastru-plus-mouse-pad-gembird-black-cauciucat-90xb0280-bmu040/pd/DDM7S6BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=48577811&X-Search-Page=1&X-Search-Position=27&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Pachet Mouse optic ASUS WT425, albastru, 90XB0280-BMU040, plus Mouse pad Gembird Black cauciucat",
+            "old_price": 98.0,
+            "price": 98.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-gladius-ii-wireless-90mp00z0-b0ua00/pd/DSDS7LBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=45356196&X-Search-Page=1&X-Search-Position=28&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Asus ROG GLADIUS II Wireless",
+            "old_price": 537.04,
+            "price": 537.04,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-gladius-ii-origin-negru-90mp00u1-b0ua00/pd/DSN1VGBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=58650493&X-Search-Page=1&X-Search-Position=29&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus ROG Gladius II Origin, Negru",
+            "old_price": 584.21,
+            "price": 584.21,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-mw202-usb-wireless-mud-grey-90xb066n-bmu010/pd/D199DYMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=58688532&X-Search-Page=1&X-Search-Position=30&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Optic Asus MW202, USB Wireless, Mud Grey",
+            "old_price": 139.99,
+            "price": 139.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-ut200-usb-negru-pl-568796-90-xb0l00mu00040/pd/DHP7HMBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=42704974&X-Search-Page=1&X-Search-Position=31&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS UT200, USB, Negru",
+            "old_price": 24.99,
+            "price": 24.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-cerberus-alb-90yh00w1-baua00/pd/DH9ZQ2BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=41575581&X-Search-Page=1&X-Search-Position=32&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming ASUS Cerberus, Alb",
+            "old_price": 138.23,
+            "price": 138.23,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-ut200-usb-gri-90-xb0l00mu00030/pd/D1PBKYBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=16805748&X-Search-Page=1&X-Search-Position=33&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus UT200, USB, Gri",
+            "old_price": 42.13,
+            "price": 42.13,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-pugio-rgb-7200-dpi-negru-rog-pugio/pd/DM5RTZBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=41748952&X-Search-Page=1&X-Search-Position=34&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming, ASUS ROG Pugio RGB 7200 DPI, negru",
+            "old_price": 400.73,
+            "price": 400.73,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-wireless-asus-wt300-alb-galben-90xb0450-bmu030/pd/D8830NBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=40466439&X-Search-Page=1&X-Search-Position=35&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse wireless Asus WT300, Alb/GAlben",
+            "old_price": 49.99,
+            "price": 49.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-strix-claw-gaming-5000-dpi-negru-90yh00c1-baua00/pd/DMPJYMBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=17574528&X-Search-Page=1&X-Search-Position=36&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS Strix Claw, Gaming, 5000 DPI, Negru",
+            "old_price": 259.99,
+            "price": 259.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-ut280-alb-90xb01en-bmu030/pd/D3MXR2BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=38413593&X-Search-Page=1&X-Search-Position=37&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus UT280, Alb",
+            "old_price": 32.44,
+            "price": 32.44,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-gx860-5600dpi-usb-negru-90xb02c0-bmu000/pd/DH5MK2BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=44836770&X-Search-Page=1&X-Search-Position=38&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming Asus ROG GX860, 5600DPI, USB, Negru",
+            "old_price": 219.0,
+            "price": 219.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-wireless-usb-alb-wt46/pd/D7XKGMMBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=58314787&X-Search-Page=1&X-Search-Position=39&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS WT46, Wireless, USB, Alb",
+            "old_price": 99.0,
+            "price": 99.0,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-cu-fir-retractabil-asus-ut300-1000-dpi-alb-usb-90xb0460-bmu020/pd/DJ8L1JBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=46732970&X-Search-Page=1&X-Search-Position=40&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse cu fir retractabil ASUS UT300, 1000 DPI, alb USB",
+            "old_price": 58.99,
+            "price": 58.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-strix-claw-usb-5000-dpi-negru-galben-strix-claw/pd/D4VJJDBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=27791053&X-Search-Page=1&X-Search-Position=41&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic ASUS Strix-Claw, USB, 5000 DPI, Negru/Galben",
+            "old_price": 259.99,
+            "price": 259.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-wireless-asus-p508-rog-strix-carry-negru-90mp01b0-b0ua00/pd/DCN1VGBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=6154248&X-Search-Page=1&X-Search-Position=42&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming wireless Asus P508 ROG Strix Carry, Negru",
+            "old_price": 449.99,
+            "price": 449.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-spatha-8200-dpi-negru-90mp00a1-b0ua00/pd/D3SVG3BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=27985130&X-Search-Page=1&X-Search-Position=43&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming ASUS ROG Spatha, 8200 dpi, Negru",
+            "old_price": 1109.99,
+            "price": 1109.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-mu101c-usb-negru-90xb05rn-bmu000/pd/DKZ37RBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=45558821&X-Search-Page=1&X-Search-Position=44&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus MU101C, USB, Negru",
+            "old_price": 141.13,
+            "price": 141.13,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-strix-evolve-optical-7200-dpi-usb-negru-5831-umasurpg0000013-8116784/pd/DCJ2YSBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=58796699&X-Search-Page=1&X-Search-Position=45&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Gaming, Asus Rog Strix Evolve Optical, 7200 DPI, USB, Negru",
+            "old_price": 576.13,
+            "price": 576.13,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-tuf-m5-90mp0140-b0ua00/pd/DKG2TVBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=41575590&X-Search-Page=1&X-Search-Position=46&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus TUF M5",
+            "old_price": 228.98,
+            "price": 228.98,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-gaming-asus-rog-strix-evolve-90mp00j0-b0ua00/pd/DXX5HNBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=3783532&X-Search-Page=1&X-Search-Position=47&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse gaming Asus ROG Strix Evolve",
+            "old_price": 338.99,
+            "price": 338.99,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-asus-cu-fir-optic-rog-sica-5000dpi-steel-gray-117g-usb-8233/pd/D7M1QVBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=44509566&X-Search-Page=1&X-Search-Position=48&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse Asus cu fir, optic, ROG SICA, 5000dpi, steel gray, 117g, USB",
+            "old_price": 263.1,
+            "price": 263.1,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-optic-asus-ut280-gri-90xb01en-bmu060/pd/DDMXR2BBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=53263600&X-Search-Page=1&X-Search-Position=49&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse optic Asus UT280, Gri",
+            "old_price": 26.49,
+            "price": 26.49,
+            "retailer": "emag"
+        },
+        {
+            "date_time": "2020-06-12 17:05:30",
+            "link": "https://www.emag.ro/mouse-asus-rog-gladius-gaming-usb-negru-au-p501-1a/pd/DWQDGBBBM/?X-Search-Id=f28be086a09a349e3643&X-Product-Id=483630&X-Search-Page=1&X-Search-Position=50&X-Section=search&X-MB=0&X-Search-Action=view",
+            "name": "Mouse ASUS ROG Gladius Gaming, USB, Negru",
+            "old_price": 349.99,
+            "price": 349.99,
+            "retailer": "emag"
+        }
+    ]
+}

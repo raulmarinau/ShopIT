@@ -1,0 +1,14 @@
+{% extends 'shopper/base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <div id='user_products'>
+        {% for hit in user_saved_products %}
+            <div class='card' style='margin-bottom:2em'>
+                <div class='card-body'>
+                    <h3>{{ hit.name }}</h3>
+                    <h3>Sold by <a href="{{ hit.link }}">{{ hit.retailer }}</a><a class="btn btn-primary float-right" href='{% url 'product_chart' %}?prod_name="{{hit.name}}"'>Price chart</a></h3>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock content %}
